@@ -1,0 +1,1516 @@
+0	 
+1	Prostredi 
+2	Zapne ci vypne zvuky prostredi
+3	CD hudba
+4	Zapne ci vypne CD hudbu
+5	%s
+6	Pokrocile
+7	Chyba
+8	Pripojeni ukonceno
+9	Pripojeni zahajeno
+10	Probiha pripojovani, prosim cekej.
+11	Pripojeno
+12	Probiha odpojovani.
+13	Pripojeni se zdarilo.
+14	Zvolene jmeno hrace je neplatne, prosim zadej platne jmeno.
+15	Pro pripojeni k jinemu pocitaci musis zadat nebo vybrat IP adresu.
+16	IPX/SPX
+17	Hry pro jednoho hrace
+18	Prepne do menu her jednoho hrace.
+19	Vytvorit hru
+20	Vytvori hru jednoho nebo vice hracu.
+21	TCP/IP
+22	Nebyl detekovan zadny sitovy protokol!
+23	Sitova hra
+24	Hra po lokalni siti nebo Internetu
+25	Musis zadat heslo nebo deaktivovat volbu hesla.
+26	Pro hostovani hry musis zadat jeji nazev.
+27	Nastaveni
+28	Prepne do menu nastaveni.
+29	Konec
+30	Ukonci hru a vrati te do skutecneho sveta.
+31	Nastaveni grafiky
+32	Nelze inicializovat sit. Pravdepodobne je spatny nebo chybejici winsock stack.
+33	Nastaveni videa
+34	Nelze inicializovat sit pro TCP/IP hru!
+35	Animace
+36	Zapne ci vypne animace.
+37	Grafika s vysokym rozlisenim
+38	Zapne vysoke graficke rozliseni (1024x768).
+39	Uroven detailu
+40	Nelze inicializovat sit pro IPX/SPX hru!
+41	Uroven grafickych detailu behem hry. Jejich snizenim dosahnes lepsiho vykonu.
+42	Minimalni
+43	Maximalni
+44	Nastaveni zvuku - Hlasitost = %d%%
+45	Musis zadat adresu proxy serveru nebo deaktivovat volbu proxy.
+46	Hlasitost efektu
+47	Nazev hry je prilis kratky. Zadej delsi nazev.
+48	Nastavi hlasitost zvukovych efektu.
+49	Hlasitost zvuku
+50	Zobrazi panel systemu Windows pro nastaveni hlasitosti zvuku.
+51	Test zvuku
+52	Test CD hudby
+53	Zpet
+54	Smazat tym
+55	Zrusit
+56	OK
+57	Nazev tymu
+58	Clenove tymu
+59	Musis zadat heslo, nebo deaktivovat volbu hesla.
+60	Povoleny pocet hracu je 2 az 16
+61	Minimalni
+62	Maximalni
+63	Jazykovy filtr
+64	Aktivuje filtr nevhodnych vyrazu.
+65	Vrati do hlavniho menu.
+66	Editor zbrani
+67	Nastavi parametry zbrani.
+68	Editor map
+69	Vytvori nove ci zmeni stavajici mapy.
+70	Moznosti hry
+71	Upravi ruzne herni volby.
+72	Moznosti systemu
+73	Zmeni ruzne systemove volby.
+74	Zpet
+75	Vrati te do predchoziho menu.
+76	Vytvorit novy tym
+77	Vytvori novy tym.
+78	Seznam existujicich tymu.
+79	Upravi parametry tymu.
+80	Upravit tym
+81	Smaze tym.
+82	Zobrazit statistiky tymu
+83	Nastaveni ovladani
+84	Nastaveni tymu
+85	Fanfara
+86	Zvukova sada
+87	Specialni zbran
+88	Prapor tymu
+89	Zadej nazev sveho tymu.
+90	Zadej jmeno sveho cerva.
+91	Vytvori nahodny nazev tymu. Dvojitym kliknutim vytvori nahodny nazev tymu.
+92	Vytvori nahodne jmeno cerva.
+93	Chatove spojeni bylo behem hry preruseno. Zkus se pripojit znovu.
+94	Zvoli ovladani clovekem nebo jednim z peti ruzne dovednych pocitacu.
+95	Nastavi zvukovou sadu, kterou bude tento tym pouzivat.
+96	Zvoli fanfaru, kterou bude tvuj tym pouzivat.
+97	Zvoli specialni zbran, kterou bude tvuj tym pouzivat.
+98	Smaze tento tym.
+99	Prave upravovane nastaveni
+100	Ano
+101	Ne
+102	Zrusit
+103	OK
+104	Nahrat
+105	Zvoli vlajku tveho tymu.
+106	Ulozit
+107	Uzivatelsky
+108	*** STANDARDNI ***
+109	Standardni
+110	Nahrobek
+111	Prehraje fanfaru, kterou bude tvuj tym pouzivat.
+112	Zvoli nahrobni kamen, ktery bude zustavat po tvych cervech.
+113	Smazat
+114	Smaze zvolene nastaveni.
+115	Nelze se pripojit k serveru. Zkus jiny server.
+116	K tomuto kanalu se nemuzes pripojit, nebot jsi jeste nedosahl pozadovane hodnosti.
+117	Tva hodnost je prilis vysoka pro pripojeni k teto hre.
+118	Tva hodnost je prilis nizka pro pripojeni k teto hre.
+119	se pripojil k tomuto kanalu.
+120	se odpojil od tohoto kanalu.
+121	Pro prihlaseni musis zadat heslo.
+122	Pro prihlaseni musis zadat uzivatelske jmeno.
+123	Neznamy
+124	Chyba ve spojeni. Pricinou muze byt firewall. Kontaktuj sveho spravce site.
+125	Doslo k chybe serveru. Probiha odpojeni od serveru.
+126	Zadal jsi nespravne uzivatelske jmeno/heslo. Spojeni se serverem bude nyni ukonceno.
+127	Nyni jsi oznacen jako 'mimo pocitac'.
+128	Zprava o tve nepritomnosti byla odstranena.
+129	je pryc ** 
+130	Zadal jsi neznamy prikaz. Napis /help pro seznam platnych prikazu.
+131	Seznam dostupnych prikazu.\n\n/msg <uziv.jmeno> textzpravy   ( Posle zpravu zvolenemu uzivateli na tomto kanalu )\n/away textzpravy   ( Posle tento text vsem, kteri se ti pokusi poslat zpravu )\n/away   ( Smaze drive zadanou zpravu )\n/me textakce   ( Posle zpravu, ktera bude informovat o tom, ze jsi provedl nejakou akci )\n/ignore <uziv.jmeno>   ( Ignoruje uzivatele. Pri nezadani uzivatele zrusi vsechny ignorace )\n/time   ( Zobrazi lokalni a GMT cas )\n/hb   (zkratka pro /msg HostingBuddy) \n\n\n
+132	Chat
+133	Data
+134	Pripojuji se k serveru
+135	Pokousim se o spojeni
+136	Provedeno
+137	Navrat do predchoziho menu.
+138	Auto ping
+139	Automaticky obnovit
+140	Podpora firewallu
+141	Zapnout podporu proxy
+142	Zapni tuto volbu, pokud je tva sit vybavena firewallem ci proxy serverem.
+143	Proxy adresa
+144	IP adresa tveho proxy serveru
+145	Proxy port
+146	Cislo portu tveho proxy serveru
+147	Dotaz pred automatickym obnovenim klienta
+148	Dotaz pred automatickym obnovenim souboru ze serveru
+149	Test site
+150	Konec
+151	\n\nOpravdu chces ukoncit hru?
+152	Spusti serii diagnostickych testu
+153	Vysledky vsech diagnostickych funkci
+154	Jmeno
+155	Cerv 1
+156	Cerv 2
+157	Cerv 3
+158	Cerv 4
+159	Cerv 5
+160	Cerv 6
+161	Cerv 7
+162	Cerv 8
+163	Clovek
+164	CPU Zacatecnik
+165	Vytvori novy tym.
+166	Odejde z menu, aniz by doslo k vytvoreni tymu.
+167	Ulozi provedene zmeny a odejde z tohoto menu.
+168	Opravdu chces opustit toto menu bez ulozeni provedenych zmen?
+169	\n\nOpravdu chces \nsmazat tento tym?
+170	CPU Mirne pokrocily
+171	CPU Pokrocily
+172	Smazat
+176	CPU Veteran
+177	Seznam ulozenych nastaveni, ktere muzes pouzit ci upravit
+178	Ulozi aktualni nastaveni
+179	Nahraje zvolene nastaveni
+180	Volby tymu
+181	Nastaveni
+182	Mnozstvi naboju na zacatku hry
+183	Naboje
+184	Sila zbrane
+185	Sila
+186	Ve kterem kole bude zbran dostupna
+187	Zpozdeni
+188	Pravdepodobnost nalezeni teto zbrane v bedne
+189	Bedny
+190	Zapne ci vypne superzbrane
+191	Superzbrane zapnuty
+192	Zrusi vsechny provedene zmeny
+193	Zrusit
+194	Superzbrane vypnuty
+195	Po zapnuti teto volby budou vsechny tymy zacinat se svou specialni zbrani.
+196	Specialni tymove zbrane zapnuty
+197	Vrati te do predchoziho menu
+198	Zpet
+199	Nastavuje mnozstvi naboju v teto zbrani na zacatku hry
+200	Nastavuje silu teto zbrane
+201	Nastavuje tah, od ktereho bude tato zbran dostupna
+202	Nastavuje pravdepodobnost vyskytu teto zbrane v bedne
+203	Cerva, ktery se bude pohybovat, voli hrac.
+204	Cervi se pohybuji v predem danem poradi..
+205	Cervi se nemohou pohybovat ani skakat.
+206	Cervi se pohybuji i skacou normalne.
+207	Specialni tymove zbrane vypnuty
+208	CPU Expert
+209	Pred zapocetim hry si muzes sam rozmistit sve cervy.
+210	Cervi jsou na pocatku hry rozmisteni nahodne.
+211	Ukladani zasob
+212	Vsechny nevyuzite zbrane se prenaseji do dalsiho kola, kde se k nim navic prictou nove zasoby.
+213	V kazdem kole dostanes nove zasoby, ale nevyuzite zbrane nejsou prenaseny mezi koly.
+214	Na zacatku hry dostanes zasobu zbrani, ktera ti musi vydrzet na cely zapas.
+215	Po vyprseni herniho casu kolo skonci.
+216	Po vyprseni herniho casu je do hry svrzena atomova bomba a energie cervu bude postupne ubyvat.
+217	Rychlost zaplavovani terenu po aktivaci modu Nahla smrt.
+218	Ulozit testy
+219	Po vyprseni herniho casu\nbude aktivovan mod\nNahla smrt.
+220	Mnozstvi energie, ktere ztrati kazdy cerv v kazdem kole modu Nahla smrt.
+221	Zbrane
+222	Nastaveni hry
+223	Nastaveni Nahle smrti
+224	Nastaveni beden
+225	Casova nastaveni
+226	Nastaveni objektu
+227	Obecna nastaveni
+228	Prvni pomoc
+229	Naradi
+230	Energie prvni pomoci
+231	Po zapnuti budou cervi zanechavat karty darce.
+232	Pravdepodobnost objeveni bedny se zbranemi v kazdem kole
+233	Pravdepodobnost objeveni bedny s naradim v kazdem kole
+234	Pravdepodobnost objeveni bedny prvni pomoci v kazdem kole
+235	Energie ziskana sebranim bedny prvni pomoci\nPodrzte Shift pro jemne doladeni
+236	Ulozi tve vysledky do textoveho souboru.
+237	Obnovit standardni
+238	Zapne ci vypne opakovany zaznam.
+239	Obnovi standardni nastaveni site.
+240	Zapne ci vypne zraneni zpusobena padem.
+241	Zapne ci vypne zobrazeni herniho casu.
+242	Zpozdeni
+243	Pohyb po vystrelu
+244	Pohyb po lane
+245	Casova pauza mezi tahy hracu pri hre horke kreslo
+246	Cas po vystrelu, kdy se cerv jeste muze pohybovat.\nPodrzte Shift pro jemne doladeni
+247	Cas po pouziti lana, kdy se cerv jeste muze pohybovat.\nPodrzte Shift pro jemne doladeni
+248	Zapne ci vypne nefunkcni miny.
+249	Nastavuje objekty, ktere budou pouzity na mape.
+250	E-mail tech. podpore
+251	Posle e-mailem vysledky testu technicke podpore Team17.
+252	Doba mezi aktivaci a vlastnim vybuchem miny
+253	Zrusit
+254	Zpet bez ulozeni
+255	Zpet
+256	Ulozi provedene zmeny a vrati te do predchoziho menu.
+257	Lokalni sit
+258	Klikni sem pro hru po lokalni siti.
+259	Klikni na toto tlacitko pro prepnuti mezi TCP/IP a IPX/SPX protokoly.
+260	Zde zadej sveho hracske jmeno (prezdivku).
+261	Zde naleznes svou IP adresu.
+262	Wormnet
+263	Na mape bude maximalne 8 min.\nPodrzte Shift pro zmenu poctu
+264	Na mape bude maximalne 8 olejovych barelu.\nPodrzte Shift pro zmenu poctu
+265	Na mape bude maximalne 8 objektu.\nPodrzte Shift pro zmenu poctu
+266	Na mape nebudou zadne objekty.
+267	Navrat na predchozi obrazovku
+268	\n\nOpravdu chces prepsat nastaveni \n ' %s ' ?
+269	Prepsat nastaveni?
+270	Smazat nastaveni?
+271	\nOpravdu chces\nsmazat nastaveni ' %s ' ?
+272	Levym kliknutim pridas cerva do tymu. Pravym kliknutim jej odeberes.
+273	Zvoli spojence pro tento tym
+274	Nastavi zvyhodneni ci znevyhodneni pro tento tym.
+275	Mapa
+276	Moznosti nastaveni
+277	Zbrane
+278	Zjisti a upravi nastaveni zbrani.
+279	Zjisti a upravi herni volby.
+280	Moznosti
+281	Ulozit
+282	Ulozi aktualni konfiguraci jako herni nastaveni.
+283	Smazat
+284	Smaze zvolene herni nastaveni.
+285	Energie vsech cervu bude snizena na 1. (Klasicky mod).
+286	Nastavuje mnozstvi energie, ktere bude mit kazdy cerv na zacatku hry.\nPodrzte Shift pro jemne doladeni
+287	Nastavuje delku standardni hraci doby pred aktivaci Nahle smrti.\nPodrzte Shift pro jemne doladeni
+288	Nastavuje cas, ktery ma kazdy hrac na vykonani jednoho tahu.\nPodrzte Shift pro jemne doladeni
+289	Nastavuje pocet vitezstvi nutnych k vyhrani zapasu.
+290	Zde zadej podrobnosti o novem tymu.
+291	Zacit hru
+292	Vse je nastaveno, hra muze zacit.
+293	Zpet
+294	Navrat do predchoziho menu
+295	Aktualni herni nastaveni
+296	Tymy
+297	Kasarna
+298	Nastaveni
+299	Vytvorit novy tym
+300	Po vyprseni standardni doby neztrati cervi zadnou energii.
+301	Na mape bude maximalne 8 objektu.\nPodrzte Shift pro zmenu poctu
+302	Na mape bude maximalne 8 objektu.\nPodrzte Shift pro zmenu poctu
+303	Mapa
+304	Kasarna
+305	Zvoleny tym
+306	Mise
+307	Informace o misi
+308	Zacit misi
+309	Zpet
+310	Nebyl zvolen zadny tym.
+311	Nebyla zvolena zadna mise.
+312	Spusti zvolenou misi.
+313	Navrat do predchoziho menu
+314	Zvoli nasledujici misi.
+315	Zvoli predchozi misi.
+316	Ktery tym se pokusi splnit misi?
+317	Nahled mise
+318	Zvolena mise
+319	 
+320	Rychly start
+321	Mise
+322	Trenink
+323	Zpet
+324	Spusti rychlou hru proti pocitaci.
+325	Spusti hru po jednotlivych misich.
+326	Treninkove discipliny
+327	Navrat do hlavniho menu
+328	Zavod super ovci
+329	Strelnice
+330	Silene bedny
+331	Delostrelecka strelnice
+332	Eutanazie
+333	Aktualni rekord pro tuto udalost %d:%02d:%02d sekund drzi %s.
+334	Vyzkousi tuto zvukovou sadu.
+335	Cas nezbytny pro ziskani BRONZOVE medaile, je %d:%02d:%02d sekund... hodne stesti!
+336	Pro ziskani STRIBRNE medaile musis dosahnout casu %d:%02d:%02d sekund nebo lepsiho!
+337	Vystrel super ovci a letej s ni po mape, jak nejdele dovedes. \n\nCasovy limit muzes zvysit sbiranim predmetu. \n\nZa ziskani zlate medaile v tomto zavode je zvlastni odmena.
+338	Zasahni co nejvice cilu. Kazdy zasazeny cil zvysi casovy limit. \n\nHra konci po vyprseni casoveho limitu.
+339	Pro pohyb po teto urovni musis pouzit lano. Kazda bedna, kterou ziskas, zvysi casovy limit. \n\nHra konci po vyprseni casoveho limitu.
+340	Pouzij sve delostrelectvo pro zniceni cilu. \n\nZa kazdy zasazeny cil dostanes nekolik vterin navic. Hra konci po vyprseni casoveho limitu.
+341	Pro tuto hru mas pouze omezene mnozstvi zbrani. Pouzij je k co nejrychlejsi likvidaci starych dam! \n\nUvidime, jak dlouho vydrzis.
+342	Pro ziskani ZLATE medaile musis dosahnout casu %d:%02d:%02d sekund. Jdi na to!
+343	Vyborne. Tvuj cas %d:%02d:%02d staci na zisk BRONZOVE medaile. Pokracuj v treninku, aby sis jeste vice vylepsil sve dovednosti.
+344	Gratulujeme. Tvuj vyborny cas %d:%02d:%02d ti vynesl STRIBRNOU medaili. Jeste trochu treninku a stanes se mistrem teto discipliny.
+345	Fantasticke! Tvuj vynikajici cas %d:%02d:%02d znaci, ze jsi hoden zisku ZLATE medaile. Nyni jsi nejlepsi. Ale nezapomen stale trenovat, aby sis jeste vice zlepsil svuj cas.
+346	Zvol disciplinu, kterou chces trenovat.
+347	Treninkova disciplina, kterou jsi zvolil.
+348	Podrobnosti o treninku
+349	Zacit trenink
+350	Nebyl zvolen zadny tym.
+351	Spusti trenink zvolene discipliny.
+352	Zpet
+353	Navrat do predchoziho menu
+354	Zvoleny tym
+355	Rekord tymu:
+356	Prave zvoleny tym
+357	Aktualni rekord pro tento tym v teto discipline
+358	Kasarna
+359	Vytvorit tym
+360	Vytvori novy tym.
+361	Mapa
+362	Deathmatch detaily
+364	Zobrazuje tvou hodnost.
+365	Tymy
+366	Kasarna
+367	Klikni pro vytvoreni noveho tymu.
+368	Spustit
+369	Spusti hru
+370	Zpet
+371	Navrat do predchoziho menu
+372	Pripojeni k siti WORMNET prostrednictvim Internetu
+373	Konfigurace
+374	Upravi sitova nastaveni.
+375	Jmeno hrace (Prezdivka)
+376	Tva IP adresa
+377	Hra po lokalni siti
+378	Informace o hraci
+379	WORMNET
+380	Login
+381	Pripoji te k serveru.
+382	Zde zadej sve uzivatelske jmeno.
+383	Uzivatelske jmeno
+384	Heslo
+385	Zde zadej sve heslo.
+386	Heslo
+387	Zde zadej sve heslo.
+388	Hlavni mistnost lokalni site
+389	Zpravy od ostatnich hracu v hlavni mistnosti
+390	Seznam hracu v hlavni mistnosti
+391	Napis svou zpravu a odesli ji stiskem klavesy ENTER.
+392	Seznam dostupnych her
+393	Odeslat
+394	Odesle napsanou zpravu.
+395	Hostovat
+396	Klikni sem pro hostovani hry.
+397	Zadej nazev hry.
+398	Pozadovat heslo
+399	Pri pouziti teto volby bude tva hra chranena heslem.
+400	Svaty granat
+401	Stara zena
+402	Silena krava
+403	Super ovce
+404	Navadeny holub
+405	Plamenomet
+406	Krtkova bomba
+407	Odpalovac ovci
+408	Bazuka - nove koupena v mistnim supermarketu
+409	Navadena raketa - nemela by chybet v zadne domacnosti
+410	Granatomet - Mesto srapnelu
+411	Rucni granat - standardni verze
+412	Strepinova bomba - hrstka vybusneho poteseni
+413	Skunkova bomba - nevoni moc hezky!
+414	Benzinova bomba - oblibena ve mestech
+415	Bananova bomba - vybusne mekke ovoce
+416	Pistol - jdeme na to
+417	Brokovnice - dve hlavne, dvojnasobna zabava
+418	Uzi - Uzi 9mm!
+419	Kulomet - neni ani zdaleka tak maly, jak vypada
+420	Dlouhy luk - Robin kdo?
+421	Letecky utok - Dest smrti
+422	Napalmovy nalet - hotova apokalypsa!
+423	Mina - davej si na ne pozor!
+424	Rana pesti - poradna pecka do brady
+425	Draci koule - vyvolej starobylou energetickou kouli!
+426	Dloubnuti - maly uder s velkymi nasledky
+427	Sekera - jednou ranou z nej udelame dva
+428	Autogen - oblibena zejmena u ubohe temne strany
+429	Pneumaticka vrtacka - vrtej nebo zabij!
+430	Tram - most nebo bariera? Volba je tva
+431	Lano ninju - zvladnuti lanove techniky ti vynese velke odmeny
+432	Padak - priprav se na velke pady
+433	Bungee - extremni sport!
+434	Teleport - neexistuje lepsi zpusob cestovani
+435	Dynamit - rodinny oblibenec
+436	Ovce - stary znamy vybusny savec
+437	Baseballova palka - odpal primo z bojiste
+438	Plamenomet - plameny stravi vse
+439	Navadeny holub - je sice trochu hloupy, ale take moc uzitecny
+440	Silena krava - cerstve dovezena z Velke Britanie
+441	Svaty granat - lordy preferovana zbran
+442	Stara zena - tvoje babicka bude konecne k necemu dobra
+443	Odpalovac ovci - posli svou ovci do dalekych kraju
+444	Super ovce - letajici ovce
+445	Eskadra krtku - dokopej se k vitezstvi!
+446	Kamikadze - smrt nebo slava?
+447	Zde zadej sve heslo
+448	Nazev hry
+449	Heslo
+450	Obnovit seznamy hracu a her
+451	Obnovi seznamy hracu a her.
+452	Hostovani hry
+453	Vytvorit hru
+454	Vytvori a zacne hostovat novou hru.
+455	Nazev tve hry
+456	Chraneno heslem
+457	Moznost chranit hru heslem
+458	Zadej heslo pro svou hru.
+459	Maximalni pocet tymu, ktere mohou hrat tuto hru.
+460	Zvol nastaveni pro svou hru.
+461	Potvrzeni zadanych informaci a pokracovani.
+462	Zpet
+463	Zrusi aktualni operaci.
+464	Nazev
+465	Max. hracu
+466	Mapa
+467	Stav pripojeni
+468	Zobrazuje aktualni stav pripojeni.
+469	Stav pripojeni
+470	Zobrazuje aktualni stav pripojeni.
+471	Zrusit
+472	Zrusi probihajici operaci.
+473	Tvuj titul
+474	Tve krestni jmeno
+475	Tve prijmeni
+476	Tva postovni adresa (volitelne)
+477	Tve PSC (volitelne)
+478	Tve telefonni cislo (volitelne)
+479	Tvuj vek (volitelne)
+480	Osobni informace
+481	Titul
+482	Krestni jmeno
+483	Prijmeni
+484	Adresa
+485	Telefon
+486	Pohlavi
+487	Vek
+488	PSC
+489	Heslo
+490	Uzivatelske jmeno
+491	Heslo
+492	Tve pohlavi (M/Z)
+493	Tva e-mailova adresa
+494	E-mailova adresa
+495	Pocet cervu v tomto tymu
+496	Vysledky
+497	Hrat dalsi kolo
+498	Pokracovat do dalsiho kola
+499	Informace o tom, kdo vyhral minule kolo.
+500	Deathmatch
+501	Hrat hru v modu deathmatch
+502	Tve herni vysledky ti zpristupnily tajnou volbu!
+503	Smula, tvuj cas %d:%02d:%02d nestaci na ziskani oceneni. Zkus to znovu. Cviceni dela mistra!
+504	Vynikajici, tvuj cas %d:%02d:%02d je novym rekordem pro tuto udalost!
+505	Velka Britanie
+506	Neznama
+507	Argentina
+508	Australie
+509	Rakousko
+510	Belgie
+511	Brazilie
+512	Kanada
+513	Chorvatsko
+514	Bosna
+515	Kypr
+516	Cesko
+517	Dansko
+518	Finsko
+519	Francie
+520	Gruzie
+521	Nemecko
+522	Recko
+523	Hong Kong
+524	Madarsko
+525	Island
+526	Indie
+527	Indonesie
+528	Iran
+529	Irak
+530	Irsko
+531	Izrael
+532	Italie
+533	Japonsko
+534	Lichtenstejnsko
+535	Lucembursko
+536	Malajsie
+537	Malta
+538	Mexiko
+539	Maroko
+540	Nizozemi
+541	Novy Zeland
+542	Norsko
+543	Polsko
+544	Portugalsko
+545	Portoriko
+546	Rumunsko
+547	Rusko
+548	Singapur
+549	Jihoafricka republika
+550	Spanelsko
+551	Svedsko
+552	Svycarsko
+553	Turecko
+554	Spojene staty Americke
+557	Prejit do pokrocileho nastaveni.
+558	Kompatibilita
+559	Front-end
+560	Workaround pro pomaly frontend
+561	Pouzit VRAM
+562	Opravy barev
+563	Pouzit systemovou paletu
+564	Pouzit GDI paletu
+565	Znovu-pouziti DirectX palety
+566	Naslouchat zmenam palety
+567	Vynutit virtualni plochu Wine
+568	Hra
+569	Workaround pro casovac
+570	S timto hracem mas rychle spojeni.
+571	S timto hracem mas prumerne spojeni.
+572	S timto hracem mas pomale spojeni.
+573	S timto hracem mas velmi pomale spojeni.
+574	Worms Armageddon systemova chyba (%d)
+575	Pouzit double buffering
+576	Land in VRAM
+577	Vylepseni
+578	Preskocit intro
+579	Offline rope knocking
+580	Legacy utility key
+581	Phone chat notification
+582	Pouzit vetsi fonty
+583	Auto-register associations
+584	Stereo efekty - %s
+585	Obratit
+586	Map memory warning - %s
+587	Reset
+588	Vypnuto
+589	Vzdy
+590	Nikdy
+591	Zap
+592	Vyp
+593	Alternativni
+594	Vlastni
+595	Enables a compatibility tweak for certain new video cards, which may resolve low responsiveness and refresh rates in the front-end.
+596	Allows or prevents usage of video memory in the front-end.
+597	Causes W:A to automatically restart itself under a Wine virtual desktop.
+598	Enables workarounds to prevent palette loss in the front-end.
+599	Prevents W:A from using the system's high-resolution timer.
+600	Enables or disables in-game double buffering. Disabling fixes flickering under VMware.
+601	Controls whether W:A creates land surfaces in video memory. Improves compatibility with certain Wine versions.
+602	Specifies whether to skip the intro and logos when W:A is started.
+603	Enables "rope knocking" in Offline Multi-Player and Quick CPU games.
+604	Use the key used for typing the ` character for the current input language to select utilities, instead of using the key under Escape (for non-US keyboard layouts).
+605	Disables or enables the in-game telephone icon (used for notification of new chat messages).
+606	Use a larger font in some places in-game and in the front-end.
+607	Enables associating W:A with replays and wa:// on W:A start-up
+608	Adjusts the intensity of the stereo sound effects.
+609	Reverses the stereo sound effects.
+610	Sets the threshold for which to display the map loading prompt, to prevent a Denial of Service attack by loading a very large map.
+611	Resets the threshold to the default value.
+612	Use desktop window
+613	Uses the desktop window for the DirectDraw SetCooperativeLevel call. Improves Wine compatibility.
+614	Reset
+615	Resetuje vsechno nastaveni Worms Armageddon do vychozich hodnot.
+616	Toto resetuje vsechno nastaveni a ukonci hru. Pokracovat?
+700	Delostrelec
+701	Vrah
+702	Kapitan
+703	Vojak
+704	Polni marsal
+705	General
+706	Granatnik
+707	Strazce
+708	Major
+709	Tajny agent
+710	Hlidka
+711	Ostrelovac
+712	Kanonyri
+713	Komando
+714	Elita
+715	Nepritel
+716	Strazce
+717	Strelci
+718	Dustojnici
+719	Hlidky
+720	Ceta
+721	Vzbourenci
+722	Specialni sily
+800	Absolutni zacatecnik
+801	Zacatecnik
+802	Nezkuseny
+803	Bazant
+804	Novacek
+805	Podprumer
+806	Prumer
+807	Dostatecny
+808	Nadprumer
+809	Docela schopny
+810	Schopny
+811	Velmi schopny
+812	Veteran
+813	Vyborny
+814	Vynikajici
+815	General
+816	Major
+817	Polni marsal
+818	Hrdina
+819	Superhvezda
+820	Elita
+822	Bojuj proti pocitaci v bitvach typu deathmatch. Kazda dalsi bitva je o neco narocnejsi.\n
+823	Tento tym jiz odehral %d her typu deathmatch, z nich vyhral %d a prohral %d.\nTym jiz zabil %d cervu, pricemz zemrelo %d cervu z tohoto tymu.\n
+824	Aktualni deathmatch hodnost tohoto tymu je %s.\n
+900	Tenhle ukol je pro uplne novacky.
+901	Tato mise je snadna.
+902	Tato mise je prumerne obtizna.
+903	Tato mise je obtizna a je vhodna pouze pro veterany.
+904	Tato mise je velmi obtizna, proto ji muze splnit jen ten nejlepsi.
+1242	Hodnost
+1243	Nazev tymu
+1244	Body
+1245	Levym kliknutim pridas tym do hry, pravym upravis jeho vlastnosti.
+1246	Levym kliknutim odeberes tento tym ze hry.
+1247	Mise
+1248	Pokusy
+1249	Levym kliknutim zvolis tym, pravym upravis jeho vlastnosti.
+1268	Levym tlacitkem vyberes tym pro trenink, pravym upravis jeho vlastnosti.
+1269	Nejlepsi cas v zavodu super ovci
+1270	Nejlepsi cas na strelnici
+1271	Nejlepsi cas v silenych bednach
+1272	Nejlepsi cas v delostrelecke strelnici
+1273	Nejlepsi cas v eutanazii
+1278	Klikni na svuj tym pro jeho vyrazeni.
+1279	Tymy zapsane do hry.
+1349	Prosim cekej... pracuji...
+1350	Menim velikost obrazku, prosim cekej...
+1367	Nelze nalezt seznam serveru, snazim se pripojit ke standardnimu serveru.
+1368	V jine hre
+1369	Neni na tomto kanalu
+1370	Na kanalu:
+1371	Chyba serveru
+1372	Na serveru doslo k nezname chybe.
+1373	Nelze vytvorit GUID pro identifikaci hry.
+1374	Nelze vytvorit GUID pro identifikaci sekce.
+1375	Chyba
+1376	Behem pokusu o hostovani hry doslo k chybe.
+1377	Cas vyhrazeny pro pokus o hostovani hry vyprsel.
+1378	Cas vyhrazeny pro pokus o pripojeni ke hre vyprsel.
+1379	Hry na lokalni siti
+1380	Lokalni sit
+1381	Informace o hraci
+1382	Hraci
+1383	Tva IP adresa
+1384	Sitova hra pres server
+1385	Pripojit se na Wormnet
+1386	Moznosti pripojeni k serveru
+1387	Hra po lokalni siti
+1388	Prepina mezi IPX/SPX a TCP/IP protokoly.
+1389	Zde zadej sve hracske jmeno (prezdivku).
+1390	Tva IP adresa. (Zde obvykle neni treba nic menit.)
+1391	Hra po Internetu prostrednictvim site WORMNET
+1392	Umoznuje zmenit nastaveni tveho serveru.
+1393	Zpet
+1394	Prosim, zadej sve prihlasovaci udaje
+1395	Uzivatelske jmeno
+1396	Heslo
+1397	Login
+1398	Hra
+1399	Seznam vsech dostupnych her. Ke hre se pripojis dvojklikem na jeji nazev.
+1400	Zde se zobrazuje text chatu.
+1401	Poslat
+1402	Odesle napsanou zpravu.
+1403	Seznam hracu dostupnych pro hru
+1404	Obnovit seznamy
+1405	Obnovi seznamy her a hracu.
+1406	Hostovani hry
+1407	Nazev slouzici k identifikaci tve hry
+1408	Vytvori hru chranenou heslem.
+1409	Pristup ke sve hre muzes omezit heslem.
+1410	Hostovat
+1411	Stisknutim tohoto tlacitka muzes hostovat novou hru.
+1412	Napis svou zpravu a odesli ji stiskem klavesy ENTER.
+1413	Podpora firewallu
+1414	Proxy adresa
+1415	Proxy port
+1416	Adresa tveho firewallu (Ponechej prazdne, pokud zadny nemas.)
+1417	Cislo portu pouzivaneho firewallem (je-li zapnuta jeho podpora)
+1418	Test/diagnostika site
+1419	Ulozit testy
+1420	Automaticka obnova
+1421	Dotazat se pred upravou souboru klienta
+1422	Po pripojeni automaticky obnovit seznam serveru
+1423	Auto ping
+1424	Resetovat na standardni
+1425	Automaticky obnovi vsechny dulezite soubory klienta.
+1426	Po pripojeni automaticky obnovi seznam serveru.
+1427	Automaticky zjisti ping vsech hracu na kanalu.
+1428	Titul
+1429	Jmeno
+1430	Prijmeni
+1431	Adresa
+1432	PSC
+1433	Telefon
+1434	Pohlavi
+1435	Vek
+1436	E-mailova adresa
+1437	Uzivatelske jmeno
+1438	Heslo
+1439	Zde zadej svuj titul.
+1440	Zde zadej sve krestni jmeno.
+1441	Zde zadej sve prijmeni.
+1442	Zde zadej svou postovni adresu. (Volitelne)
+1443	Zde zadej sve PSC. (Volitelne)
+1444	Zde zadej sve telefonni cislo. (Volitelne)
+1445	Zde zadej sve pohlavi (M/Z).
+1446	Zde zadej svuj vek.
+1447	Zde zadej svou e-mailovou adresu. (Volitelne)
+1448	Zde zadej sve uzivatelske jmeno.
+1449	Zde zadej sve heslo.
+1450	OK
+1451	OK
+1452	Wormnet nenalezl tvuj ucet. Prosim, zadej sve osobni udaje...
+1453	Opustit kanal
+1454	Zobrazit hodnoceni
+1455	Obnovit seznam kanalu
+1456	Obnovit
+1457	Obnovit seznam
+1458	Obnovi seznam prave dostupnych her.
+1459	Obnovi seznam vsech uzivatelu na siti Wormnet.
+1460	Obnovi seznam kanalu.
+1461	Odchod z tohoto kanalu
+1462	Zobrazi hodnoceni hracu na tomto kanalu.
+1463	Navrat na kanal
+1464	Navrat na kanal
+1465	Pro vstup na kanal klikni dvakrat na jeho nazev.
+1466	Dvojklikem na jmeno hrace vstoupis na kanal, ve kterem je tento hrac.
+1467	Seznam clenu tohoto kanalu
+1468	Dvojklikem na zvyraznenou oblast se preneses na toto misto.
+1469	Cas vyhrazeny pro pokus o pripojeni ke hre vyprsel.
+1470	Cas vyhrazeny pro pokus o hostovani hry vyprsel.
+1471	Seznam her
+1472	Historie zprav
+1473	Textovy vstup
+1474	Opustit kanal
+1475	Odeslat zpravu
+1476	Obnovit seznam kanalu
+1477	Seznam kanalu
+1478	Obnovit seznam hracu
+1479	Seznam hracu
+1480	Obnovit seznam her
+1481	Seznam clenu
+1482	Hlavni mistnost lokalni site
+1483	Moznosti site
+1484	Automaticky zjisti ping vsech clenu kanalu.
+1485	Po pripojeni automaticky obnovi seznam serveru.
+1486	Nastaveni site
+1487	Automaticky zjistit ping u clenu
+1488	Po pripojeni automaticky obnovit seznam serveru
+1500	KRALOVSKA RODINA
+1501	TEAM17
+1502	PACHOLKOVE
+1503	DODGY 8
+1504	VENOM
+1505	Kralovna
+1506	Princ Charles
+1507	Princ Andrew
+1508	Prince Of Persia
+1509	Kralovna Matka
+1510	Henry IIX.
+1511	Kral Canute
+1512	Sal
+1513	Lambo
+1514	Zelda
+1515	Boggy B
+1516	Spadge
+1517	Satan
+1518	Rob
+1519	PC
+1520	Randalism
+1521	Vinny Jones
+1522	Cilla Black
+1523	Old Spice
+1524	George Graham
+1525	Bob Monkhouse
+1526	Alex Ferguson
+1527	Vera Lynn
+1528	Spotty Spice
+1529	El Presidente
+1530	The Intern
+1531	Tony Blair
+1532	Maggie T
+1533	Dodgy Bloke
+1534	Prince Charles
+1535	Hector Flushwit
+1536	Stub
+1537	Noggin
+1538	Tebbitbreath
+1539	Foul Stench
+1540	Y Front
+1541	Peuce
+1542	Mucus
+1543	Pustulous
+1544	Spanner
+1545	OK
+1546	Prosim zadej sve osobni udaje
+1563	Zpet
+1564	Navrat do hlavniho menu.
+1565	Vitez
+1566	Oceneni
+1567	Detaily
+1568	Hrat znovu
+1569	Hrat dalsi zapas se stejnymi tymy
+1570	Za zapas byla udelena tato oceneni.
+1571	Podrobnosti o hre
+1572	Vitez teto hry
+1589	Mise nesplnena
+1590	Nesplnil jsi misi. Naber nove sily a zkus to znovu.
+1593	Vsechny mise dokonceny!
+1594	Fantasticke! Prave jsi dokoncil zaverecnou misi!\n
+1595	Oceneni - Cervena krev!
+1596	Oceneni - Vodni ovce!
+1597	Oceneni - Ovci raj!
+1598	Oceneni - Bozsky mod!
+1599	Oceneni - Pomucky!
+1605	Pomucky
+1606	Gratulace!
+1607	Gratulujeme vitezi!\n
+1608	Tva hodnost je %s.\n
+1609	Smula
+1610	Smula, byl jsi porazen... Zkus to znovu!\n
+1611	Za sve vykony jsi byl odmenen %s medaili.
+1612	Hrac 1
+1613	Cerv 1
+1614	Cerv 2
+1615	Cerv 3
+1616	Cerv 4
+1617	Levym kliknutim vyradis hrace ze hry.
+1618	Tito hraci jsou jiz ve hre.
+1619	Nelze nalezt datove soubory misi. Zkontroluj, zda se Worms Aramageddon CD nachazi ve tve CD-ROM mechanice.
+1620	%s (%s) vyhrava vyrocni lahev horke vody Florence Nightingale!\n
+1621	Nebyla udelena zadna oceneni.\n
+1622	\n\nBehem teto hry bylo zabito celkem %d cervu.\n
+1623	Behem teto hry byly zpusobeny skody v celkove vysi %d bodu.
+1624	Oceneni za presnost ziskava %s (%s) za svou %d%% uspesnost pri strelbe.\n
+1625	Oceneni za nejlepsi vystrel ziskava %s (%s). Jeho strela zabila %d cervu a zpusobila %d bodu skod.\n
+1626	%s (%s) ziskava oceneni za nejlepsi strategii.\n
+1627	Cirkusove oceneni Velkeho Billyho ziskava %s (%s).\n
+1628	Nejdele prezivsim cervem byl %s (%s).\n
+1629	%s (%s) byl nejmene uzitecnym cervem.\n
+1630	Nejnudnejsi cervem byl zvolen %s (%s).\n
+1631	%s (%s) byl zvolen nejmene popularnim cervem.\n
+1632	%s (%s) byl nejzodpovednejsim cervem.\n
+1633	Cervem, ktery se pridal k temne strane, byl %s (%s).\n
+1634	Oceneni stastneho spotrebitele ziskal %s (%s).\n
+1635	NASA zdravi %s (%s), ktery vyletel %d vysoko.\n
+1636	Baseballova cena Babe Ruth nalezi %s (%s).\n
+1637	Cenu doktora Dolittla ziskal %s (%s).\n
+1638	%s (%s) zmenil barvu na podivne zlutou.\n
+1639	\n\nKonec %d kola\n\n\n
+1640	Cas kola: %01d:%02d:%02d\n
+1641	Celkovy herni cas: %01d:%02d:%02d\n\n
+1642	Nejnebezpecnejsim cervem byl: %s (%s)\n
+1643	Cervem tohoto kola je: %s (%s)\n\n
+1644	Nejvice zabitych jednim vystrelem: %d\n
+1645	Cerv, ktery tuto strelu vypalil: %s (%s)\n\n
+1646	Nejvetsi skody jednim vystrelem: %d\n
+1647	%s vitezi v tomto kole.\n\n
+1648	V tomto kole vitezi cervene tymy.\n\n
+1649	V tomto kole vitezi modre tymy.\n\n
+1650	V tomto kole vitezi zelene tymy.\n\n
+1651	V tomto kole vitezi zlute tymy.\n\n
+1652	V tomto kole vitezi fialove tymy.\n\n
+1653	V tomto kole vitezi modrozelene tymy..\n\n
+1654	Toto kolo konci remizou.\n\n
+1655	%s vyhrava zapas!\n\n
+1656	Cervene tymy vyhravaji zapas!\n\n
+1657	Modre tymy vyhravaji zapas!\n\n
+1658	Zelene tymy vyhravaji zapas!\n\n
+1659	Zlute tymy vyhravaji zapas!\n\n
+1660	Fialove tymy vyhravaji zapas!\n\n
+1661	Modrozelene tymy vyhravaji zapas!\n\n
+1680	Mise dokoncena
+1681	Gratulujeme! Splnil jsi misi!\n
+1682	Misi jsi dokoncil %d sekund pred casovym limitem.\n
+1683	Misi jsi dokoncil s %d zbyvajicimi jednotkami energie.\n
+1684	Za vykon v teto misi jsi byl odmenen %s medaili!\n
+1685	Gratulujeme! To je novy rekord pro tuto misi!\n
+1686	Za sve usili jsi byl odmenen odkrytim tajne volby.\n
+1700	Pripojeni ke hre v roli pozorovatele.
+1701	Hostitel hry zvolil toto nastaveni.
+1702	Zvol nastaveni pro tuto hru.
+1703	Uprava nastaveni zbrani.
+1704	Uprava nastaveni hry.
+1705	Zobrazi nastaveni zbrani.
+1706	Zobrazi nastaveni hry.
+1707	Seznam tymu na tvem pocitaci.
+1708	Hrat
+1709	Zacne novou hru.
+1710	HRA PRERUSENA
+1711	Hostitel te vyloucil ze hry.
+1712	V teto hre jiz neni misto pro tvuj tym.
+1713	Nahled prave zvolene mapy.
+1714	Levym tlacitkem vygenerujes novou mapu, pravym upravis stavajici.
+1715	Padaji zbrane!
+1716	Dodavka zasob.
+1717	Ihned zabezpecit mista dopadu!
+1718	Dodavka byla uspesne dorucena.
+1719	Zelezny orel je na ceste.
+1720	Dodavka byla uspesne dorucena.
+1721	Jsme v bezpeci a vsechno uz je jenom na tobe!
+1722	Bedny jsou tvou jedinou nadeji...
+1723	Nepratelsky letecky transport je na ceste.
+1724	Nepratelsky transport se blizi.
+1725	Uz je skoro tady!
+1726	Prave dorazil. Dostan se k bedne a pak hodne rychle utec!
+1727	Nemas naboje? Tohle by mohlo pomoci.
+1728	Dej si pozor!
+1729	Expresni dodavka!
+1730	Zbrane uspesne predany!
+1731	Nenech toto vybaveni padnout do nespravnych rukou!
+1732	Expresni zasilka!
+1733	Smrt na objednavku
+1734	Trocha uzdraveni na ceste...
+1735	Neco co by vam melo pomoci, pane.
+1736	Pozehnana pomoc
+1737	Trochu vcasne pomoci?\n
+1738	Lekarske vybaveni odeslano.
+1739	Dalsi pomocna ruka
+1740	Trocha pomoci pro tebe
+1741	Kazda trocha se hodi.
+1742	Trochu osviceneho vysvobozeni
+1743	Potrebuje tu nekdo lekarskou peci?
+1744	Je tohle tva krevni skupina?
+1745	Tak zij! Zatracene, zij!
+1746	Doktor!
+1747	Atomova bomba je na ceste.
+1748	Cas je proti nam pane. Musime jednat rychle!
+1749	Vykur je ven, jestli muzes...
+1750	Zasah meteoru nevyhnutelny, rychle se zakopej!
+1751	Jiz je na ceste. Zasah je ocekavan za 5 minut!
+1752	Uz neni moc casu, rychle, rychle...
+1753	Bylo detekovano odpaleni takticke nuklearni rakety.
+1754	Varovani! Hrozi zasah nuklearni rakety!
+1755	Na severnim konci ostrova byly zaznamenany otresy zeme.
+1756	Globalni oteplovani! Pozor na hladinu vody!
+1757	Snaz se nenamocit!\n
+1758	Rychle, at se k tobe nedostanou!
+1759	General se snazi uprchnout!
+1760	Ta radiace bude tvoje smrt!
+1761	Rychle se dostan az do oblak!
+1762	Vylez na tu horu, ne na ten krtinec.
+1763	Rychle pryc od okraju, brzy prijde zemetreseni!
+1764	Kde je Noem, kdyz ho tak potrebujeme?
+1765	Je cas postavit ty pristresky.
+1766	Doufam, ze mas dostatecnou ochranu.
+1767	VAROVANI! Seismicka aktivita, 7.2 na Richterove stupnici!
+1768	Jak to dopadlo s tim petiminutovym varovanim?
+1769	Globalni vyhlazeni!
+1770	VAROVANI! Zlomova linie je tady!
+1771	Pozor, tektonicky pohyb!
+1772	Na konci sveta bude noc!
+1773	Den zuctovani
+1774	Nepratelske sily se mobilizuji!
+1775	Raketa je tady!
+1776	V pristim kole to uz bude nepritel brat vazne.
+1777	Nepritel je ozbrojen az po zuby!
+1778	Videli te, UTIKEJ!
+1779	Embargo na nepratelske zbrane bylo ukonceno.
+1780	Mozna te cekaji potize...
+1781	Konflikt se vyostruje.
+1782	Znic je vsechny, vojaku!
+1783	Valka je peklo.
+1784	Radeji kopej hodne hluboko!
+1785	Ve smrti JE cest.
+1786	Pouzij temnou stranu!
+1787	Zajisti oblast!
+1788	Kopej dolu a kopej hluboko.
+1789	To ovoce uz dozralo, a je na case jej posbirat!
+1790	Nezapomen sbirat bedny, abys rozsiril svuj arzenal.
+1791	Naradi by se ted hodilo.
+1792	Ted by se opravdu hodila prvni pomoc.
+1793	Budes muset pouzit lano...
+1794	Zvaz pouziti nekolika tramu jako ochrany.
+1795	Musis zahajit strelbu.
+1796	Nezapomen, ze i na lane muzes odhazovat predmety!
+1797	Nauc se vyuzivat opakovaneho nadhozeni lana!
+1798	Nauc se vsechny skakaci techniky.
+1799	Zpetny skok te dostane jeste vyse.
+1800	Dobre sleduj nepratelske jednotky a jejich taktiku.
+1801	Jednej rychle, mysli s predstihem.
+1802	Skunkove se mohou dostat i do mist, kam se zadna jina zbran nedostane.
+1803	Zbrane mohou byt pri vystrelu posunuty nahoru i dolu.
+1804	Nekdy se reseni mise ukryva v bedne.
+1805	Tramy muzes umistit i v pripade, ze se prave houpes na lane.
+1806	Potrebujes pomoc? Zkus pouzit sip nebo dva...
+1807	Tram muze byt tvou posledni obrannou linii.
+1808	Zvirata a stare zeny mohou jit nakupovat.
+1809	Padak nezpomali tvuj pad, ale lze jej ovladat.
+1810	Nezapomen, ze mas k dispozici padak.
+1811	Bedny a exploze nejdou dohromady.
+1812	Nalety budou efektivnejsi, pokud je spravne nasmerujes.
+1813	Krtci radi hrabou smerem dolu a take maji sklony k explozim.
+1814	Dobre umisteny dynamit vyzene z ukrytu i toho nejtvrdohlavejsiho cerva.
+1815	Vitr ovlivnuje drahu nekterych zbrani. Tak pozor, at nestojis po vetru.
+1816	Odhadni ucinky vetru, a pak uz jen pouzij svou bazuku!
+1817	Prebytecni cervi mohou byt vybornou navnadou.
+1818	Strilej take do barelu. I ty mohou byt smrtici.
+1819	Tato bedna by mohla byt zivotne dulezita!
+1820	Tramy mohou pomoci granatum dosahnout jejich cile.
+1821	Vodni ovce vodu primo miluje.
+1822	Pospes si, cas nam pomalu konci.
+1823	Radeji si pospes. Uz nezbyva mnoho casu.
+1824	Rychle! Voda stoupa!
+1825	Tady je neco, co ti pomuze.
+1826	Pokud mas potize, pouzij toto.
+1827	Mysleli jsme si, ze bys tohle mohl ocenit.
+1828	Zda se, ze potrebujes pomoc, novacku.
+1829	Tohle se bude hodit.
+1830	Potrebujes pomoc...
+1831	Zkus tohle.
+1900	Tyto ikonky generuji ostrovni mapy.
+1901	Tyto ikonky generuji jeskynni mapy..
+1902	Zde se zobrazuje napovedny text.
+1903	PREDLOHY OSTROVA
+1904	PREDLOHY JESKYNE
+1905	Vrati zpet posledni provedenou zmenu.
+1906	Zvol mapu, kterou chces nahrat, nebo zadej kod mapy.
+1907	Ulozi tuto mapu.
+1908	Smaze tuto mapu.
+1909	Levym tlacitkem zvysis pocet mostu na teto mape, pravym tlacitkem jej snizis.
+1910	Levym tlacitkem zvysis pocet objektu na teto mape, pravym tlacitkem jej snizis.
+1911	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1912	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1913	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1914	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1915	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1916	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1917	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1918	Levym tlacitkem vygenerujes novou mapu, pravym tlacitkem ji upravis.\nShift+klik vrati predchozi.
+1919	Kliknutim ci tazenim mysi muzes upravit vysku vody.
+1920	Leve tlacitko kresli, prave tlacitko maze.\nAlt=jemne doladeni, Ctrl=rovny pohyb, Shift+klik=nakreslit caru
+1921	Zvol typ pudy a pozadi pro tvou mapu.\n
+1922	Prevrati celou mapu.
+1923	Zapne ci vypne neznicitelny okraj mapy.\nPravym kliknutim vyplnit vrchni okraj jeskyne.
+1924	Vytvori tunelovy system na mape.
+1925	Vytvori jamy na mape.
+1926	Importuje uzivatelskou mapu.
+1927	Kliknutim se zobrazi nahled mapy.\nPravym tlacitkem konvertuje na barevnou mapu.
+1928	Levy tlacitkem zvetsis velikost stetce, pravym tlacitkem ji zmensis.
+1929	Kliknutim se vrati do editacniho modu.\nPravym tlacitkem konvertuje na barevnou mapu.
+1930	Levym tlacitkem smazes celou mapu, pravym tlacitkem ji celou zaplnis pudou.
+1931	Levym tlacitkem zaplnis celou mapu pudou, pravym tlacitkem ji celou smazes.
+1932	Na zaklade zadaneho kodu vygeneruje novou mapu.
+1933	Tato uroven bude mit vlastnosti mapy jeskynniho typu.
+1934	Odchod z editoru map.
+1935	Zmeni umisteni objektu, mostu a der.\nShift+klik vrati predchozi.
+2000	Cenu pro nejlepsiho cerva zapasu ziskava %s (%s) za %d zabitych cervu.
+2001	%s ziskava cenu nejlepsiho ostrelovace... (%d%%)\n
+2002	%s byl zvolen nejnudnejsim tymem.\n
+2003	Slava %s, mistrum temne strany!\n
+2004	%s nebyl ale vubec dobry.\n
+2005	%s ziskava cenu za pobaveni divaku.\n
+2006	Cena obchodniku putuje k %s.\n
+2007	Cenu za uspokojeni nejvice divaku ziskava %s.\n
+2008	%s nezmlkl ani na chvilku.\n
+2009	%s nemel vubec co rici.\n
+4000	Cheaty
+4001	Bedna s chmyrim 
+4002	Krvavy utok
+4003	Nezranitelnost
+4004	Vylepsene ovce
+4005	Svobodny mod
+4006	Neznicitelny teren!
+4007	Sila ananasu
+4008	12hlavnova brokovnice
+4009	Hodny obchodnik
+4010	Robin Hood
+4011	Vsechny bedny budou obsahovat nase ochmyrene pratele.
+4012	Zasazeni cervi budou krvacet.
+4013	Cervi budou nezranitelni jakymkoliv utokem s vyjimkou padu do vody.
+4014	Vylepsi super ovce na vodni ovce, ktere mohou krome letani i plavat.
+4015	Hra s neomezenym mnozstvim nastroju pro volbu cerva.
+4016	Aktivuje neznicitelny teren. Poznamka: Peclive zvaz, na jake mape tento cheat pouzijes.
+4017	Zvetsi nicivou silu granatu.
+4018	Zvysi nicivy potencial brokovnice.
+4019	Vylepsi vsechny bananove bomby na super bananove bomby.
+4020	Zvysi skody pusobene dlouhym lukem.
+4021	%s dosahl nasledujiciho...\n\n
+4022	DEATHMATCH HRY\n
+4023	Dosahl hodnosti %s.\n
+4024	Odehral %d kol hry, pricemz zabil %d nepratelskych cervu, a soucasne prisel o %d vlastnich cervu.\n
+4025	Za tento vykon dostal %s medaili.\n\n
+4026	Za tento vykon si nezaslouzi zadnou medaili.\n\n
+4027	TRENINKOVE UDALOSTI\n
+4028	Tento tym je drzitelem nasledujicich rekordu:\n
+4029	%s - %d:%02d:%02d sekund.\n
+4030	%s - %d:%02d:%02d sekund  ( %s oceneni ).\n
+4031	\nVYKONY V MISICH\n
+4032	Tento tym dosahl mise c. %d.\n
+4033	Za tento vykon mu nemohla byt udelena zadna medaile cti.\n\n
+4034	Za tento vykon byl ocenen %s medaili.\n\n
+4035	HRA VICE HRACU\n
+4036	Odehrano her %d.\n
+4037	Vyhrano her %d.\n
+4038	Pocet zabitych cervu - %d.\n
+4039	Pocet padlych cervu %d.\n
+4040	Pocet cervu padlych v boji - %d.\n
+4041	Na zaklade techto vykonu ti byla udelena hodnost %s.\n\n
+4042	CELKOVE HODNOCENI\n
+4043	Na zaklade celkoveho hodnoceni ma tento tym hodnost %s.
+4044	Mali vojaci
+4045	Zkus si tento novy styl hry!
+4100	Zkus to jeste jednou...\n
+4101	Zkus to znovu.\n
+4102	Smula - zkus to znovu.\n
+4103	Nepropadej panice, ted uz to urcite zvladnes.\n
+4104	Dokaz, ze to zvladnes!\n
+4105	Jdi na to, vojaku!\n
+4106	Zkus to znovu, ale tentokrat se vice snaz.\n
+4107	Zase ty?\n
+4200	Detaily
+4205	BRONZOVOU
+4206	STRIBRNOU
+4207	ZLATOU
+4300	Hraci v aktualni hre.
+4301	Tymy v aktualni hre.
+4302	Pokracovat...
+4303	Pokracovat ve hre.
+4304	Potvrd, ze jsi pripraven pokracovat.
+4305	Pripraven
+4306	Konec
+4307	Ukonci aktualni hru.
+4308	Odstrani hrace ze hry.
+4309	Zpravy od ostatnich hracu v teto hre
+4310	Sem napis zpravy, ktere chces poslat ostatnim hracum.
+4311	%s je nyni ve vedeni.
+4312	Hrat znovu
+4313	Dalsi hra se stejnymi hraci
+4314	Konec
+4315	Odchod ze hry
+5100	[ Zacatecnik ]
+5101	[ Pokrocily ]
+5102	[ Pro ]
+5103	[ Klasik ]
+5104	[ Armageddon ]
+5105	[ Vybusna zona ]
+5106	[ Nahle zaplavy ]
+5107	[ Turnaj ]
+5108	[ Retro ]
+5109	[ Strategie ]
+5110	[ Temna strana ]
+5111	[ Delostrelectvo ]
+5112	[ Maximalni skody ]
+5200	Doslo k chybe pri cteni dat z CD. \nZkontroluj, zda je herni CD v mechanice a neni na nem prach nebo skrabance.
+5201	CD CHYBA
+5202	Vloz Worms Armageddon CD do CD-ROM mechaniky jeste pred spustenim hry.
+5203	Zkontroluj, zda se Worms Armageddon CD nachazi v CD-ROM mechanice.
+5204	Doslo k chybe pri inicializaci zvuku.
+5205	Doslo k chybe pri nahravani hernich dat. Zkontroluj svuj pocitac.
+5206	Nelze ulozit herni data. Zkontroluj, zda je na tvem harddisku dostatek volneho mista.
+5207	Pripojeni k siti bylo preruseno.
+5208	Tato medaile ti umoznuje hru nasledujici mise.
+5209	Tato odmena ti zpristupnila mapu teto mise i pro beznou hru.
+5210	Tato nejvyssi pocta ti zpristupni tajne volby.
+5211	Nejlepsi vysledek, jaky byl na tomto pocitaci dosazen.
+5212	Nejlepsi vysledek tohoto tymu.
+6000	Jeden z nejvyssich nepratelskych generalu pripravuje na sve zakladne dabelsky plan nasi likvidace.\n\nDiky vyzvedne sluzbe zname polohu jeho zakladny. Ty se tam musis vypravit a zavrazdit ho drive, nez staci uskutecnit sve plany.\n\nNepritel nepochybne zachytil tuto zpravu, takze bude na tvuj prichod dobre pripraven. Bud tedy velmi opatrny.
+6001	Tvoji vojaci se dostali do nepratelske zasobovaci zony.\n\nObsad celou oblast a ziskej co nejvice zbrani.\n\nPostupuj rychle a pozorne sleduj cas, nebot celou oblast brzy vyhodime do vzduchu.
+6002	Diky tvemu uspechu v predchozi misi je nyni nepritel v defenzive.\n\nTva omezena zasoba zbrani by mela stacit na jeho likvidaci. V prubehu mise navic ocekavej dalsi zasoby.\n\nAckoliv mas prevahu, nepodcenuj schopnosti nepritele.
+6003	Po prichodu na bojiste zjistis, ze nepritel se v tomto miste dukladne zakopal a obrnil.\n\nPouzij zbrane, ktere byly shozeny na bojiste jeste pred tvym prichodem k likvidaci nepritele a zastaveni jeho produkce chemickych zbrani.\n\nDavej pozor na biologicke zamoreni!\n\nMusis vyradit nepritele z boje ... na trvalo!
+6004	Nasi informatori zjistili, ze se nepritel chysta obnovit svou teroristickou kampan. Prvnim cilem by mel byt prosluly mestsky funkcionar, jenz ma pro nas nesmirnou politickou cenu. Bohuzel tento teroristicky utok ma prijit prave v dobe, kdy je oblast bombardovana ulomky komety, ktera si zvolila za misto dopadu prave nase mesto.\n\nPristi dopad ulomku se ocekava priblizne za 5 minut.\n\nTvym nepritelem tedy bude i cas. Zachran politika a vycisti celou oblast od nepratel, abychom mohli co nejdrive zacit s evakuaci.
+6005	Pro tuto misi budes potrebovat notnou davku dovednosti a lstivosti.\n\nTvym ukolem je navest sve parasutisty primo do nepratelskych rad, a co nejrychleji je eliminovat.\n\nZabezpec celou oblast a znic vsechny nepratele.
+6006	Nova experimentalni zbran bude v bedne dopravena do oblasti na teto mape.\n\nZdejsi vrchol pyramidy byl drive dulezitym mistem pro shazovani materialu a vybaveni. Doporucujeme ti co nejrychleji zabezpecit prave tuto oblast.\n\nBudeme prubezne monitorovat vzdusny prostor a pred dodavkou cilove bedny te budeme vcas informovat.
+6007	Dostan se az na vrchol kopcu, a ziskej tam tolik potrebne zbrane. Ty pak pouzij k likvidaci nepratelskeho kapitana.\n\nBud vsak opatrny, nebot jeho muzi ho budou velmi dobre chranit.
+6008	Tato mise pro tebe mozna bude matematickou nocni murou. Vsechny ty uhly a promenne snadno demoralizuji i toho nejlepsiho cerva.\n\nS trochou vytrvalosti a stesti vsak nakonec jiste dosahnes vitezstvi.\n\nNeztracej cas a jdi hned na to. Tri minutovy casovy limit prave zacina.
+6009	V teto misi mas k dispozici jednoho cerva, ktery ma neomezenou zasobu naboju do brokovnice.\n\nJsi omezen casovym limitem, takze co nejrychleji znic vsechny nepratele a dostan se do bezpeci.\n\nNyni se ti bude hodit ten trenink mireni, pri kterem jsi stravil tolik casu.\n\nTrenoval jsi, ze? Doufam, ze ano...
+6010	Tvym cilem je znicit vsechny nepratelske cervy.\n\nSleduj dodavky novych zbrani. Nezustavej na okraji utesu, nebot v teto oblasti jsou ocekavana zemetreseni. Budeme se snazit te na ne upozornit s predstihem.\n\nZacinas se dvema cervy a nejsi omezen zadnym casovym limitem. Nemusis tedy nikam spechat, ale nepritel te jiste nenecha dlouho odpocivat...
+6011	Vzdorovanim gravitaci tuto malou misi pravdepodobne nevyresis.\n\nNepritel je rozmisten okolo cile teto mise - krabice s mocnou zbrani, ktera cely tento konflikt rychle ukonci.
+6012	Pro dokonceni teto mise bude nutny smely a velmi odvazny pristup.\n\nZiskej co nejvice zbrani, tak aby ses nakonec probojoval az k tajne zbrani v leve dolni casti bojiste.\n\nUspech v teto misi muze byt rozhodujici pro celou valku.
+6013	Tato mise pro tebe mozna bude znacne obtizna.\n\nKlicem k uspechu jsou zde hbite reflexy a rychle premysleni.\n\nTvi nepratele jsou zde velmi ostraziti, takze cas pro pohyb ti byl zkracen na minimum.\n\nBudeme se snazit ti pomoci alespon dodavkou zbrani a vybaveni.\n\nZnic vsechny nepratele a dostan se do bezpeci.
+6014	V teto misi musis znicit bednu, ktera je chranena nepratelskymi cervy.\n\nBedna obsahuje smrtici zbran, kterou nepritel vyvinul.\n\nZacinas se zmrzacenym cervem, ktery navic neni zvykly na zdejsi teren.\n\nNa splneni mise mas pouze 3 minuty. 
+6015	Nepratelska frakce obsadila zakladnu u jednoho z nasich nejdulezitejsi monumentu.\n\nVlada teto oblasti te nalehave zada, abys pouzil sve dovednosti a znalosti taktiky k odstraneni nepratelske frakce.\n\nVelitel nepratel se jmenuje General - prave on je tvym hlavnim cilem.\n\nPo jeho likvidaci se ostatni nepratele sami vzdaji.
+6016	Prvni faze teto mise se vubec nepovedla, nebot nase zbrane byly shozeny primo do rukou nepritele.\n\nTvoji cervi tak nyni maji k dispozici pouze minimum zbrani kratkeho dostrelu a par nastroju. To jim musi stacit k likvidaci nepritele a ziskani beden.\n\nNepritel umistil nase zbrane na misto, ktere povazuje za bezpecne.\n\nJe jen na tobe, abys i s minimalnim vybavenim dokazal, ze bezpecne ani zdaleka neni.
+6017	Konflikt se jiz vyhrotil natolik, ze je velky nedostatek zasob a zbrani.\n\nNyni tak mame k dispozici pouze jednu spolehlivou zbran.\n\nBazuka vsak stale ma jeden nebo dva triky v rukavu, tak se snaz je vyuzit naplno, a posli nepritele do pekel.
+6018	Clen nepratelskeho elitniho vedeni se ukryva na teto mape s virou, ze jej nasi vojaci nemohou dostat.\n\nTo povazujeme za urazku nasi armady. Pouzij zbrane, ktere jsme ti dodali, a ukaz nepriteli, co dovede nase armada.\n\nTim jednou provzdy dokazes, ze nase armada je nejlepsi a ze by ji zadny nepritel jiz nikdy nemel podcenovat.
+6019	Nase informace o tomto bojisti jsou znacne kuse.\n\nKazdy nas pokus o pruzkum se zde setkal s nekompromisni nepratelskou palbou.\n\nVerime, ze by se zde mohla nachazet mensi zasoba zbrani noveho typu.\n\nNajde je, a pouzij k rozhodujicimu uderu.
+6020	Tvym cilem je eliminovat vsechny nepratelske cervy.\n\nMas jen jedineho cerva.\n\nMusis postupovat rychle a s rozmyslem.\n\nPouzij omezene zasoby, ktere mas, jak nejlepe dovedes.\n\nNa splneni ukolu mas 5 minut. Potom zacne byt mapa pomalu zaplavovana.\n\nBud opatrny!
+6021	V teto misi musis ziskat specialni zbrane z beden, ktere se nachazeji v prave casti mapy.\n\nMas k dispozici pouze jednoho cerva a omezenou zasobu zbrani.\n\nPro prekonani min pouzij lano a tramy.\n\nBud opatrny, nebot zemetreseni zde muze prijit kdykoliv.
+6022	Lecka!\n\nPodarilo se nam zahnat nepritele do lecky. Vyuzij momentu prekvapeni k svemu prospechu a rozdrt vsechny nepratele.\n\nBehem boje ti budeme pomahat shazovanim dalsich zasob.\n\nJe to boj o preziti.\n\nEliminuj nepritele, nebo budes eliminovan sam.
+6023	Veleni nad touto misi ti bylo predano ve chvili, kdy je situace jiz zcela kriticka.\n\nNase komando ziskalo dulezite informace z nepratelske ponorky, ale nasledne ztratilo sveho velitele, nyni potrebuje tvou pomoc.\n\nNepritel se priblizuje,  mnohem vetsim nebezpecim zde vsak bude priliv. Voda jiz zacina pomalu stoupat.\n\nMusis se rychle dostat do bezpeci!
+6024	Pro uspech v teto misi bude treba velmi presne musky a spravneho pouziti ovecek.\n\nMunici si zde muzes doplnit z beden, ktere jsou roztrousene po cele oblasti.\n\nBud velmi opatrny, nebot te ceka opravdu tvrdy boj.\n\nPriprav se na nejhorsi!
+6025	Tato mise po tobe jiz vyzaduje znacnou dovednost, nebot se budes muset pohybovat nebezpecnou jeskyni, pricemz budes mit k dispozici pouze jednu zbran.\n\nTvuj pritel pak ziska dalsi zbran, ktera je nezbytna pro uspesnou likvidaci nepratel.
+6026	Agent Dennis padl do lecky. Nepritel vyclenil na jeho likvidaci male komando.\n\nAckoliv je tento agent ve vyborne fyzicke kondici, nepatri zrovna k nejinteligentnejsim cervum.\n\nPouzij veskerou svou obratnost a lstivost k jeho bezpecnemu navratu domu.
+6027	Vojaci, ktere jsme vyslali zachranit naseho zajateho vedce, porusili radiovy klid a zadaji instrukce pro finalni fazi sve mise.\n\nPrave ty nyni povedes tyto vojaky.\n\nNas vedec musi za kazdou cenu prezit.\n\nTento ukol se ti muze zdat jednoduchy, ale nepritel je jiz na ceste a bude se snazit ti za kazdou cenu zabranit v uteku.
+6028	Ziskej tajnou bednu, kterou zde nepritel strezi. Bedna obsahuje zbran, jez je klicova pro jednu z budoucich misi. Davej si pozor na zaminovanou oblast.\n\nNejsi omezen zadnym casovym limitem, ale presto ti doporucujeme spechat...
+6029	Zradce pozaduje vykupne, jinak vyhodi do vzduchu jizni pol zeme.\n\nPokud zde chces uspet, musis jednat rychle a rozhodne.\n\nJiz nezbyva mnoho casu a navic se v teto zone da ocekavat nepratelsky utok.\n\nMusis najit spravnou zbran, ktera ti pomuze dosahnout vitezstvi... Mozna ze i nejake naradi se zde bude hodit.\n\nZabij zradce, obnov poradek a zabran kalamite!
+6030	V opustenem vlakovem depu nehybne stoji lokomotiva. Tuto lokomotivu povazuji za svuj majetek nasi nepratele.\n\nVedle vraku lokomotivy se take nachazi bedna, ktera obsahuje nevidanou destruktivni silu. Pouzij tedy specialne vycviceneho spionazniho cerva k ziskani teto bedny a dodej tak nasim vedcum z vyzkumneho centra novou hracku.
+6031	Na nasi zakladnu pronikl nepratelsky agent. Ukradl zde dulezite pasky, ktere ulozil je do meteorologickeho balonu. Ten bude brzy vyzvednut nepratelskym letadlem.\n\nNastesti se nam podarilo balon vystopovat a navic jsme zjistili, ze nepriteli nejde vse podle planu.\n\nBalon ted pomalu klesa dolu - brzy zcela spadne do oceanu.\n\nZabran padu bedny pomoci tramu, a pak ji ziskej zpet.
+6032	Utikej do kopcu.\n\nVoda je ti uz pomalu po kolena a Noe neni nikde k nalezeni.\n\nMusis spravne zkombinovat sve zbrane a nastroje.\n\nDoporucujeme ti pouzit kombinaci lan a tramu. To by ti melo pomoci se co nejrychleji dostat do bezpeci u stropu jeskyne.
+6200	Vrah na zamku
+6201	V knihovne je klid?
+6202	Operace zelinarstvi
+6203	Chemicka valka
+6204	Odpocet do armageddonu
+6205	Vysadkova zona
+6206	Pisek v tvem oku
+6207	Jursky cerv
+6208	Mir dlouho, mir spravne
+6209	Velka strela
+6210	Hrmeni na dvore
+6211	Jdete banany, jdete!
+6212	Bomba s rohy
+6213	Silene kravy
+6214	Hvezda Marsu
+6215	Potize na hore Wormore
+6216	Ukradene zbozi
+6217	Bazuka na skalach
+6218	Vodni prekvapeni
+6219	Horke zbozi
+6220	Potapejici se ledovec
+6221	Problemy s dynemi
+6222	Hloupe prepadeni
+6223	Zadna nahrada
+6224	Ovci boty
+6225	Zachrani nas super ovce!
+6226	Zachrana agenta Dennise!
+6227	Potize v hrackarstvi
+6228	Nikde zadne houby...  
+6229	Studeny jako led
+6230	Lokomotiva
+6231	Zachrana preludu?
+6232	Kdo zapomnel zavrit stavidlo?
+9021	Vitej ve hre WORMS ARMAGEDDON!\nNejtemnejsi hodine hratelnosti!\n\nCopyright 1998 Team17 Software Limited.\nVsechna prava vyhrazena.\nDistribuuje MicroProse Ltd.\n\nPro spusteni hry stiskni libovolnou klavesu nebo tlacitko mysi.
+49001	Zadal jsi nespravne pismeno do policka pro pohlavi. Prosim zadej bud M (muz), nebo Z (zena).
+49002	Zadal jsi nespravny vek. Povoleny rozsah je 1-100.
+49003	Policko pro jmeno musi byt vyplneno. Prosim zadej sve jmeno.
+49004	Policko pro prijmeni musi byt vyplneno. Prosim zadej sve prijmeni.
+49005	Policko pro adresu musi byt vyplneno. Prosim zadej svou adresu.
+49006	Policko e-mail musi byt vyplneno. Prosim zadej svou e-mailovou adresu.
+49007	Policko PSC musi byt vyplneno. Prosim zadej sve PSC.
+49008	Policko titul musi byt vyplneno. Prosim zadej svuj titul.
+49009	Policko heslo musi byt vyplneno. Prosim zadej sve heslo.
+49010	Policko uzivatelske jmeno musi byt vyplneno. Prosim zadej sve uzivatelske jmeno.
+49011	Zopakuj zadani hesla pro overeni jeho spravnosti
+49012	Policko opakovaneho zadani hesla musi byt vyplneno. Prosim zadej sve heslo.
+49013	Pouzil jsi nektere nepovolene znaky, zkus to znovu.
+49014	Probiha pripojovani k serveru, prosim cekej...
+49015	Pripojeno k serveru
+49016	Ukoncuji pripojeni k serveru, prosim cekej...
+49017	Spojeni ukonceno
+49018	Pripojeni k serveru bylo preruseno.
+49019	Pripojeni k chatovacimu serveru bylo preruseno.
+49020	Pripojeni k datovemu serveru bylo preruseno.
+49021	Obnovuji pripojeni k serveru, prosim cekej...
+49022	Chatovaci server
+49023	Datovy server
+49024	Pripojeni se nezdarilo.
+49025	Pripojeni se nezdarilo. Zkontroluj nastaveni site a zkus to znovu.
+49026	Prosim zadej sve identifikacni udaje
+49027	Tva identifikace se nezdarila. Zkontroluj sve nastaveni a zkus to znovu.
+49028	Identifikace se nezdarila.
+49029	Ke zvolenemu serveru se nelze pripojit. Zvol jiny a zkus to znovu.
+49030	Puvodni zadane heslo je jine, prosim zopakuj zadani.
+49031	Stiskl jsi tlacitko ZRUSIT. Novy ucet nebude vytvoren. Opravdu chces pokracovat?
+49032	Nelze otevrit soubor diagnostiky site. Hra bude nyni pokracovat bez zapisu do tohoto souboru.
+49033	Zpet
+49034	Nahravam obrazek, prosim cekej...
+49035	Probiha proces redukce barev, prosim cekej...
+49036	Generuji
+49037	Prepnutim do editacniho modu ztratis vsechny informace o barvach. Opravdu to chces udelat?
+49038	Tvuj obrazek je vetsi nez oblast mapy. Chces jej zmensit nebo umistit do stredu mapy?
+49039	Zmensit
+49040	Vycentrovat
+49041	Provedl jsi zmeny. Chces opravdu odejit a  provedene zmeny anulovat?
+49042	Zvol typ pudy pro svou mapu.
+49043	Nelze se pripojit k serveru. Zvol jiny server a zkus to znova.
+49044	Nelze se pripojit k chatove sluzbe. Zvol jiny server a zkus to znova.
+49045	Zvolenou hru nelze nalezt. Zvol jinou hru a zkus to znova.
+49046	Zvolena hra je chranena heslem. Prosim zadej heslo pro tuto hru.
+49047	Zaskrtl jsi policko "Zapnout podporu proxy", coz znamena, ze tva sit obsahuje firewall. Pokud se nyni pokusis hostovat hru, ostatni hraci se mozna nebudou moci pripojit.
+49048	Spojeni se serverem bylo behem hry preruseno. Pripoj se znovu.
+49049	Nahravam vysledky hry na server, prosim cekej...
+49050	Vysledky hry nelze nahrat na server.
+49051	Dekujeme ti za pouziti serveru WORMNET, tesime se nashledanou!
+49052	Tva hodnost je prilis nizka!
+49053	Tva hodnost je prilis vysoka!
+49054	Byl jsi vyhosten ze hry!
+49055	Byl jsi vyhosten z kanalu!
+49056	Nelze se pripojit ke kanalu.
+49057	Tento prikaz neni v soucasne dobe podporovan.
+49058	Nelze hostovat hru.
+49060	Cas pro sitovou operaci vyprsel.
+49061	Inicializace site selhala.
+49062	Cas pro serverovou operaci vyprsel.
+49063	Server pravdepodobne selhal.
+49064	Server, ke kteremu se snazis pripojit, muze nektere operace vykonavat velmi pomalu. Pouzitim serveru, ktery se nachazi blize k tobe, muzes celou hru znacne urychlit.
+49065	Nelze nalezt soubor serverlist.htm. Navstiv webovou stranku Worms Armageddon (worms.team17.com) a stahni si jej.
+49066	Zapnout jazykovy filtr.
+49067	Pripojenim k teto sluzbe akceptujes pravidla a podminky pro pouziti sluzby WORMNET service. Chces pokracovat?
+49068	Neplatna operace.
+49069	Prosim, zkontroluj sve nastaveni
+49070	a zkus to znovu.
+49071	Operace selhala.
+49072	Operace dokoncena
+49073	Prenasim data, prosim cekej...
+49074	Operace dokoncena
+49075	Soubor diagnose.txt byl ulozen do adresare User\Support (v hernim adresari). V pripade kontaktovani technicke podpory pouzij tento soubor.
+49076	Tento server je plny. Zkus jiny server.
+49077	Vytvoreni hry na serveru se nezdarilo. Zkontroluj, zda jsi zadal vsechny potrebne parametry, a zkus to znovu.
+49078	Tve herni CD neproslo kontrolou a tvuj ucet na siti WORMNET byl zablokovan. V pripade problemu kontaktuj technickou podporu Team17.
+49079	Tato hra se nachazi na siti WORMNET. Hraci na lokalni siti se k ni mohou pripojit pouze prostrednictvim sluzby WORMNET.
+49080	Cas vyprsel.
+49081	Nahravam...
+49082	Prijimam...
+49083	Posilam...
+49084	Doslo ke kriticke chybe serveru. Odpojuji se od serveru.
+49085	Nelze
+49086	Doslo k nezname chybe. Probiha navrat do hlavniho menu.
+49087	Nelze vytvorit unikatni identifikator pro tuto hru.
+49088	Identifikator hry nenalezen, nelze hostovat hru.
+49089	Nahrat ulozenou mapu.
+49090	Varovani
+49091	Kriticka
+49092	Chyba site
+49093	Stisknutim tohoto tlacitka vyloucis zvoleneho hrace ze hry.
+49094	Sada 'locale' pro tento pocitac je neznama. Pro hru bude pouzita standardni verze.
+49095	Preteceni bufferu! Cteni > 512 bytu bez prestavky!
+49096	Ze serveru nebylo ziskano unikatni ID pro tuto hru!
+49097	Nazev kanalu
+49098	# na kanalu
+49099	Tema
+49100	Spojeni uspesne dokonceno.
+49101	Spojeni se nezdarilo.
+49102	Pripojuji se k hostiteli...
+49103	Prosim cekej...
+49104	Debugovaci mod zapnut
+49105	Debugovaci mod vypnut
+49106	Pro napovedu k urcitemu prikazu napis /HELP <prikaz>.\n
+49107	Zadal jsi nespravny chatovaci prikaz. Chatovaci prikazy vzdy zacinaji znakem /.\nNapis /HELP pro vice informaci ohledne prikazu a jejich pouziti.
+49108	Platne prikazy jsou nasledujici;\n
+49109	Pro tento prikaz neni dostupna zadna napoveda.\n
+49111	Hledam hry...
+49112	Nebyly nalezeny zadne hry.
+49113	Prezdivka
+49114	IP adresa
+49115	Na serveru
+49116	Skutecne jmeno
+49117	Na kanalu:
+49118	Jmeno
+49119	Ping
+49120	Okruzni jizda
+49121	Snazis se poslat zpravu nekomu, kdo se prave nachazi ve hre. Tento clovek ti bude moci odpovedet az po skonceni aktualni hry.
+49122	Bezpecnostni selhani.
+49123	Vzdaleny server mozna nepracuje.
+49124	Byl jsi odpojen ze serveru, protoze jsi odeslal prilis mnoho zprav najednou (chyba zahlceni).
+49125	Zakladni trenink
+49126	Tento trenink je slozen z jednoduchych ukolu, ktere vylepsi tve zakladni dovednosti.\n\nPokud uspejes, budes odmenen medaili, ktera ti umozni pristup k misim.\n\nCim lepsi vysledek, tim vice misi se ti zpristupni.
+49127	Hazeni granatem stupen 1
+49128	Strelba z brokovnice
+49129	Strelba z bazuky stupen 1
+49130	Lano stupen 1
+49131	Hazeni granatem stupen 2
+49132	Pouziti rany pesti
+49133	Lano stupen 2
+49134	Strelba z bazuky stupen 2
+49135	Hazeni granatem stupen 3
+49136	Tramy a ovce
+49137	\n\nMas 50 sekund na zniceni 2 cilu s pouzitim granatu.\n\nNezapomen spravne pouzivat casove zpozdeni vybuchu.\n\nGranaty nejsou ovlivneny vetrem.
+49138	\n\nMas 60 sekund na to, abys trefil vsech 6 cilu.
+49139	\n\nMas 40 sekund na zniceni vsech cilu.\n\nStrely z bazuky jsou ovlivneny vetrem.
+49140	\n\nPouzij lano k prekonani celeho bojiste. Po ceste seber bednu a znic cil.\n\nVse musis splnit behem jednoho tahu.\n\nNauc se spravne pouzivat opakovaneho svihu lana.
+49141	\n\nMas 60 sekund na zniceni vsech cilu.
+49142	\n\nV tomto cviceni se naucis alternativnimu vyuziti ruznych zbrani a novym metodam skakani.\n\nMas 50 sekund na zniceni vsech cilu.
+49143	\n\nMas 60 sekund na zniceni cile.\n\nS pouzitim lana ziskej zbran, tu pak pouzij v cilove oblasti.
+49144	\n\nMas 60 sekund na zniceni vsech cilu.\n\nNezapomen, ze draha letu bazuky je ovlivnena vetrem. V tomto cviceni budes muset pouzit jeden maly-znamy trik...\n\nTip! Behem 2. svetove valky mela britska armada skakavou bombu.
+49145	\n\nMas 99 sekund na zniceni cilu s pouzitim granatu.\n\nNezapomen spravne pouzivat casove zpozdeni vybuchu.\n\nGranaty nejsou ovlivneny vetrem.
+49146	V tomto cviceni musis postavit pontonovy most pres obrazovku tak, abys mohl vyslat ovci, ktera pak srazi tvuj cil do vody.\n\nNa toto cviceni mas 60 sekund.
+49147	Nedokoncil jsi toto cviceni, tedy ani zakladni trenink. Musis se o to pokusit znovu.
+49148	Smula, nedokoncil jsi toto cviceni a zakladni trenink pro tebe konci.\n\nZkus to znovu a tentokrat se vice snaz.
+49149	Gratulujeme!\n\nByl jsi odmenen bronzovou treninkovou medaili.\n\nDiky tomu se nyni muzes pokusit o nekolik prvnich misi.
+49150	Vynikajici, tve dovednosti ti vynesly stribrnou treninkovou medaili. Diky ni mas nyni pristup k dalsim misim.
+49151	Vyborne vojaku!\n\nPrave jsi dokoncil cely treninkovy program.\n\nNyni mas pristup ke vsem misim.\n\nHodne stesti!
+49152	Pro zacatecniky zde neni zadne misto.\n\nPro pristup k misim musi tvuj tym ziskat alespon bronzovou treninkovou medaili.\n\nJdi do menu Trenink a ziskej zde alespon bronzovou medaili.
+49153	Domnivame se, ze mise, kterou se snazis spustit, by mohla byt nad tve schopnosti. Abys nam dokazal opak, musis ziskat alespon stribrnou treninkovou medaili.\n\nJdi tedy do menu trenink a ziskej alespon stribrnou medaili.
+49154	Je chvalyhodne, ze se pokousis o tak obtiznou misi, ale pristup k ni maji pouze drzitele zlate treninkove medaile.\n\nVrat se zpet, az ji ziskas.
+49155	Informace o misich
+49156	Mise
+49157	Informace o tymu
+49158	Nazev tymu
+49159	Jmeno cerva 1
+49160	Jmeno cerva 2
+49161	Jmeno cerva 3
+49162	Jmeno cerva 4
+49163	Jmeno cerva 5
+49164	Jmeno cerva 6
+49165	Jmeno cerva 7
+49166	Jmeno cerva 8
+49167	Vyhrano her
+49168	Remizovano her
+49169	Prohrano her
+49170	Zabitych
+49171	Padlych
+49172	Zabitych (Pro)
+49173	Zabitych (Proti)
+49174	Aktualni mise
+49175	Deathmatch hodnost
+49176	Dokoncen trenink
+49177	Celkova hodnost tymu
+49178	Cas dokonceni
+49179	Zobrazit informace o misi
+49180	Statistiky zvoleneho tymu.
+49181	Sitova adresa.
+49182	Nyni jsi pripojen k %s (Hostovano %s)...
+49183	Pro pripojeni k teto hre je vyzadovano heslo.
+49184	Zadej heslo.
+49185	Heslo je nespravne, zkus jej zadat znovu.
+49186	Rekordni cas tymu v teto udalosti.
+49187	Moznosti zvuku
+49188	Vlajka
+49189	System
+49190	Zpravy
+49191	Hry
+49192	Kanal
+49193	Cervi
+49194	Omlouvame se
+49195	Tato volba neni v demu dostupna
+49196	IP
+49197	Vynuti pouziti teto IP adresy pri hostovani hry na siti wormnet.
+49198	Reseed
+49200	Zmenit barevne schema. Pomuze kdyz vidite divne barvy.
+49201	Vas obrazek je vetsi nez oblast terenu. Prejete si zmensit nebo oriznout obrazek?
+49203	Zmensit
+49204	Oriznout
+49205	Kliknete pro odstraneni barvy z teto mapy.\nPravym klikem zmenite Worm Placement Holes.
+49206	Prepsat mapu?
+49207	\n\nUrcite chcete prepsat\nmapu "%s"?
+49208	Port
+49209	Port pouzity k hostovani her.
+49300	Jazyk
+49999	Krtci bomba - Dokazes ji vykopat?
+50000	Zvolit cerva - Franta, Tonda, Honza, Lojza...
+50001	Armageddon - A budeme dedici... niceho.
+50002	Patsina magicka strela - Zadna konspirace po tom vsem...
+50003	Kobercova bomba - Vycistete tu ohavnou skrvnu.
+50004	Krabicovy spion - Uzijte si koukani na vylohy obchodu.
+50005	Betonový osel - Ten, kdo má posledni íá
+50006	Zmrazeni - Ledovec v krabici
+50007	Balik tramu - Tezky pokrok v architekture
+50008	Kyzena MB Bomba
+50009	Minovy nalet - Nevybuchnuta munice, anyone?
+50010	Stara váza - Taková neskodná starozitnost.
+50013	Indicky nuklearni test - To je zásah do indicke pouste
+50014	Postovni nalet - Základni nástroj nastvanych postaku.
+50015	Zemetreseni - Je to vsechno tvoje vina.
+50016	Super banán - Tohle sis dovezl z vyletu v Africe!
+50017	Vahy spravedlnosti - Král Salamoun by byl pysny.
+50018	Nálet francouzskych ovci - Zázracná vlnená zbran
+50019	Sebevrazedny utocnik - Mám cerva a nebojim se ho pouzit!
+50020	Armáda spásy - Poslete charitu proti vasim nepratelum.
+50021	Zmenit maximalni pocet objektu, mostu a der ktere budou automaticky umisteny na mape.
+50022	Musite zvolit vasi IP adresu, nebo odskrtnout volbu pro "Vynuceni IP".
+50023	Cervi se pohybuji nahodne.
+50024	Mapovani portu skrz UPnP
+50025	Pokus o namapovani portu automaticky\npouzitim Universal Plug and Play.
+50026	Hoster
+50027	Minimalizovat hru.
+50029	Novy zapas
+50030	Hrat jine schema hry se stejnymi hraci
+50031	Ukončit toto kolo hry a ponechat stejne hrace?
+50032	Aktualni mapa
+60000	Worms Armageddon záznam hry
