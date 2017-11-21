@@ -18,21 +18,11 @@ STRINGTABLE
 STRINGTABLE
 {
 16, "IPX/SPX"
-17, "Hry pro jednoho hráče"
-18, "Přepne do menu her jednoho hráče."
-19, "Vytvořit hru"
-20, "Vytvoří hru jednoho nebo více hráčů."
 21, "TCP/IP"
 22, "Nebyl detekován žádný síťový protokol!"
-23, "Síťová hra"
-24, "Hra po lokální síti nebo Internetu"
 25, "Musíš zadat heslo nebo deaktivovat volbu hesla."
 26, "Pro hostování hry musíš zadat její název."
-27, "Nastavení"
-28, "Přepne do menu nastavení."
-29, "Konec"
-30, "Ukončí hru a vrátí tě do skutečného světa."
-31, "Nastavení grafiky"
+
 }
 STRINGTABLE
 {
@@ -43,11 +33,7 @@ STRINGTABLE
 36, "Zapne či vypne animace."
 37, "Grafika s vysokým rozlišením"
 38, "Zapne vysoké grafické rozlišení (1024x768)."
-39, "Úroveň detailů"
 40, "Nelze inicializovat síť pro IPX/SPX hru!"
-41, "Úroveň grafických detailů během hry. Jejich snížením dosáhneš lepšího výkonu."
-42, "Minimální"
-43, "Maximální"
 44, "Nastavení zvuku"
 45, "Musíš zadat adresu proxy serveru nebo deaktivovat volbu proxy."
 46, "Hlasitost efektů"
@@ -118,17 +104,12 @@ STRINGTABLE
 102, "Zrušit"
 103, "OK"
 104, "Nahrát"
-105, "Zvolí vlajku tvého týmu."
 106, "Uložit"
 107, "Uživatelský"
 108, "*** STANDARDNÍ ***"
 109, "Standardní"
-110, "Náhrobek"
-111, "Přehraje fanfáru, kterou bude tvůj tým používat."
-}
-STRINGTABLE
-{
-112, "Zvolí náhrobní kámen, který bude zůstavat po tvých červech."
+
+
 113, "Smazat"
 114, "Smaže zvolené nastavení."
 115, "Nelze se připojit k serveru. Zkus jiný server."
@@ -150,7 +131,7 @@ STRINGTABLE
 128, "Zpráva o tvé nepřítomnosti byla odstraněna."
 129, "je pryč ** "
 130, "Zadal jsi neznámý příkaz. Napiš /help pro seznam platných příkazů."
-131, "Seznam dostupných příkazů.\n\n/msg <uživ.jméno> textzprávy   ( Pošle zprávu zvolenému uživateli na tomto kanálu )\n/away textzprávy   ( Pošle tento text všem, kteří se ti pokusí poslat zprávu )\n/away   ( Smaže dříve zadanou zprávu )\n/me textakce   ( Prošle zprávu, která bude informovat o tom, že jsi provedl nějakou akci )\n/time   ( Zobrazí lokální a GMT čas ) \n\n\n"
+131, "Seznam dostupných příkazů./msg <uživ.jméno> textzprávy   ( Pošle zprávu zvolenému uživateli na tomto kanálu )/away textzprávy   ( Pošle tento text všem, kteří se ti pokusí poslat zprávu )/away   ( Smaže dříve zadanou zprávu )/me textakce   ( Prošle zprávu, která bude informovat o tom, že jsi provedl nějakou akci )/time   ( Zobrazí lokální a GMT čas ) "
 132, "Chat"
 133, "Data"
 134, "Připojuji se k serveru"
@@ -173,7 +154,7 @@ STRINGTABLE
 148, "Dotaz před automatickým obnovením souborů ze serveru"
 149, "Test sítě"
 150, "Konec"
-151, "\n\nOpravdu chceš ukončit hru?"
+151, "Opravdu chceš ukončit hru?"
 152, "Spustí sérii diagnostických testů"
 153, "Výsledky všech diagnostických funkcí"
 154, "Jméno"
@@ -194,7 +175,7 @@ STRINGTABLE
 166, "Odejde z menu, aniž by došlo k vytvoření týmu."
 167, "Uloží provedené změny a odejde z tohoto menu."
 168, "Opravdu chceš opustit toto menu bez uložení provedených změn?"
-169, "\n\nOpravdu chceš \nsmazat tento tým?"
+169, "Opravdu chceš smazat tento tým?"
 170, "CPU Mírně pokročilý"
 171, "CPU Pokročilý"
 172, "Smazat"
@@ -250,7 +231,7 @@ STRINGTABLE
 216, "Po vypršení herního času je do hry svržena atomová bomba a energie červů bude postupně ubývat."
 217, "Rychlost zaplavování terénu po aktivaci módu Náhlá smrt."
 218, "Uložit testy"
-219, "Po vypršení herního času\nbude aktivován mód\nNáhlá smrt."
+219, "Po vypršení herního časubude aktivován módNáhlá smrt."
 220, "Množství energie, které ztratí každý červ v každém kole módu Náhlá smrt."
 221, "Zbraně"
 222, "Nastavení hry"
@@ -308,10 +289,10 @@ STRINGTABLE
 265, "Na mapě bude maximálně 8 objektů."
 266, "Na mapě nebudou žádné objekty."
 267, "Návrat na předchozí obrazovku"
-268, "\n\nOpravdu chceš přepsat nastavení \n ' %s ' ?"
+268, "Opravdu chceš přepsat nastavení  ' \1 ' ?"
 269, "Přepsat nastavení?"
 270, "Smazat nastavení?"
-271, "\nOpravdu chceš\nsmazat nastavení ' %s ' ?"
+271, "Opravdu chcešsmazat nastavení ' \1 ' ?"
 }
 STRINGTABLE
 {
@@ -392,11 +373,11 @@ STRINGTABLE
 STRINGTABLE
 {
 336, "Pro získání STŘÍBRNÉ medaile musíš dosáhnout času %d:%02d:%02d sekund nebo lepšího!"
-337, "Vystřel super ovci a létej s ní po mapě, jak nejdéle dovedeš. \n\nČasový limit můžeš zvýšit sbíráním předmětů. \n\nZa získání zlaté medaile v tomto závodě je zvláštní odměna."
-338, "Zasáhni co nejvíce cílů. Každý zasažený cíl zvýší časový limit. \n\nHra končí po vypršení časového limitu."
-339, "Pro pohyb po této úrovni musíš použít lano. Každá bedna, kterou získáš, zvýší časový limit. \n\nHra končí po vypršení časového limitu."
-340, "Použij své dělostřelectvo pro zničení cílů. \n\nZa každý zasažený cíl dostaneš několik vteřin navíc. Hra končí po vypršení časového limitu."
-341, "Pro tuto hru máš pouze omezené množství zbraní. Použij je k co nejrychlejší likvidaci starých dam! \n\nUvidíme, jak dlouho vydržíš."
+337, "Vystřel super ovci a létej s ní po mapě, jak nejdéle dovedeš. Časový limit můžeš zvýšit sbíráním předmětů. Za získání zlaté medaile v tomto závodě je zvláštní odměna."
+338, "Zasáhni co nejvíce cílů. Každý zasažený cíl zvýší časový limit. Hra končí po vypršení časového limitu."
+339, "Pro pohyb po této úrovni musíš použít lano. Každá bedna, kterou získáš, zvýší časový limit. Hra končí po vypršení časového limitu."
+340, "Použij své dělostřelectvo pro zničení cílů. Za každý zasažený cíl dostaneš několik vteřin navíc. Hra končí po vypršení časového limitu."
+341, "Pro tuto hru máš pouze omezené množství zbraní. Použij je k co nejrychlejší likvidaci starých dam! Uvidíme, jak dlouho vydržíš."
 342, "Pro získání ZLATÉ medaile musíš dosáhnout času %d:%02d:%02d sekund. Jdi na to!"
 343, "Výborně. Tvůj čas %d:%02d:%02d stačí na zisk BRONZOVÉ medaile. Pokračuj v tréninku, aby sis ještě více vylepšil své dovednosti."
 344, "Gratulujeme. Tvůj výborný čas %d:%02d:%02d ti vynesl STŘÍBRNOU medaili. Ještě trochu tréninku a staneš se mistrem této disciplíny."
@@ -599,85 +580,18 @@ STRINGTABLE
 571, "S tímto hráčem máš průměrné spojení."
 572, "S tímto hráčem máš pomalé spojení."
 573, "S tímto hráčem máš velmi pomalé spojení."
-574, "Worms Armageddon systémová chyba (%d)"
+574, "Worms Armageddon systémová chyba (\1)"
+}
+
+
+822, "Bojuj proti počítači v bitvách typu deathmatch. Každá další bitva je o něco náročnější."
+823, "Tento tým již odehrál \1 her typu deathmatch, z nich vyhrál \2 a prohrál \3.Tým již zabil \4 červů, přičemž zemřelo \5 červů z tohoto týmu."
+824, "Aktuální deathmatch hodnost tohoto týmu je \1."
 }
 STRINGTABLE
 {
-700, "Dělostřelec"
-701, "Vrah"
-702, "Kapitán"
-703, "Voják"
-}
-STRINGTABLE
-{
-704, "Polní maršál"
-705, "Generál"
-706, "Granátník"
-707, "Strážce"
-708, "Major"
-709, "Tajný agent"
-710, "Hlídka"
-711, "Ostřelovač"
-712, "Kanonýři"
-713, "Komando"
-714, "Elita"
-715, "Nepřítel"
-716, "Strážce"
-717, "Střelci"
-718, "Důstojníci"
-719, "Hlídky"
-}
-STRINGTABLE
-{
-720, "Četa"
-721, "Vzbouřenci"
-722, "Speciální síly"
-}
-STRINGTABLE
-{
-800, "Absolutní začátečník"
-801, "Začátečník"
-802, "Nezkušený"
-803, "Bažant"
-804, "Nováček"
-805, "Podprůměr"
-806, "Průměr"
-807, "Dostatečný"
-808, "Nadprůměr"
-809, "Docela schopný"
-810, "Schopný"
-811, "Velmi schopný"
-812, "Veterán"
-813, "Výborný"
-814, "Vynikající"
-815, "Generál"
-}
-STRINGTABLE
-{
-816, "Major"
-817, "Polní maršál"
-818, "Hrdina"
-819, "Superhvězda"
-820, "Elita"
-822, "Bojuj proti počítači v bitvách typu deathmatch. Každá další bitva je o něco náročnější.\n"
-823, "Tento tým již odehrál %d her typu deathmatch, z nich vyhrál %d a prohrál %d.\nTým již zabil %d červů, přičemž zemřelo %d červů z tohoto týmu.\n"
-824, "Aktuální deathmatch hodnost tohoto týmu je %s.\n"
-}
-STRINGTABLE
-{
-900, "Tenhle úkol je pro úplné nováčky."
-901, "Tato mise je snadná."
-902, "Tato mise je průměrně obtížná."
-903, "Tato mise je obtížná a je vhodná pouze pro veterány."
-904, "Tato mise je velmi obtížná, proto ji může splnit jen ten nejlepší."
-}
-STRINGTABLE
-{
-1242, "Hodnost"
-1243, "Název týmu"
-1244, "Body"
-1245, "Levým kliknutím přidáš tým do hry, pravým upravíš jeho vlastnosti."
-1246, "Levým kliknutím odebereš tento tým ze hry."
+
+
 1247, "Mise"
 }
 STRINGTABLE
@@ -687,14 +601,7 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-1268, "Levým tlačítkem vybereš tým pro trénink, pravým upravíš jeho vlastnosti."
-1269, "Nejlepší čas v závodu super ovcí"
-1270, "Nejlepší čas na střelnici"
-1271, "Nejlepší čas v šílených bednách"
-1272, "Nejlepší čas v dělostřelecké střelnici"
-1273, "Nejlepší čas v eutanazii"
-1278, "Klikni na svůj tým pro jeho vyřazení."
-1279, "Týmy zapsané do hry."
+
 }
 STRINGTABLE
 {
@@ -922,7 +829,7 @@ STRINGTABLE
 1589, "Mise nesplněna"
 1590, "Nesplnil jsi misi. Naber nové síly a zkus to znovu."
 1593, "Všechny mise dokončeny!"
-1594, "Fantastické! Právě jsi dokončil závěrečnou misi!\n"
+1594, "Fantastické! Právě jsi dokončil závěrečnou misi!"
 1595, "Ocenění - Červená krev!"
 1596, "Ocenění - Vodní ovce!"
 1597, "Ocenění - Ovčí ráj!"
@@ -933,11 +840,11 @@ STRINGTABLE
 {
 1605, "Pomůcky"
 1606, "Gratulace!"
-1607, "Gratulujeme vítězi!\n"
-1608, "Tvá hodnost je %s.\n"
+1607, "Gratulujeme vítězi!"
+1608, "Tvá hodnost je \1."
 1609, "Smůla"
-1610, "Smůla, byl jsi poražen... Zkus to znovu!\n"
-1611, "Za své výkony jsi byl odměněn %s medailí."
+1610, "Smůla, byl jsi poražen... Zkus to znovu!"
+1611, "Za své výkony jsi byl odměněn \1 medailí."
 
 
 
@@ -945,64 +852,18 @@ STRINGTABLE
 1617, "Levým kliknutím vyřadíš hráče ze hry."
 1618, "Tito hráči jsou již ve hře."
 1619, "Nelze nalézt datové soubory misí. Zkontroluj, zda se Worms Aramageddon CD nachází ve tvé CD-ROM mechanice."
-1620, "%s (%s) vyhrává výroční láhev horké vody Florence Nightingale!\n"
-1621, "Nebyla udělena žádná ocenění.\n"
-1622, "\n\nBěhem této hry bylo zabito celkem %d červů.\n"
-1623, "Během této hry byly způsobeny škody v celkové výši %d bodů."
-1624, "Ocenění za přesnost získává %s (%s) za svou %d%% úspěšnost při střelbě.\n"
-1625, "Ocenění za nejlepší výstřel získává %s (%s). Jeho střela zabila %d červů a způsobila %d bodů škod.\n"
-1626, "%s (%s) získává ocenění za nejlepší strategii.\n"
-1627, "Cirkusové ocenění Velkého Billyho získává %s (%s).\n"
-1628, "Nejdéle přeživším červem byl %s (%s).\n"
-1629, "%s (%s) byl nejméně užitečným červem.\n"
-1630, "Nejnudnější červem byl zvolen %s (%s).\n"
-1631, "%s (%s) byl zvolen nejméně populárním červem.\n"
-}
-STRINGTABLE
-{
-1632, "%s (%s) byl nejzodpovědnějším červem.\n"
-1633, "Červem, který se přidal k temné straně, byl %s (%s).\n"
-1634, "Ocenění šťastného spotřebitele získal %s (%s).\n"
-1635, "NASA zdraví %s (%s), který vyletěl %d vysoko.\n"
-1636, "Baseballová cena Babe Ruth náleží %s (%s).\n"
-1637, "Cenu doktora Dolittla získal %s (%s).\n"
-1638, "%s (%s) změnil barvu na podivně žlutou.\n"
-1639, "\n\nKonec %d kola\n\n\n"
-1640, "Čas kola: %01d:%02d:%02d\n"
-1641, "Celkový herní čas: %01d:%02d:%02d\n\n"
-1642, "Nejnebezpečnějším červem byl: %s (%s)\n"
-1643, "Červem tohoto kola je: %s (%s)\n\n"
-1644, "Nejvíce zabitých jedním výstřelem: %d\n"
-1645, "Červ, který tuto střelu vypálil: %s (%s)\n\n"
-1646, "Největší škody jedním výstřelem: %d\n"
-1647, "%s vítězí v tomto kole.\n\n"
-}
-STRINGTABLE
-{
-1648, "V tomto kole vítězí červené týmy.\n\n"
-1649, "V tomto kole vítězí modré týmy.\n\n"
-1650, "V tomto kole vítězí zelené týmy.\n\n"
-1651, "V tomto kole vítězí žluté týmy.\n\n"
-1652, "V tomto kole vítězí fialové týmy.\n\n"
-1653, "V tomto kole vítězí modrozelené týmy..\n\n"
-1654, "Toto kolo končí remízou.\n\n"
-1655, "%s vyhrává zápas!\n\n"
-1656, "Červené týmy vyhrávají zápas!\n\n"
-1657, "Modré týmy vyhrávají zápas!\n\n"
-1658, "Zelené týmy vyhrávají zápas!\n\n"
-1659, "Žluté týmy vyhrávají zápas!\n\n"
-1660, "Fialové týmy vyhrávají zápas!\n\n"
-1661, "Modrozelené týmy vyhrávají zápas!\n\n"
-}
+
+
+
 STRINGTABLE
 {
 1680, "Mise dokončena"
-1681, "Gratulujeme! Splnil jsi misi!\n"
-1682, "Misi jsi dokončil %d sekund před časovým limitem.\n"
-1683, "Misi jsi dokončil s %d zbývajícími jednotkami energie.\n"
-1684, "Za výkon v této misi jsi byl odměněn %s medailí!\n"
-1685, "Gratulujeme! To je nový rekord pro tuto misi!\n"
-1686, "Za své úsilí jsi byl odměněn odkrytím tajné volby.\n"
+1681, "Gratulujeme! Splnil jsi misi!"
+1682, "Misi jsi dokončil \1 sekund před časovým limitem."
+1683, "Misi jsi dokončil s \1 zbývajícími jednotkami energie."
+1684, "Za výkon v této misi jsi byl odměněn \1 medailí!"
+1685, "Gratulujeme! To je nový rekord pro tuto misi!"
+1686, "Za své úsilí jsi byl odměněn odkrytím tajné volby."
 }
 STRINGTABLE
 {
@@ -1024,230 +885,18 @@ STRINGTABLE
 1712, "V této hře již není místo pro tvůj tým."
 1713, "Náhled právě zvolené mapy."
 1714, "Levým tlačítkem vygeneruješ novou mapu, pravým upravíš stávající."
-1715, "Padají zbraně!"
-1716, "Dodávka zásob."
-1717, "Ihned zabezpečit místa dopadu!"
-1718, "Dodávka byla úspěšně doručena."
-1719, "Železný orel je na cestě."
-1720, "Dodávka byla úspěšně doručena."
-1721, "Jsme v bezpečí a všechno už je jenom na tobě!"
-1722, "Bedny jsou tvou jedinou nadějí..."
-1723, "Nepřátelský letecký transport je na cestě."
-1724, "Nepřátelský transport se blíží."
-1725, "Už je skoro tady!"
-1726, "Právě dorazil. Dostaň se k bedně a pak hodně rychle uteč!"
-1727, "Nemáš náboje? Tohle by mohlo pomoci."
-}
-STRINGTABLE
-{
-1728, "Dej si pozor!"
-1729, "Expresní dodávka!"
-1730, "Zbraně úspěšně předány!"
-1731, "Nenech toto vybavení padnout do nesprávných rukou!"
-1732, "Expresní zásilka!"
-1733, "Smrt na objednávku"
-1734, "Trocha uzdravení na cestě..."
-1735, "Něco co by vám mělo pomoci, pane."
-1736, "Požehnaná pomoc"
-1737, "Trochu včasné pomoci?\n"
-1738, "Lékařské vybavení odesláno."
-1739, "Další pomocná ruka"
-1740, "Trocha pomoci pro tebe"
-1741, "Každá trocha se hodí."
-1742, "Trochu osvíceného vysvobození"
-1743, "Potřebuje tu někdo lékařskou péči?"
-}
-STRINGTABLE
-{
-1744, "Je tohle tvá krevní skupina?"
-1745, "Tak žij! Zatraceně, žij!"
-1746, "Doktor!"
-1747, "Atomová bomba je na cestě."
-1748, "Čas je proti nám pane. Musíme jednat rychle!"
-1749, "Vykuř je ven, jestli můžeš..."
-1750, "Zásah meteoru nevyhnutelný, rychle se zakopej!"
-1751, "Již je na cestě. Zásah je očekáván za 5 minut!"
-1752, "Už není moc času, rychle, rychle..."
-1753, "Bylo detekováno odpálení taktické nukleární rakety."
-1754, "Varování! Hrozí zásah nukleární rakety!"
-1755, "Na severním konci ostrova byly zaznamenány otřesy země."
-1756, "Globální oteplování! Pozor na hladinu vody!"
-1757, "Snaž se nenamočit!\n"
-1758, "Rychle, ať se k tobě nedostanou!"
-1759, "Generál se snaží uprchnout!"
-}
-STRINGTABLE
-{
-1760, "Ta radiace bude tvoje smrt!"
-1761, "Rychle se dostaň až do oblak!"
-1762, "Vylez na tu horu, ne na ten krtinec."
-1763, "Rychle pryč od okrajů, brzy přijde zemětřesení!"
-1764, "Kde je Noem, když ho tak potřebujeme?"
-1765, "Je čas postavit ty přístřešky."
-1766, "Doufám, že máš dostatečnou ochranu."
-1767, "VAROVÁNÍ! Seismická aktivita, 7.2 na Richterově stupnici!"
-1768, "Jak to dopadlo s tím pětiminutovým varováním?"
-1769, "Globální vyhlazení!"
-1770, "VAROVÁNÍ! Zlomová linie je tady!"
-1771, "Pozor, tektonický pohyb!"
-1772, "Na konci světa bude noc!"
-1773, "Den zúčtování"
-1774, "Nepřátelské síly se mobilizují!"
-1775, "Raketa je tady!"
-}
-STRINGTABLE
-{
-1776, "V příštím kole to už bude nepřítel brát vážně."
-1777, "Nepřítel je ozbrojen až po zuby!"
-1778, "Viděli tě, UTÍKEJ!"
-1779, "Embargo na nepřátelské zbraně bylo ukončeno."
-1780, "Možná tě čekají potíže..."
-1781, "Konflikt se vyostřuje."
-1782, "Znič je všechny, vojáku!"
-1783, "Válka je peklo."
-1784, "Raději kopej hodně hluboko!"
-1785, "Ve smrti JE čest."
-1786, "Použij temnou stranu!"
-1787, "Zajisti oblast!"
-1788, "Kopej dolů a kopej hluboko."
-1789, "To ovoce už dozrálo, a je na čase jej posbírat!"
-1790, "Nezapomeň sbírat bedny, abys rozšířil svůj arzenál."
-1791, "Nářadí by se teď hodilo."
-}
-STRINGTABLE
-{
-1792, "Teď by se opravdu hodila první pomoc."
-1793, "Budeš muset použít lano..."
-1794, "Zvaž použití několika trámů jako ochrany."
-1795, "Musíš zahájit střelbu."
-1796, "Nezapomeň, že i na laně můžeš odhazovat předměty!"
-1797, "Nauč se využívat opakovaného nadhození lana!"
-1798, "Nauč se všechny skákací techniky."
-1799, "Zpětný skok tě dostane ještě výše."
-1800, "Dobře sleduj nepřátelské jednotky a jejich taktiku."
-1801, "Jednej rychle, mysli s předstihem."
-1802, "Skunkové se mohou dostat i do míst, kam se žádná jiná zbraň nedostane."
-1803, "Zbraně mohou být při výstřelu posunuty nahoru i dolů."
-1804, "Někdy se řešení mise ukrývá v bedně."
-1805, "Trámy můžeš umístit i v případě, že se právě houpeš na laně."
-1806, "Potřebuješ pomoc? Zkus použít šíp nebo dva..."
-1807, "Trám může být tvou poslední obrannou linií."
-}
-STRINGTABLE
-{
-1808, "Zvířata a staré ženy mohou jít nakupovat."
-1809, "Padák nezpomalí tvůj pád, ale lze jej ovládat."
-1810, "Nezapomeň, že máš k dispozici padák."
-1811, "Bedny a exploze nejdou dohromady."
-1812, "Nálety budou efektivnější, pokud je správně nasměruješ."
-1813, "Krtci rádi hrabou směrem dolů a také mají sklony k explozím."
-1814, "Dobře umístěný dynamit vyžene z úkrytu i toho nejtvrdohlavějšího červa."
-1815, "Vítr ovlivňuje dráhu některých zbraní. Tak pozor, ať nestojíš po větru."
-1816, "Odhadni účinky větru, a pak už jen použij svou bazuku!"
-1817, "Přebyteční červi mohou být výbornou návnadou."
-1818, "Střílej také do barelů. I ty mohou být smrtící."
-1819, "Tato bedna by mohla být životně důležitá!"
-1820, "Trámy mohou pomoci granátům dosáhnout jejich cíle."
-1821, "Vodní ovce vodu přímo miluje."
-1822, "Pospěš si, čas nám pomalu končí."
-1823, "Raději si pospěš. Už nezbývá mnoho času."
-}
-STRINGTABLE
-{
-1824, "Rychle! Voda stoupá!"
-1825, "Tady je něco, co ti pomůže."
-1826, "Pokud máš potíže, použij toto."
-1827, "Mysleli jsme si, že bys tohle mohl ocenit."
-1828, "Zdá se, že potřebuješ pomoc, nováčku."
-1829, "Tohle se bude hodit."
-1830, "Potřebuješ pomoc..."
-1831, "Zkus tohle."
-}
-STRINGTABLE
-{
-2000, "Cenu pro nejlepšího červa zápasu získává %s (%s) za %d zabitých červů."
-2001, "%s získává cenu nejlepšího ostřelovače... (%d%%)\n"
-2002, "%s byl zvolen nejnudnějším týmem.\n"
-2003, "Sláva %s, mistrům temné strany!\n"
-2004, "%s nebyl ale vůbec dobrý.\n"
-2005, "%s získává cenu za pobavení diváků.\n"
-2006, "Cena obchodníků putuje k %s.\n"
-2007, "Cenu za uspokojení nejvíce diváků získává %s.\n"
-2008, "%s nezmlkl ani na chvilku.\n"
-2009, "%s neměl vůbec co říci.\n"
-}
-STRINGTABLE
-{
-4000, "Cheaty"
-4001, "Bedna s chmýřím "
-4002, "Krvavý útok"
-4003, "Nezranitelnost"
-4004, "Vylepšené ovce"
-4005, "Svobodný mód"
-4006, "Nezničitelný terén!"
-4007, "Síla ananasu"
-4008, "12hlavňová brokovnice"
-4009, "Hodný obchodník"
-4010, "Robin Hood"
-4011, "Všechny bedny budou obsahovat naše ochmýřené přátele."
-4012, "Zasažení červi budou krvácet."
-4013, "Červi budou nezranitelní jakýmkoliv útokem s výjimkou pádu do vody."
-4014, "Vylepší super ovce na vodní ovce, které mohou kromě létání i plavat."
+
+
+
 4015, "Hra s neomezeným množstvím nástrojů pro volbu červa."
-}
-STRINGTABLE
-{
-4016, "Aktivuje nezničitelný terén. Poznámka: Pečlivě zvaž, na jaké mapě tento cheat použiješ."
-4017, "Zvětší ničivou sílu granátů."
-4018, "Zvýší ničivý potenciál brokovnice."
-4019, "Vylepší všechny banánové bomby na super banánové bomby."
-4020, "Zvýší škody působené dlouhým lukem."
-
-
-
-
-
 
 4044, "Malí vojáci"
 4045, "Zkus si tento nový styl hry!"
 }
 STRINGTABLE
 {
-4100, "Zkus to ještě jednou...\n"
-4101, "Zkus to znovu.\n"
-4102, "Smůla - zkus to znovu.\n"
-4103, "Nepropadej panice, teď už to určitě zvládneš.\n"
-4104, "Dokaž, že to zvládneš!\n"
-4105, "Jdi na to, vojáku!\n"
-4106, "Zkus to znovu, ale tentokrát se více snaž.\n"
-4107, "Zase ty?\n"
-}
-STRINGTABLE
-{
 4200, "Detaily"
 
-}
-STRINGTABLE
-{
-4300, "Hráči v aktuální hře."
-4301, "Týmy v aktuální hře."
-4302, "Pokračovat..."
-4303, "Pokračovat ve hře."
-}
-STRINGTABLE
-{
-4304, "Potvrď, že jsi připraven pokračovat."
-4305, "Připraven"
-4306, "Konec"
-4307, "Ukončí aktuální hru."
-4308, "Odstraní hráče ze hry."
-4309, "Zprávy od ostatních hráčů v této hře"
-4310, "Sem napiš zprávy, které chceš poslat ostatním hráčům."
-4311, "%s je nyní ve vedení."
-4312, "Hrát znovu"
-4313, "Další hra se stejnými hráči"
-4314, "Konec"
-4315, "Odchod ze hry"
 }
 STRINGTABLE
 {
@@ -1270,7 +919,7 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-5200, "Došlo k chybě při čtení dat z CD. \nZkontroluj, zda je herní CD v mechanice a není na něm prach nebo škrábance."
+5200, "Došlo k chybě při čtení dat z CD. Zkontroluj, zda je herní CD v mechanice a není na něm prach nebo škrábance."
 5201, "CD CHYBA"
 5202, "Vlož Worms Armageddon CD do CD-ROM mechaniky ještě před spuštěním hry."
 5203, "Zkontroluj, zda se Worms Armageddon CD nachází v CD-ROM mechanice."
@@ -1288,7 +937,7 @@ STRINGTABLE
 
 STRINGTABLE
 {
-9000, "Vítej ve hře WORMS ARMAGEDDON!\nNejtemnější hodině hratelnosti!\n\nCopyright 1998 Team17 Software Limited.\nVšechna práva vyhrazena.\nDistribuuje MicroProse Ltd.\n\nPro spuštění hry stiskni libovolnou klávesu nebo tlačítko myši."
+9000, "Vítej ve hře WORMS ARMAGEDDON!Nejtemnější hodině hratelnosti!Copyright 1998 Team17 Software Limited.Všechna práva vyhrazena.Distribuuje MicroProse Ltd.Pro spuštění hry stiskni libovolnou klávesu nebo tlačítko myši."
 }
 STRINGTABLE
 {
@@ -1418,10 +1067,10 @@ STRINGTABLE
 {
 49104, "Debugovací mód zapnut"
 49105, "Debugovací mód vypnut"
-49106, "Pro nápovědu k určitému příkazu napiš /HELP <příkaz>.\n"
-49107, "Zadal jsi nesprávný chatovací příkaz. Chatovací příkazy vždy začínají znakem /.\nNapiš /HELP pro více informací ohledně příkazů a jejich použití."
-49108, "Platné příkazy jsou následující;\n"
-49109, "Pro tento příkaz není dostupná žádná nápověda.\n"
+49106, "Pro nápovědu k určitému příkazu napiš /HELP <příkaz>."
+49107, "Zadal jsi nesprávný chatovací příkaz. Chatovací příkazy vždy začínají znakem /.Napiš /HELP pro více informací ohledně příkazů a jejich použití."
+49108, "Platné příkazy jsou následující;"
+49109, "Pro tento příkaz není dostupná žádná nápověda."
 49111, "Hledám hry..."
 49112, "Nebyly nalezeny žádné hry."
 49113, "Přezdívka"
@@ -1440,7 +1089,7 @@ STRINGTABLE
 49123, "Vzdálený server možná nepracuje."
 49124, "Byl jsi odpojen ze serveru, protože jsi odeslal příliš mnoho zpráv najednou (chyba zahlcení)."
 49125, "Základní trénink"
-49126, "Tento trénink je složen z jednoduchých úkolů, které vylepší tvé základní dovednosti.\n\nPokud uspěješ, budeš odměněn medailí, která ti umožní přístup k misím.\n\nČím lepší výsledek, tím více misí se ti zpřístupní."
+49126, "Tento trénink je složen z jednoduchých úkolů, které vylepší tvé základní dovednosti.Pokud uspěješ, budeš odměněn medailí, která ti umožní přístup k misím.Čím lepší výsledek, tím více misí se ti zpřístupní."
 49127, "Házení granátem stupeň 1"
 49128, "Střelba z brokovnice"
 49129, "Střelba z bazuky stupeň 1"
@@ -1454,27 +1103,27 @@ STRINGTABLE
 STRINGTABLE
 {
 49136, "Trámy a ovce"
-49137, "\n\nMáš 50 sekund na zničení 2 cílů s použitím granátů.\n\nNezapomeň správně používat časové zpoždění výbuchu.\n\nGranáty nejsou ovlivněny větrem."
-49138, "\n\nMáš 60 sekund na to, abys trefil všech 6 cílů."
-49139, "\n\nMáš 40 sekund na zničení všech cílů.\n\nStřely z bazuky jsou ovlivněny větrem."
-49140, "\n\nPoužij lano k překonání celého bojiště. Po cestě seber bednu a znič cíl.\n\nVše musíš splnit během jednoho tahu.\n\nNauč se správně používat opakovaného švihu lana."
-49141, "\n\nMáš 60 sekund na zničení všech cílů."
-49142, "\n\nV tomto cvičení se naučíš alternativnímu využití různých zbraní a novým metodám skákání.\n\nMáš 50 sekund na zničení všech cílů."
-49143, "\n\nMáš 60 sekund na zničení cíle.\n\nS použitím lana získej zbraň, tu pak použij v cílové oblasti."
-49144, "\n\nMáš 60 sekund na zničení všech cílů.\n\nNezapomeň, že dráha letu bazuky je ovlivněna větrem. V tomto cvičení budeš muset použít jeden malý-známý trik...\n\nTip! Během 2. světové války měla britská armáda skákavou bombu."
-49145, "\n\nMáš 99 sekund na zničení cílů s použitím granátů.\n\nNezapomeň správně používat časové zpoždění výbuchu.\n\nGranáty nejsou ovlivněny větrem."
-49146, "V tomto cvičení musíš postavit pontonový most přes obrazovku tak, abys mohl vyslat ovci, která pak srazí tvůj cíl do vody.\n\nNa toto cvičení máš 60 sekund."
+49137, "Máš 50 sekund na zničení 2 cílů s použitím granátů.Nezapomeň správně používat časové zpoždění výbuchu.Granáty nejsou ovlivněny větrem."
+49138, "Máš 60 sekund na to, abys trefil všech 6 cílů."
+49139, "Máš 40 sekund na zničení všech cílů.Střely z bazuky jsou ovlivněny větrem."
+49140, "Použij lano k překonání celého bojiště. Po cestě seber bednu a znič cíl.Vše musíš splnit během jednoho tahu.Nauč se správně používat opakovaného švihu lana."
+49141, "Máš 60 sekund na zničení všech cílů."
+49142, "V tomto cvičení se naučíš alternativnímu využití různých zbraní a novým metodám skákání.Máš 50 sekund na zničení všech cílů."
+49143, "Máš 60 sekund na zničení cíle.S použitím lana získej zbraň, tu pak použij v cílové oblasti."
+49144, "Máš 60 sekund na zničení všech cílů.Nezapomeň, že dráha letu bazuky je ovlivněna větrem. V tomto cvičení budeš muset použít jeden malý-známý trik...Tip! Během 2. světové války měla britská armáda skákavou bombu."
+49145, "Máš 99 sekund na zničení cílů s použitím granátů.Nezapomeň správně používat časové zpoždění výbuchu.Granáty nejsou ovlivněny větrem."
+49146, "V tomto cvičení musíš postavit pontonový most přes obrazovku tak, abys mohl vyslat ovci, která pak srazí tvůj cíl do vody.Na toto cvičení máš 60 sekund."
 49147, "Nedokončil jsi toto cvičení, tedy ani základní trénink. Musíš se o to pokusit znovu."
-49148, "Smůla, nedokončil jsi toto cvičení a základní trénink pro tebe končí.\n\nZkus to znovu a tentokrát se více snaž."
-49149, "Gratulujeme!\n\nByl jsi odměněn bronzovou tréninkovou medailí.\n\nDíky tomu se nyní můžeš pokusit o několik prvních misí."
+49148, "Smůla, nedokončil jsi toto cvičení a základní trénink pro tebe končí.Zkus to znovu a tentokrát se více snaž."
+49149, "Gratulujeme!Byl jsi odměněn bronzovou tréninkovou medailí.Díky tomu se nyní můžeš pokusit o několik prvních misí."
 49150, "Vynikající, tvé dovednosti ti vynesly stříbrnou tréninkovou medaili. Díky ní máš nyní přístup k dalším misím."
-49151, "Výborně vojáku!\n\nPrávě jsi dokončil celý tréninkový program.\n\nNyní máš přístup ke všem misím.\n\nHodně štěstí!"
+49151, "Výborně vojáku!Právě jsi dokončil celý tréninkový program.Nyní máš přístup ke všem misím.Hodně štěstí!"
 }
 STRINGTABLE
 {
-49152, "Pro začátečníky zde není žádné místo.\n\nPro přístup k misím musí tvůj tým získat alespoň bronzovou tréninkovou medaili.\n\nJdi do menu Trénink a získej zde alespoň bronzovou medaili."
-49153, "Domníváme se, že mise, kterou se snažíš spustit, by mohla být nad tvé schopnosti. Abys nám dokázal opak, musíš získat alespoň stříbrnou tréninkovou medaili.\n\nJdi tedy do menu trénink a získej alespoň stříbrnou medaili."
-49154, "Je chvályhodné, že se pokoušíš o tak obtížnou misi, ale přístup k ní mají pouze držitelé zlaté tréninkové medaile.\n\nVrať se zpět, až ji získáš."
+49152, "Pro začátečníky zde není žádné místo.Pro přístup k misím musí tvůj tým získat alespoň bronzovou tréninkovou medaili.Jdi do menu Trénink a získej zde alespoň bronzovou medaili."
+49153, "Domníváme se, že mise, kterou se snažíš spustit, by mohla být nad tvé schopnosti. Abys nám dokázal opak, musíš získat alespoň stříbrnou tréninkovou medaili.Jdi tedy do menu trénink a získej alespoň stříbrnou medaili."
+49154, "Je chvályhodné, že se pokoušíš o tak obtížnou misi, ale přístup k ní mají pouze držitelé zlaté tréninkové medaile.Vrať se zpět, až ji získáš."
 
 
 

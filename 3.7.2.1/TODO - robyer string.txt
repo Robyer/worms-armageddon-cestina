@@ -3,7 +3,7 @@
 2	Zapne ci vypne zvuky prostredi
 3	CD hudba
 4	Zapne ci vypne CD hudbu
-5	%s
+5	\1
 6	Pokrocile
 7	Chyba
 8	Pripojeni ukonceno
@@ -42,7 +42,7 @@
 41	Uroven grafickych detailu behem hry. Jejich snizenim dosahnes lepsiho vykonu.
 42	Minimalni
 43	Maximalni
-44	Nastaveni zvuku - Hlasitost = %d%%
+44	Nastaveni zvuku - Hlasitost = \1%%
 45	Musis zadat adresu proxy serveru nebo deaktivovat volbu proxy.
 46	Hlasitost efektu
 47	Nazev hry je prilis kratky. Zadej delsi nazev.
@@ -263,10 +263,10 @@
 265	Na mape bude maximalne 8 objektu.\nPodrzte Shift pro zmenu poctu
 266	Na mape nebudou zadne objekty.
 267	Navrat na predchozi obrazovku
-268	\n\nOpravdu chces prepsat nastaveni \n ' %s ' ?
+268	\n\nOpravdu chces prepsat nastaveni \n ' \1 ' ?
 269	Prepsat nastaveni?
 270	Smazat nastaveni?
-271	\nOpravdu chces\nsmazat nastaveni ' %s ' ?
+271	\nOpravdu chces\nsmazat nastaveni ' \1 ' ?
 272	Levym kliknutim pridas cerva do tymu. Pravym kliknutim jej odeberes.
 273	Zvoli spojence pro tento tym
 274	Nastavi zvyhodneni ci znevyhodneni pro tento tym.
@@ -328,19 +328,19 @@
 330	Silene bedny
 331	Delostrelecka strelnice
 332	Eutanazie
-333	Aktualni rekord pro tuto udalost %d:%02d:%02d sekund drzi %s.
+333	Aktualni rekord pro tuto udalost \1:%02d:%02d sekund drzi \2.
 334	Vyzkousi tuto zvukovou sadu.
-335	Cas nezbytny pro ziskani BRONZOVE medaile, je %d:%02d:%02d sekund... hodne stesti!
-336	Pro ziskani STRIBRNE medaile musis dosahnout casu %d:%02d:%02d sekund nebo lepsiho!
+335	Cas nezbytny pro ziskani BRONZOVE medaile, je \1:%02d:%02d sekund... hodne stesti!
+336	Pro ziskani STRIBRNE medaile musis dosahnout casu \1:%02d:%02d sekund nebo lepsiho!
 337	Vystrel super ovci a letej s ni po mape, jak nejdele dovedes. \n\nCasovy limit muzes zvysit sbiranim predmetu. \n\nZa ziskani zlate medaile v tomto zavode je zvlastni odmena.
 338	Zasahni co nejvice cilu. Kazdy zasazeny cil zvysi casovy limit. \n\nHra konci po vyprseni casoveho limitu.
 339	Pro pohyb po teto urovni musis pouzit lano. Kazda bedna, kterou ziskas, zvysi casovy limit. \n\nHra konci po vyprseni casoveho limitu.
 340	Pouzij sve delostrelectvo pro zniceni cilu. \n\nZa kazdy zasazeny cil dostanes nekolik vterin navic. Hra konci po vyprseni casoveho limitu.
 341	Pro tuto hru mas pouze omezene mnozstvi zbrani. Pouzij je k co nejrychlejsi likvidaci starych dam! \n\nUvidime, jak dlouho vydrzis.
-342	Pro ziskani ZLATE medaile musis dosahnout casu %d:%02d:%02d sekund. Jdi na to!
-343	Vyborne. Tvuj cas %d:%02d:%02d staci na zisk BRONZOVE medaile. Pokracuj v treninku, aby sis jeste vice vylepsil sve dovednosti.
-344	Gratulujeme. Tvuj vyborny cas %d:%02d:%02d ti vynesl STRIBRNOU medaili. Jeste trochu treninku a stanes se mistrem teto discipliny.
-345	Fantasticke! Tvuj vynikajici cas %d:%02d:%02d znaci, ze jsi hoden zisku ZLATE medaile. Nyni jsi nejlepsi. Ale nezapomen stale trenovat, aby sis jeste vice zlepsil svuj cas.
+342	Pro ziskani ZLATE medaile musis dosahnout casu \1:%02d:%02d sekund. Jdi na to!
+343	Vyborne. Tvuj cas \1:%02d:%02d staci na zisk BRONZOVE medaile. Pokracuj v treninku, aby sis jeste vice vylepsil sve dovednosti.
+344	Gratulujeme. Tvuj vyborny cas \1:%02d:%02d ti vynesl STRIBRNOU medaili. Jeste trochu treninku a stanes se mistrem teto discipliny.
+345	Fantasticke! Tvuj vynikajici cas \1:%02d:%02d znaci, ze jsi hoden zisku ZLATE medaile. Nyni jsi nejlepsi. Ale nezapomen stale trenovat, aby sis jeste vice zlepsil svuj cas.
 346	Zvol disciplinu, kterou chces trenovat.
 347	Treninkova disciplina, kterou jsi zvolil.
 348	Podrobnosti o treninku
@@ -497,8 +497,8 @@
 500	Deathmatch
 501	Hrat hru v modu deathmatch
 502	Tve herni vysledky ti zpristupnily tajnou volbu!
-503	Smula, tvuj cas %d:%02d:%02d nestaci na ziskani oceneni. Zkus to znovu. Cviceni dela mistra!
-504	Vynikajici, tvuj cas %d:%02d:%02d je novym rekordem pro tuto udalost!
+503	Smula, tvuj cas \1:%02d:%02d nestaci na ziskani oceneni. Zkus to znovu. Cviceni dela mistra!
+504	Vynikajici, tvuj cas \1:%02d:%02d je novym rekordem pro tuto udalost!
 505	Velka Britanie
 506	Neznama
 507	Argentina
@@ -566,7 +566,7 @@
 571	S timto hracem mas prumerne spojeni.
 572	S timto hracem mas pomale spojeni.
 573	S timto hracem mas velmi pomale spojeni.
-574	Worms Armageddon systemova chyba (%d)
+574	Worms Armageddon systemova chyba (\1)
 575	Pouzit double buffering
 576	Land in VRAM
 577	Vylepseni
@@ -576,9 +576,9 @@
 581	Phone chat notification
 582	Pouzit vetsi fonty
 583	Auto-register associations
-584	Stereo efekty - %s
+584	Stereo efekty - \1
 585	Obratit
-586	Map memory warning - %s
+586	Map memory warning - \1
 587	Reset
 588	Vypnuto
 589	Vzdy
@@ -654,8 +654,8 @@
 819	Superhvezda
 820	Elita
 822	Bojuj proti pocitaci v bitvach typu deathmatch. Kazda dalsi bitva je o neco narocnejsi.\n
-823	Tento tym jiz odehral %d her typu deathmatch, z nich vyhral %d a prohral %d.\nTym jiz zabil %d cervu, pricemz zemrelo %d cervu z tohoto tymu.\n
-824	Aktualni deathmatch hodnost tohoto tymu je %s.\n
+823	Tento tym jiz odehral \1 her typu deathmatch, z nich vyhral \2 a prohral \3.\nTym jiz zabil \4 cervu, pricemz zemrelo \5 cervu z tohoto tymu.\n
+824	Aktualni deathmatch hodnost tohoto tymu je \1.\n
 900	Tenhle ukol je pro uplne novacky.
 901	Tato mise je snadna.
 902	Tato mise je prumerne obtizna.
@@ -870,10 +870,10 @@
 1605	Pomucky
 1606	Gratulace!
 1607	Gratulujeme vitezi!\n
-1608	Tva hodnost je %s.\n
+1608	Tva hodnost je \1.\n
 1609	Smula
 1610	Smula, byl jsi porazen... Zkus to znovu!\n
-1611	Za sve vykony jsi byl odmenen %s medaili.
+1611	Za sve vykony jsi byl odmenen \1 medaili.
 1612	Hrac 1
 1613	Cerv 1
 1614	Cerv 2
@@ -882,34 +882,34 @@
 1617	Levym kliknutim vyradis hrace ze hry.
 1618	Tito hraci jsou jiz ve hre.
 1619	Nelze nalezt datove soubory misi. Zkontroluj, zda se Worms Aramageddon CD nachazi ve tve CD-ROM mechanice.
-1620	%s (%s) vyhrava vyrocni lahev horke vody Florence Nightingale!\n
+1620	\1 (\2) vyhrava vyrocni lahev horke vody Florence Nightingale!\n
 1621	Nebyla udelena zadna oceneni.\n
-1622	\n\nBehem teto hry bylo zabito celkem %d cervu.\n
-1623	Behem teto hry byly zpusobeny skody v celkove vysi %d bodu.
-1624	Oceneni za presnost ziskava %s (%s) za svou %d%% uspesnost pri strelbe.\n
-1625	Oceneni za nejlepsi vystrel ziskava %s (%s). Jeho strela zabila %d cervu a zpusobila %d bodu skod.\n
-1626	%s (%s) ziskava oceneni za nejlepsi strategii.\n
-1627	Cirkusove oceneni Velkeho Billyho ziskava %s (%s).\n
-1628	Nejdele prezivsim cervem byl %s (%s).\n
-1629	%s (%s) byl nejmene uzitecnym cervem.\n
-1630	Nejnudnejsi cervem byl zvolen %s (%s).\n
-1631	%s (%s) byl zvolen nejmene popularnim cervem.\n
-1632	%s (%s) byl nejzodpovednejsim cervem.\n
-1633	Cervem, ktery se pridal k temne strane, byl %s (%s).\n
-1634	Oceneni stastneho spotrebitele ziskal %s (%s).\n
-1635	NASA zdravi %s (%s), ktery vyletel %d vysoko.\n
-1636	Baseballova cena Babe Ruth nalezi %s (%s).\n
-1637	Cenu doktora Dolittla ziskal %s (%s).\n
-1638	%s (%s) zmenil barvu na podivne zlutou.\n
-1639	\n\nKonec %d kola\n\n\n
+1622	\n\nBehem teto hry bylo zabito celkem \1 cervu.\n
+1623	Behem teto hry byly zpusobeny skody v celkove vysi \1 bodu.
+1624	Oceneni za presnost ziskava \1 (\2) za svou \3%% uspesnost pri strelbe.\n
+1625	Oceneni za nejlepsi vystrel ziskava \1 (\2). Jeho strela zabila \3 cervu a zpusobila \4 bodu skod.\n
+1626	\1 (\2) ziskava oceneni za nejlepsi strategii.\n
+1627	Cirkusove oceneni Velkeho Billyho ziskava \1 (\2).\n
+1628	Nejdele prezivsim cervem byl \1 (\2).\n
+1629	\1 (\2) byl nejmene uzitecnym cervem.\n
+1630	Nejnudnejsi cervem byl zvolen \1 (\2).\n
+1631	\1 (\2) byl zvolen nejmene popularnim cervem.\n
+1632	\1 (\2) byl nejzodpovednejsim cervem.\n
+1633	Cervem, ktery se pridal k temne strane, byl \1 (\2).\n
+1634	Oceneni stastneho spotrebitele ziskal \1 (\2).\n
+1635	NASA zdravi \1 (\2), ktery vyletel \3 vysoko.\n
+1636	Baseballova cena Babe Ruth nalezi \1 (\2).\n
+1637	Cenu doktora Dolittla ziskal \1 (\2).\n
+1638	\1 (\2) zmenil barvu na podivne zlutou.\n
+1639	\n\nKonec \1 kola\n\n\n
 1640	Cas kola: %01d:%02d:%02d\n
 1641	Celkovy herni cas: %01d:%02d:%02d\n\n
-1642	Nejnebezpecnejsim cervem byl: %s (%s)\n
-1643	Cervem tohoto kola je: %s (%s)\n\n
-1644	Nejvice zabitych jednim vystrelem: %d\n
-1645	Cerv, ktery tuto strelu vypalil: %s (%s)\n\n
-1646	Nejvetsi skody jednim vystrelem: %d\n
-1647	%s vitezi v tomto kole.\n\n
+1642	Nejnebezpecnejsim cervem byl: \1 (\2)\n
+1643	Cervem tohoto kola je: \1 (\2)\n\n
+1644	Nejvice zabitych jednim vystrelem: \1\n
+1645	Cerv, ktery tuto strelu vypalil: \1 (\2)\n\n
+1646	Nejvetsi skody jednim vystrelem: \1\n
+1647	\1 vitezi v tomto kole.\n\n
 1648	V tomto kole vitezi cervene tymy.\n\n
 1649	V tomto kole vitezi modre tymy.\n\n
 1650	V tomto kole vitezi zelene tymy.\n\n
@@ -917,7 +917,7 @@
 1652	V tomto kole vitezi fialove tymy.\n\n
 1653	V tomto kole vitezi modrozelene tymy..\n\n
 1654	Toto kolo konci remizou.\n\n
-1655	%s vyhrava zapas!\n\n
+1655	\1 vyhrava zapas!\n\n
 1656	Cervene tymy vyhravaji zapas!\n\n
 1657	Modre tymy vyhravaji zapas!\n\n
 1658	Zelene tymy vyhravaji zapas!\n\n
@@ -926,9 +926,9 @@
 1661	Modrozelene tymy vyhravaji zapas!\n\n
 1680	Mise dokoncena
 1681	Gratulujeme! Splnil jsi misi!\n
-1682	Misi jsi dokoncil %d sekund pred casovym limitem.\n
-1683	Misi jsi dokoncil s %d zbyvajicimi jednotkami energie.\n
-1684	Za vykon v teto misi jsi byl odmenen %s medaili!\n
+1682	Misi jsi dokoncil \1 sekund pred casovym limitem.\n
+1683	Misi jsi dokoncil s \1 zbyvajicimi jednotkami energie.\n
+1684	Za vykon v teto misi jsi byl odmenen \1 medaili!\n
 1685	Gratulujeme! To je novy rekord pro tuto misi!\n
 1686	Za sve usili jsi byl odmenen odkrytim tajne volby.\n
 1700	Pripojeni ke hre v roli pozorovatele.
@@ -1099,16 +1099,16 @@
 1933	Tato uroven bude mit vlastnosti mapy jeskynniho typu.
 1934	Odchod z editoru map.
 1935	Zmeni umisteni objektu, mostu a der.\nShift+klik vrati predchozi.
-2000	Cenu pro nejlepsiho cerva zapasu ziskava %s (%s) za %d zabitych cervu.
-2001	%s ziskava cenu nejlepsiho ostrelovace... (%d%%)\n
-2002	%s byl zvolen nejnudnejsim tymem.\n
-2003	Slava %s, mistrum temne strany!\n
-2004	%s nebyl ale vubec dobry.\n
-2005	%s ziskava cenu za pobaveni divaku.\n
-2006	Cena obchodniku putuje k %s.\n
-2007	Cenu za uspokojeni nejvice divaku ziskava %s.\n
-2008	%s nezmlkl ani na chvilku.\n
-2009	%s nemel vubec co rici.\n
+2000	Cenu pro nejlepsiho cerva zapasu ziskava \1 (\2) za \3 zabitych cervu.
+2001	\1 ziskava cenu nejlepsiho ostrelovace... (\2%%)\n
+2002	\1 byl zvolen nejnudnejsim tymem.\n
+2003	Slava \1, mistrum temne strany!\n
+2004	\1 nebyl ale vubec dobry.\n
+2005	\1 ziskava cenu za pobaveni divaku.\n
+2006	Cena obchodniku putuje k \1.\n
+2007	Cenu za uspokojeni nejvice divaku ziskava \1.\n
+2008	\1 nezmlkl ani na chvilku.\n
+2009	\1 nemel vubec co rici.\n
 4000	Cheaty
 4001	Bedna s chmyrim 
 4002	Krvavy utok
@@ -1130,29 +1130,29 @@
 4018	Zvysi nicivy potencial brokovnice.
 4019	Vylepsi vsechny bananove bomby na super bananove bomby.
 4020	Zvysi skody pusobene dlouhym lukem.
-4021	%s dosahl nasledujiciho...\n\n
+4021	\1 dosahl nasledujiciho...\n\n
 4022	DEATHMATCH HRY\n
-4023	Dosahl hodnosti %s.\n
-4024	Odehral %d kol hry, pricemz zabil %d nepratelskych cervu, a soucasne prisel o %d vlastnich cervu.\n
-4025	Za tento vykon dostal %s medaili.\n\n
+4023	Dosahl hodnosti \1.\n
+4024	Odehral \1 kol hry, pricemz zabil \2 nepratelskych cervu, a soucasne prisel o \3 vlastnich cervu.\n
+4025	Za tento vykon dostal \1 medaili.\n\n
 4026	Za tento vykon si nezaslouzi zadnou medaili.\n\n
 4027	TRENINKOVE UDALOSTI\n
 4028	Tento tym je drzitelem nasledujicich rekordu:\n
-4029	%s - %d:%02d:%02d sekund.\n
-4030	%s - %d:%02d:%02d sekund  ( %s oceneni ).\n
+4029	\1 - \2:%02d:%02d sekund.\n
+4030	\1 - \2:%02d:%02d sekund  ( \3 oceneni ).\n
 4031	\nVYKONY V MISICH\n
-4032	Tento tym dosahl mise c. %d.\n
+4032	Tento tym dosahl mise c. \1.\n
 4033	Za tento vykon mu nemohla byt udelena zadna medaile cti.\n\n
-4034	Za tento vykon byl ocenen %s medaili.\n\n
+4034	Za tento vykon byl ocenen \1 medaili.\n\n
 4035	HRA VICE HRACU\n
-4036	Odehrano her %d.\n
-4037	Vyhrano her %d.\n
-4038	Pocet zabitych cervu - %d.\n
-4039	Pocet padlych cervu %d.\n
-4040	Pocet cervu padlych v boji - %d.\n
-4041	Na zaklade techto vykonu ti byla udelena hodnost %s.\n\n
+4036	Odehrano her \1.\n
+4037	Vyhrano her \1.\n
+4038	Pocet zabitych cervu - \1.\n
+4039	Pocet padlych cervu \1.\n
+4040	Pocet cervu padlych v boji - \1.\n
+4041	Na zaklade techto vykonu ti byla udelena hodnost \1.\n\n
 4042	CELKOVE HODNOCENI\n
-4043	Na zaklade celkoveho hodnoceni ma tento tym hodnost %s.
+4043	Na zaklade celkoveho hodnoceni ma tento tym hodnost \1.
 4044	Mali vojaci
 4045	Zkus si tento novy styl hry!
 4100	Zkus to jeste jednou...\n
@@ -1178,7 +1178,7 @@
 4308	Odstrani hrace ze hry.
 4309	Zpravy od ostatnich hracu v teto hre
 4310	Sem napis zpravy, ktere chces poslat ostatnim hracum.
-4311	%s je nyni ve vedeni.
+4311	\1 je nyni ve vedeni.
 4312	Hrat znovu
 4313	Dalsi hra se stejnymi hraci
 4314	Konec
@@ -1455,7 +1455,7 @@
 49179	Zobrazit informace o misi
 49180	Statistiky zvoleneho tymu.
 49181	Sitova adresa.
-49182	Nyni jsi pripojen k %s (Hostovano %s)...
+49182	Nyni jsi pripojen k \1 (Hostovano \2)...
 49183	Pro pripojeni k teto hre je vyzadovano heslo.
 49184	Zadej heslo.
 49185	Heslo je nespravne, zkus jej zadat znovu.
@@ -1478,30 +1478,11 @@
 49204	Oriznout
 49205	Kliknete pro odstraneni barvy z teto mapy.\nPravym klikem zmenite Worm Placement Holes.
 49206	Prepsat mapu?
-49207	\n\nUrcite chcete prepsat\nmapu "%s"?
+49207	\n\nUrcite chcete prepsat\nmapu "\1"?
 49208	Port
 49209	Port pouzity k hostovani her.
 49300	Jazyk
-49999	Krtci bomba - Dokazes ji vykopat?
-50000	Zvolit cerva - Franta, Tonda, Honza, Lojza...
-50001	Armageddon - A budeme dedici... niceho.
-50002	Patsina magicka strela - Zadna konspirace po tom vsem...
-50003	Kobercova bomba - Vycistete tu ohavnou skrvnu.
-50004	Krabicovy spion - Uzijte si koukani na vylohy obchodu.
-50005	Betonový osel - Ten, kdo má posledni íá
-50006	Zmrazeni - Ledovec v krabici
-50007	Balik tramu - Tezky pokrok v architekture
-50008	Kyzena MB Bomba
-50009	Minovy nalet - Nevybuchnuta munice, anyone?
-50010	Stara váza - Taková neskodná starozitnost.
-50013	Indicky nuklearni test - To je zásah do indicke pouste
-50014	Postovni nalet - Základni nástroj nastvanych postaku.
-50015	Zemetreseni - Je to vsechno tvoje vina.
-50016	Super banán - Tohle sis dovezl z vyletu v Africe!
-50017	Vahy spravedlnosti - Král Salamoun by byl pysny.
-50018	Nálet francouzskych ovci - Zázracná vlnená zbran
-50019	Sebevrazedny utocnik - Mám cerva a nebojim se ho pouzit!
-50020	Armáda spásy - Poslete charitu proti vasim nepratelum.
+
 50021	Zmenit maximalni pocet objektu, mostu a der ktere budou automaticky umisteny na mape.
 50022	Musite zvolit vasi IP adresu, nebo odskrtnout volbu pro "Vynuceni IP".
 50023	Cervi se pohybuji nahodne.
