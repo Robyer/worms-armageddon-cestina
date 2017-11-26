@@ -1,17 +1,8 @@
 STRINGTABLE
 {
-0, " "
-1, "Prostředí "
-2, "Zapne či vypne zvuky prostředí"
 3, "CD hudba"
 4, "Zapne či vypne CD hudbu"
 7, "Chyba"
-8, "Připojení ukončeno"
-9, "Připojení zahájeno"
-10, "Probíhá připojování, prosím čekej."
-11, "Připojeno"
-12, "Probíhá odpojování."
-13, "Připojení se zdařilo."
 14, "Zvolené jméno hráče je neplatné, prosím zadej platné jméno."
 15, "Pro připojení k jinému počítači musíš zadat nebo vybrat IP adresu."
 }
@@ -112,34 +103,23 @@ STRINGTABLE
 
 113, "Smazat"
 114, "Smaže zvolené nastavení."
-115, "Nelze se připojit k serveru. Zkus jiný server."
 116, "K tomuto kanálu se nemůžeš připojit, neboť jsi ještě nedosáhl požadované hodnosti."
-117, "Tvá hodnost je příliš vysoká pro připojení k této hře."
-118, "Tvá hodnost je příliš nízká pro připojení k této hře."
-119, "se připojil k tomuto kanálu."
-120, "se odpojil od tohoto kanálu."
 121, "Pro přihlášení musíš zadat heslo."
 122, "Pro přihlášení musíš zadat uživatelské jméno."
 123, "Neznámý"
 124, "Chyba ve spojení. Příčinou může být firewall. Kontaktuj svého správce sítě."
 125, "Došlo k chybě serveru. Probíhá odpojení od serveru."
 126, "Zadal jsi nesprávné uživatelské jméno/heslo. Spojení se serverem bude nyní ukončeno."
-127, "Nyní jsi označen jako 'mimo počítač'."
 }
 STRINGTABLE
 {
-128, "Zpráva o tvé nepřítomnosti byla odstraněna."
-129, "je pryč ** "
-130, "Zadal jsi neznámý příkaz. Napiš /help pro seznam platných příkazů."
-131, "Seznam dostupných příkazů./msg <uživ.jméno> textzprávy   ( Pošle zprávu zvolenému uživateli na tomto kanálu )/away textzprávy   ( Pošle tento text všem, kteří se ti pokusí poslat zprávu )/away   ( Smaže dříve zadanou zprávu )/me textakce   ( Prošle zprávu, která bude informovat o tom, že jsi provedl nějakou akci )/time   ( Zobrazí lokální a GMT čas ) "
+
 132, "Chat"
 133, "Data"
 134, "Připojuji se k serveru"
 135, "Pokouším se o spojení"
 136, "Provedeno"
 137, "Návrat do předchozího menu."
-138, "Auto ping"
-139, "Automaticky obnovit"
 140, "Podpora firewallu"
 141, "Zapnout podporu proxy"
 142, "Zapni tuto volbu, pokud je tvá síť vybavena firewallem či proxy serverem."
@@ -150,145 +130,42 @@ STRINGTABLE
 144, "IP adresa tvého proxy serveru"
 145, "Proxy port"
 146, "Číslo portu tvého proxy serveru"
-147, "Dotaz před automatickým obnovením klienta"
-148, "Dotaz před automatickým obnovením souborů ze serveru"
-149, "Test sítě"
 150, "Konec"
 151, "Opravdu chceš ukončit hru?"
-152, "Spustí sérii diagnostických testů"
-153, "Výsledky všech diagnostických funkcí"
-154, "Jméno"
-155, "Červ 1"
-156, "Červ 2"
-157, "Červ 3"
-158, "Červ 4"
-159, "Červ 5"
-}
-STRINGTABLE
-{
-160, "Červ 6"
-161, "Červ 7"
-162, "Červ 8"
-163, "Člověk"
-164, "CPU Začátečník"
+
+
 165, "Vytvoří nový tým."
 166, "Odejde z menu, aniž by došlo k vytvoření týmu."
 167, "Uloží provedené změny a odejde z tohoto menu."
 168, "Opravdu chceš opustit toto menu bez uložení provedených změn?"
 169, "Opravdu chceš smazat tento tým?"
-170, "CPU Mírně pokročilý"
-171, "CPU Pokročilý"
 172, "Smazat"
-}
-STRINGTABLE
-{
-176, "CPU Veterán"
+
+
 177, "Seznam uložených nastavení, které můžeš použít či upravit"
 178, "Uloží aktuální nastavení"
 179, "Nahraje zvolené nastavení"
 180, "Volby týmu"
 181, "Nastavení"
-182, "Množství nábojů na začátku hry"
-183, "Náboje"
-184, "Síla zbraně"
-185, "Síla"
-186, "Ve kterém kole bude zbraň dostupná"
-187, "Zpoždění"
-188, "Pravděpodobnost nalezení této zbraně v bedně"
-189, "Bedny"
-190, "Zapne či vypne superzbraně"
-191, "Superzbraně zapnuty"
-}
-STRINGTABLE
-{
-192, "Zruší všechny provedené změny"
-193, "Zrušit"
-194, "Superzbraně vypnuty"
-195, "Po zapnutí této volby budou všechny týmy začínat se svou speciální zbraní."
-196, "Speciální týmové zbraně zapnuty"
-197, "Vrátí tě do předchozího menu"
+
 198, "Zpět"
-199, "Nastavuje množství nábojů v této zbrani na začátku hry"
-200, "Nastavuje sílu této zbraně"
-201, "Nastavuje tah, od kterého bude tato zbraň dostupná"
-202, "Nastavuje pravděpodobnost výskytu této zbraně v bedně"
-203, "Červa, který se bude pohybovat, volí hráč."
-204, "Červi se pohybují v předem daném pořadí.."
-205, "Červi se nemohou pohybovat ani skákat."
-206, "Červi se pohybují i skáčou normálně."
-207, "Speciální týmové zbraně vypnuty"
+
 }
 STRINGTABLE
 {
-208, "CPU Expert"
-209, "Před započetím hry si můžeš sám rozmístit své červy."
-210, "Červi jsou na počátku hry rozmístěni náhodně."
-211, "Ukládání zásob"
-212, "Všechny nevyužité zbraně se přenášejí do dalšího kola, kde se k nim navíc přičtou nové zásoby."
-213, "V každém kole dostaneš nové zásoby, ale nevyužité zbraně nejsou přenášeny mezi koly."
-214, "Na začátku hry dostaneš zásobu zbraní, která ti musí vydržet na celý zápas."
-215, "Po vypršení herního času kolo skončí."
-216, "Po vypršení herního času je do hry svržena atomová bomba a energie červů bude postupně ubývat."
-217, "Rychlost zaplavování terénu po aktivaci módu Náhlá smrt."
-218, "Uložit testy"
-219, "Po vypršení herního časubude aktivován módNáhlá smrt."
-220, "Množství energie, které ztratí každý červ v každém kole módu Náhlá smrt."
-221, "Zbraně"
-222, "Nastavení hry"
-223, "Nastavení Náhlé smrti"
-}
-STRINGTABLE
-{
-224, "Nastavení beden"
-225, "Časová nastavení"
-226, "Nastavení objektů"
-227, "Obecná nastavení"
-228, "První pomoc"
-229, "Nářadí"
-230, "Energie první pomoci"
-231, "Po zapnutí budou červi zanechávat karty dárce."
-232, "Pravděpodobnost objevení bedny se zbraněmi v každém kole"
-233, "Pravděpodobnost objevení bedny s nářadím v každém kole"
-234, "Pravděpodobnost objevení bedny první pomoci v každém kole"
-235, "Energie získaná sebráním bedny první pomoci"
-236, "Uloží tvé výsledky do textového souboru."
-237, "Obnovit standardní"
-238, "Zapne či vypne opakovaný záznam."
-239, "Obnoví standardní nastavení sítě."
-}
-STRINGTABLE
-{
-240, "Zapne či vypne zranění způsobená pádem."
-241, "Zapne či vypne zobrazení herního času."
-242, "Zpoždění"
-243, "Pohyb po výstřelu"
-244, "Pohyb po laně"
-245, "Časová pauza mezi tahy hráčů při hře horké křeslo"
-246, "Čas po výstřelu, kdy se červ ještě může pohybovat."
-247, "Čas po použití lana, kdy se červ ještě může pohybovat."
-248, "Zapne či vypne nefunkční miny."
-249, "Nastavuje objekty, které budou použity na mapě."
-250, "E-mail tech. podpoře"
-251, "Pošle e-mailem výsledky testů technické podpoře Team17."
-252, "Doba mezi aktivací a vlastním výbuchem miny"
 253, "Zrušit"
-254, "Zpět bez uložení"
 255, "Zpět"
 }
 STRINGTABLE
 {
-256, "Uloží provedené změny a vrátí tě do předchozího menu."
 257, "Lokální síť"
 258, "Klikni sem pro hru po lokální síti."
 259, "Klikni na toto tlačítko pro přepnutí mezi TCP/IP a IPX/SPX protokoly."
 260, "Zde zadej svého hráčské jméno (přezdívku)."
 261, "Zde nalezneš svou IP adresu."
 262, "Wormnet"
-263, "Na mapě bude maximálně 8 min."
-264, "Na mapě bude maximálně 8 olejových barelů."
-265, "Na mapě bude maximálně 8 objektů."
-266, "Na mapě nebudou žádné objekty."
-267, "Návrat na předchozí obrazovku"
+
+
 268, "Opravdu chceš přepsat nastavení  ' \1 ' ?"
 269, "Přepsat nastavení?"
 270, "Smazat nastavení?"
@@ -309,7 +186,6 @@ STRINGTABLE
 282, "Uloží aktuální konfiguraci jako herní nastavení."
 283, "Smazat"
 284, "Smaže zvolené herní nastavení."
-285, "Energie všech červů bude snížena na 1. (Klasický mód)."
 286, "Nastavuje množství energie, které bude mít každý červ na začátku hry."
 287, "Nastavuje délku standardní hrací doby před aktivací Náhlé smrti."
 }
@@ -327,7 +203,6 @@ STRINGTABLE
 297, "Kasárna"
 298, "Nastavení"
 299, "Vytvořit nový tým"
-300, "Po vypršení standardní doby neztratí červi žádnou energii."
 301, "Na mapě bude maximálně 8 objektů."
 302, "Na mapě bude maximálně 8 objektů."
 303, "Mapa"
@@ -401,16 +276,11 @@ STRINGTABLE
 359, "Vytvořit tým"
 360, "Vytvoří nový tým."
 361, "Mapa"
-362, "Deathmatch detaily"
-364, "Zobrazuje tvou hodnost."
 365, "Týmy"
 366, "Kasárna"
-367, "Klikni pro vytvoření nového týmu."
 }
 STRINGTABLE
 {
-368, "Spustit"
-369, "Spustí hru"
 370, "Zpět"
 371, "Návrat do předchozího menu"
 372, "Připojení k síti WORMNET prostřednictvím Internetu"
@@ -439,8 +309,6 @@ STRINGTABLE
 392, "Seznam dostupných her"
 393, "Odeslat"
 394, "Odešle napsanou zprávu."
-395, "Hostovat"
-396, "Klikni sem pro hostování hry."
 397, "Zadej název hry."
 398, "Požadovat heslo"
 399, "Při použití této volby bude tvá hra chráněna heslem."
@@ -468,7 +336,6 @@ STRINGTABLE
 STRINGTABLE
 {
 464, "Název"
-465, "Max. hráčů"
 466, "Mapa"
 467, "Stav připojení"
 468, "Zobrazuje aktuální stav připojení."
@@ -486,123 +353,18 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-480, "Osobní informace"
-481, "Titul"
-482, "Křestní jméno"
-483, "Příjmení"
-484, "Adresa"
-485, "Telefon"
-486, "Pohlaví"
-487, "Věk"
-488, "PSČ"
 489, "Heslo"
-490, "Uživatelské jméno"
 491, "Heslo"
 492, "Tvé pohlaví (M/Ž)"
-493, "Tvá e-mailová adresa"
-494, "E-mailová adresa"
-495, "Počet červů v tomto týmu"
 }
 STRINGTABLE
 {
-496, "Výsledky"
-497, "Hrát další kolo"
-498, "Pokračovat do dalšího kola"
-499, "Informace o tom, kdo vyhrál minulé kolo."
-500, "Deathmatch"
-501, "Hrát hru v módu deathmatch"
 502, "Tvé herní výsledky ti zpřístupnily tajnou volbu!"
 503, "Smůla, tvůj čas %d:%02d:%02d nestačí na získání ocenění. Zkus to znovu. Cvičení dělá mistra!"
 504, "Vynikající, tvůj čas %d:%02d:%02d je novým rekordem pro tuto událost!"
-505, "Velká Británie"
 506, "Neznámá"
-507, "Argentina"
-508, "Austrálie"
-509, "Rakousko"
-510, "Belgie"
-511, "Brazílie"
-}
-STRINGTABLE
-{
-512, "Kanada"
-513, "Chorvatsko"
-514, "Bosna"
-515, "Kypr"
-516, "Česko"
-517, "Dánsko"
-518, "Finsko"
-519, "Francie"
-520, "Gruzie"
-521, "Německo"
-522, "Řecko"
-523, "Hong Kong"
-524, "Maďarsko"
-525, "Island"
-526, "Indie"
-527, "Indonésie"
-}
-STRINGTABLE
-{
-528, "Irán"
-529, "Irák"
-530, "Irsko"
-531, "Izrael"
-532, "Itálie"
-533, "Japonsko"
-534, "Lichtenštejnsko"
-535, "Lucembursko"
-536, "Malajsie"
-537, "Malta"
-538, "Mexiko"
-539, "Maroko"
-540, "Nizozemí"
-541, "Nový Zéland"
-542, "Norsko"
-543, "Polsko"
-}
-STRINGTABLE
-{
-544, "Portugalsko"
-545, "Portoriko"
-546, "Rumunsko"
-547, "Rusko"
-548, "Singapur"
-549, "Jihoafrická republika"
-550, "Španělsko"
-551, "Švédsko"
-552, "Švýcarsko"
-553, "Turecko"
-554, "Spojené státy Americké"
-}
-STRINGTABLE
-{
-570, "S tímto hráčem máš rychlé spojení."
-571, "S tímto hráčem máš průměrné spojení."
-572, "S tímto hráčem máš pomalé spojení."
-573, "S tímto hráčem máš velmi pomalé spojení."
-574, "Worms Armageddon systémová chyba (\1)"
-}
-
-
-822, "Bojuj proti počítači v bitvách typu deathmatch. Každá další bitva je o něco náročnější."
-823, "Tento tým již odehrál \1 her typu deathmatch, z nich vyhrál \2 a prohrál \3.Tým již zabil \4 červů, přičemž zemřelo \5 červů z tohoto týmu."
-824, "Aktuální deathmatch hodnost tohoto týmu je \1."
-}
-STRINGTABLE
-{
-
-
 1247, "Mise"
-}
-STRINGTABLE
-{
-1248, "Pokusy"
-1249, "Levým kliknutím zvolíš tým, pravým upravíš jeho vlastnosti."
-}
-STRINGTABLE
-{
 
-}
 STRINGTABLE
 {
 1286, "Převrátí celou mapu."
@@ -656,29 +418,19 @@ STRINGTABLE
 STRINGTABLE
 {
 1366, "Na základě zadaného kódu vygeneruje novou mapu."
-1367, "Nelze nalézt seznam serverů, snažím se připojit ke standardnímu serveru."
 1368, "V jiné hře"
-1369, "Není na tomto kanálu"
-1370, "Na kanálu:"
+
 1371, "Chyba serveru"
-1372, "Na serveru došlo k neznámé chybě."
 1373, "Nelze vytvořit GUID pro identifikaci hry."
 1374, "Nelze vytvořit GUID pro identifikaci sekce."
 1375, "Chyba"
 }
 STRINGTABLE
 {
-1376, "Během pokusu o hostování hry došlo k chybě."
-1377, "Čas vyhrazený pro pokus o hostování hry vypršel."
-1378, "Čas vyhrazený pro pokus o připojení ke hře vypršel."
-1379, "Hry na lokální síti"
-1380, "Lokální síť"
 1381, "Informace o hráči"
 1382, "Hráči"
 1383, "Tvá IP adresa"
 1384, "Síťová hra přes server"
-1385, "Připojit se na Wormnet"
-1386, "Možnosti připojení k serveru"
 1387, "Hra po lokální síti"
 1388, "Přepíná mezi IPX/SPX a TCP/IP protokoly."
 1389, "Zde zadej své hráčské jméno (přezdívku)."
@@ -689,44 +441,13 @@ STRINGTABLE
 {
 1392, "Umožňuje změnit nastavení tvého serveru."
 1393, "Zpět"
-1394, "Prosím, zadej své přihlašovací údaje"
-1395, "Uživatelské jméno"
 1396, "Heslo"
-1397, "Login"
 1398, "Hra"
-1399, "Seznam všech dostupných her. Ke hře se připojíš dvojklikem na její název."
-1400, "Zde se zobrazuje text chatu."
-1401, "Poslat"
-1402, "Odešle napsanou zprávu."
-1403, "Seznam hráčů dostupných pro hru"
+
 1404, "Obnovit seznamy"
 1405, "Obnoví seznamy her a hráčů."
-1406, "Hostování hry"
-1407, "Název sloužící k identifikaci tvé hry"
-}
-STRINGTABLE
-{
-1408, "Vytvoří hru chráněnou heslem."
-1409, "Přístup ke své hře můžeš omezit heslem."
-1410, "Hostovat"
-1411, "Stisknutím tohoto tlačítka můžeš hostovat novou hru."
-1412, "Napiš svou zprávu a odešli ji stiskem klávesy ENTER."
-1413, "Podpora firewallu"
-1414, "Proxy adresa"
-1415, "Proxy port"
-1416, "Adresa tvého firewallu (Ponechej prázdné, pokud žádný nemáš.)"
-1417, "Číslo portu používaného firewallem (je-li zapnuta jeho podpora)"
-1418, "Test/diagnostika sítě"
-1419, "Uložit testy"
-1420, "Automatická obnova"
-1421, "Dotázat se před úpravou souborů klienta"
-1422, "Po připojení automaticky obnovit seznam serverů"
-1423, "Auto ping"
-}
-STRINGTABLE
-{
-1424, "Resetovat na standardní"
-1425, "Automaticky obnoví všechny důležité soubory klienta."
+
+
 1426, "Po připojení automaticky obnoví seznam serverů."
 1427, "Automaticky zjistí ping všech hráčů na kanálu."
 1428, "Titul"
@@ -758,27 +479,14 @@ STRINGTABLE
 1451, "OK"
 1452, "Wormnet nenalezl tvůj účet. Prosím, zadej své osobní údaje..."
 1453, "Opustit kanál"
-1454, "Zobrazit hodnocení"
-1455, "Obnovit seznam kanálů"
+
 }
 STRINGTABLE
 {
-1456, "Obnovit"
-1457, "Obnovit seznam"
-1458, "Obnoví seznam právě dostupných her."
-1459, "Obnoví seznam všech uživatelů na síti Wormnet."
-1460, "Obnoví seznam kanálů."
 1461, "Odchod z tohoto kanálu"
-1462, "Zobrazí hodnocení hráčů na tomto kanálu."
-1463, "Návrat na kanál"
 1464, "Návrat na kanál"
 1465, "Pro vstup na kanál klikni dvakrát na jeho název."
-1466, "Dvojklikem na jméno hráče vstoupíš na kanál, ve kterém je tento hráč."
-1467, "Seznam členů tohoto kanálu"
-1468, "Dvojklikem na zvýrazněnou oblast se přeneseš na toto místo."
-1469, "Čas vyhrazený pro pokus o připojení ke hře vypršel."
-1470, "Čas vyhrazený pro pokus o hostování hry vypršel."
-1471, "Seznam her"
+
 }
 STRINGTABLE
 {
@@ -803,8 +511,6 @@ STRINGTABLE
 {
 1488, "Po připojení automaticky obnovit seznam serverů"
 
-
-
 1545, "OK"
 1546, "Prosím zadej své osobní údaje"
 }
@@ -818,7 +524,6 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-1568, "Hrát znovu"
 1569, "Hrát další zápas se stejnými týmy"
 1570, "Za zápas byla udělena tato ocenění."
 1571, "Podrobnosti o hře"
@@ -886,37 +591,13 @@ STRINGTABLE
 1713, "Náhled právě zvolené mapy."
 1714, "Levým tlačítkem vygeneruješ novou mapu, pravým upravíš stávající."
 
-
-
 4015, "Hra s neomezeným množstvím nástrojů pro volbu červa."
 
 4044, "Malí vojáci"
 4045, "Zkus si tento nový styl hry!"
-}
-STRINGTABLE
-{
+
 4200, "Detaily"
 
-}
-STRINGTABLE
-{
-5100, "[ Začátečník ]"
-5101, "[ Pokročilý ]"
-5102, "[ Pro ]"
-5103, "[ Klasik ]"
-}
-STRINGTABLE
-{
-5104, "[ Armageddon ]"
-5105, "[ Výbušná zóna ]"
-5106, "[ Náhlé záplavy ]"
-5107, "[ Turnaj ]"
-5108, "[ Retro ]"
-5109, "[ Strategie ]"
-5110, "[ Temná strana ]"
-5111, "[ Dělostřelectvo ]"
-5112, "[ Maximální škody ]"
-}
 STRINGTABLE
 {
 5200, "Došlo k chybě při čtení dat z CD. Zkontroluj, zda je herní CD v mechanice a není na něm prach nebo škrábance."
@@ -959,9 +640,7 @@ STRINGTABLE
 49012, "Políčko opakovaného zadání hesla musí být vyplněno. Prosím zadej své heslo."
 49013, "Použil jsi některé nepovolené znaky, zkus to znovu."
 49014, "Probíhá připojování k serveru, prosím čekej..."
-49015, "Připojeno k serveru"
 49016, "Ukončuji připojení k serveru, prosím čekej..."
-49017, "Spojení ukončeno"
 49018, "Připojení k serveru bylo přerušeno."
 49019, "Připojení k chatovacímu serveru bylo přerušeno."
 49020, "Připojení k datovému serveru bylo přerušeno."
@@ -971,7 +650,6 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-49024, "Připojení se nezdařilo."
 49025, "Připojení se nezdařilo. Zkontroluj nastavení sítě a zkus to znovu."
 49026, "Prosím zadej své identifikační údaje"
 49027, "Tvá identifikace se nezdařila. Zkontroluj své nastavení a zkus to znovu."
@@ -979,7 +657,6 @@ STRINGTABLE
 49029, "Ke zvolenému serveru se nelze připojit. Zvol jiný a zkus to znovu."
 49030, "Původní zadané heslo je jiné, prosím zopakuj zadání."
 49031, "Stiskl jsi tlačítko ZRUŠIT. Nový účet nebude vytvořen. Opravdu chceš pokračovat?"
-49032, "Nelze otevřít soubor diagnostiky sítě. Hra bude nyní pokračovat bez zápisu do tohoto souboru."
 49033, "Zpět"
 49034, "Nahrávám obrázek, prosím čekej..."
 49035, "Probíhá proces redukce barev, prosím čekej..."
@@ -995,15 +672,12 @@ STRINGTABLE
 49042, "Zvol typ půdy pro svou mapu."
 49043, "Nelze se připojit k serveru. Zvol jiný server a zkus to znova."
 49044, "Nelze se připojit k chatové službě. Zvol jiný server a zkus to znova."
-49045, "Zvolenou hru nelze nalézt. Zvol jinou hru a zkus to znova."
 49046, "Zvolená hra je chráněna heslem. Prosím zadej heslo pro tuto hru."
 49047, "Zaškrtl jsi políčko \"Zapnout podporu proxy\", což znamená, že tvá síť obsahuje firewall. Pokud se nyní pokusíš hostovat hru, ostatní hráči se možná nebudou moci připojit."
 49048, "Spojení se serverem bylo během hry přerušeno. Připoj se znovu."
 49049, "Nahrávám výsledky hry na server, prosím čekej..."
 49050, "Výsledky hry nelze nahrát na server."
 49051, "Děkujeme ti za použití serveru WORMNET, těšíme se nashledanou!"
-49052, "Tvá hodnost je příliš nízká!"
-49053, "Tvá hodnost je příliš vysoká!"
 49054, "Byl jsi vyhoštěn ze hry!"
 49055, "Byl jsi vyhoštěn z kanálu!"
 }
@@ -1011,7 +685,6 @@ STRINGTABLE
 {
 49056, "Nelze se připojit ke kanálu."
 49057, "Tento příkaz není v současné době podporován."
-49058, "Nelze hostovat hru."
 49060, "Čas pro síťovou operaci vypršel."
 49061, "Inicializace sítě selhala."
 49062, "Čas pro serverovou operaci vypršel."
@@ -1125,15 +798,6 @@ STRINGTABLE
 49153, "Domníváme se, že mise, kterou se snažíš spustit, by mohla být nad tvé schopnosti. Abys nám dokázal opak, musíš získat alespoň stříbrnou tréninkovou medaili.Jdi tedy do menu trénink a získej alespoň stříbrnou medaili."
 49154, "Je chvályhodné, že se pokoušíš o tak obtížnou misi, ale přístup k ní mají pouze držitelé zlaté tréninkové medaile.Vrať se zpět, až ji získáš."
 
-
-
-49189, "Systém"
-49190, "Zprávy"
 49191, "Hry"
-49192, "Kanál"
 49193, "Červi"
-49194, "Omlouváme se"
-49195, "Tato volba není v demu dostupná"
-49196, "IP"
-49197, "Vynutí použití této IP adresy při hostování hry na síti wormnet."
 }
