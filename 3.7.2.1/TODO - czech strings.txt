@@ -224,57 +224,16 @@ STRINGTABLE
 316, "Který tým se pokusí splnit misi?"
 317, "Náhled mise"
 318, "Zvolená mise"
-319, " "
-}
-STRINGTABLE
-{
-320, "Rychlý start"
-321, "Mise"
-322, "Trénink"
+322, ""
 323, "Zpět"
-324, "Spustí rychlou hru proti počítači."
-325, "Spustí hru po jednotlivých misích."
-326, "Tréninkové disciplíny"
-327, "Návrat do hlavního menu"
-328, "Závod super ovcí"
-329, "Střelnice"
-330, "Šílené bedny"
-331, "Dělostřelecká střelnice"
-332, "Eutanazie"
-333, "Aktuální rekord pro tuto událost %d:%02d:%02d sekund drží %s."
+324, ""
 334, "Vyzkouší tuto zvukovou sadu."
-335, "Čas nezbytný pro získání BRONZOVÉ medaile, je %d:%02d:%02d sekund... hodně štěstí!"
-}
-STRINGTABLE
-{
-336, "Pro získání STŘÍBRNÉ medaile musíš dosáhnout času %d:%02d:%02d sekund nebo lepšího!"
-337, "Vystřel super ovci a létej s ní po mapě, jak nejdéle dovedeš. Časový limit můžeš zvýšit sbíráním předmětů. Za získání zlaté medaile v tomto závodě je zvláštní odměna."
-338, "Zasáhni co nejvíce cílů. Každý zasažený cíl zvýší časový limit. Hra končí po vypršení časového limitu."
-339, "Pro pohyb po této úrovni musíš použít lano. Každá bedna, kterou získáš, zvýší časový limit. Hra končí po vypršení časového limitu."
-340, "Použij své dělostřelectvo pro zničení cílů. Za každý zasažený cíl dostaneš několik vteřin navíc. Hra končí po vypršení časového limitu."
-341, "Pro tuto hru máš pouze omezené množství zbraní. Použij je k co nejrychlejší likvidaci starých dam! Uvidíme, jak dlouho vydržíš."
-342, "Pro získání ZLATÉ medaile musíš dosáhnout času %d:%02d:%02d sekund. Jdi na to!"
-343, "Výborně. Tvůj čas %d:%02d:%02d stačí na zisk BRONZOVÉ medaile. Pokračuj v tréninku, aby sis ještě více vylepšil své dovednosti."
-344, "Gratulujeme. Tvůj výborný čas %d:%02d:%02d ti vynesl STŘÍBRNOU medaili. Ještě trochu tréninku a staneš se mistrem této disciplíny."
-345, "Fantastické! Tvůj vynikající čas %d:%02d:%02d značí, že jsi hoden zisku ZLATÉ medaile. Nyní jsi nejlepší. Ale nezapomeň stále trénovat, aby sis ještě více zlepšil svůj čas."
-346, "Zvol disciplínu, kterou chceš trénovat."
-347, "Tréninková disciplína, kterou jsi zvolil."
-348, "Podrobnosti o tréninku"
-349, "Začít trénink"
-350, "Nebyl zvolen žádný tým."
-351, "Spustí trénink zvolené disciplíny."
-}
-STRINGTABLE
-{
+335, ""
 352, "Zpět"
 353, "Návrat do předchozího menu"
-354, "Zvolený tým"
-355, "Rekord týmu:"
-356, "Právě zvolený tým"
-357, "Aktuální rekord pro tento tým v této disciplíně"
+354, ""
 358, "Kasárna"
-359, "Vytvořit tým"
-360, "Vytvoří nový tým."
+359, ""
 361, "Mapa"
 365, "Týmy"
 366, "Kasárna"
@@ -359,9 +318,9 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-502, "Tvé herní výsledky ti zpřístupnily tajnou volbu!"
-503, "Smůla, tvůj čas %d:%02d:%02d nestačí na získání ocenění. Zkus to znovu. Cvičení dělá mistra!"
-504, "Vynikající, tvůj čas %d:%02d:%02d je novým rekordem pro tuto událost!"
+502, ""
+503, ""
+504, ""
 506, "Neznámá"
 1247, "Mise"
 
@@ -517,61 +476,13 @@ STRINGTABLE
 STRINGTABLE
 {
 1563, "Zpět"
-1564, "Návrat do hlavního menu."
-1565, "Vítěz"
-1566, "Ocenění"
-1567, "Detaily"
-}
-STRINGTABLE
-{
-1569, "Hrát další zápas se stejnými týmy"
-1570, "Za zápas byla udělena tato ocenění."
-1571, "Podrobnosti o hře"
-1572, "Vítěz této hry"
-}
-STRINGTABLE
-{
-1589, "Mise nesplněna"
-1590, "Nesplnil jsi misi. Naber nové síly a zkus to znovu."
-1593, "Všechny mise dokončeny!"
-1594, "Fantastické! Právě jsi dokončil závěrečnou misi!"
-1595, "Ocenění - Červená krev!"
-1596, "Ocenění - Vodní ovce!"
-1597, "Ocenění - Ovčí ráj!"
-1598, "Ocenění - Božský mód!"
-1599, "Ocenění - Pomůcky!"
-}
-STRINGTABLE
-{
-1605, "Pomůcky"
-1606, "Gratulace!"
-1607, "Gratulujeme vítězi!"
-1608, "Tvá hodnost je \1."
-1609, "Smůla"
-1610, "Smůla, byl jsi poražen... Zkus to znovu!"
-1611, "Za své výkony jsi byl odměněn \1 medailí."
-
-
-
+1564, ""
 
 1617, "Levým kliknutím vyřadíš hráče ze hry."
 1618, "Tito hráči jsou již ve hře."
 1619, "Nelze nalézt datové soubory misí. Zkontroluj, zda se Worms Aramageddon CD nachází ve tvé CD-ROM mechanice."
 
 
-
-STRINGTABLE
-{
-1680, "Mise dokončena"
-1681, "Gratulujeme! Splnil jsi misi!"
-1682, "Misi jsi dokončil \1 sekund před časovým limitem."
-1683, "Misi jsi dokončil s \1 zbývajícími jednotkami energie."
-1684, "Za výkon v této misi jsi byl odměněn \1 medailí!"
-1685, "Gratulujeme! To je nový rekord pro tuto misi!"
-1686, "Za své úsilí jsi byl odměněn odkrytím tajné volby."
-}
-STRINGTABLE
-{
 1700, "Připojení ke hře v roli pozorovatele."
 1701, "Hostitel hry zvolil toto nastavení."
 1702, "Zvol nastavení pro tuto hru."
@@ -608,15 +519,7 @@ STRINGTABLE
 5205, "Došlo k chybě při nahrávání herních dat. Zkontroluj svůj počítač."
 5206, "Nelze uložit herní data. Zkontroluj, zda je na tvém harddisku dostatek volného místa."
 5207, "Připojení k síti bylo přerušeno."
-5208, "Tato medaile ti umožňuje hru následující mise."
-5209, "Tato odměna ti zpřístupnila mapu této mise i pro běžnou hru."
-5210, "Tato nejvyšší pocta ti zpřístupní tajné volby."
-5211, "Nejlepší výsledek, jaký byl na tomto počítači dosažen."
-5212, "Nejlepší výsledek tohoto týmu."
-}
 
-
-STRINGTABLE
 {
 9000, "Vítej ve hře WORMS ARMAGEDDON!Nejtemnější hodině hratelnosti!Copyright 1998 Team17 Software Limited.Všechna práva vyhrazena.Distribuuje MicroProse Ltd.Pro spuštění hry stiskni libovolnou klávesu nebo tlačítko myši."
 }
@@ -668,136 +571,47 @@ STRINGTABLE
 STRINGTABLE
 {
 49040, "Vycentrovat"
-49041, "Provedl jsi změny. Chceš opravdu odejít a  provedené změny anulovat?"
+49041, "Provedl jsi změny. Chceš opravdu odejít a provedené změny anulovat?"
 49042, "Zvol typ půdy pro svou mapu."
 49043, "Nelze se připojit k serveru. Zvol jiný server a zkus to znova."
 49044, "Nelze se připojit k chatové službě. Zvol jiný server a zkus to znova."
-49046, "Zvolená hra je chráněna heslem. Prosím zadej heslo pro tuto hru."
+49046, ""
 49047, "Zaškrtl jsi políčko \"Zapnout podporu proxy\", což znamená, že tvá síť obsahuje firewall. Pokud se nyní pokusíš hostovat hru, ostatní hráči se možná nebudou moci připojit."
-49048, "Spojení se serverem bylo během hry přerušeno. Připoj se znovu."
-49049, "Nahrávám výsledky hry na server, prosím čekej..."
-49050, "Výsledky hry nelze nahrát na server."
+49048, ""
 49051, "Děkujeme ti za použití serveru WORMNET, těšíme se nashledanou!"
-49054, "Byl jsi vyhoštěn ze hry!"
-49055, "Byl jsi vyhoštěn z kanálu!"
-}
-STRINGTABLE
-{
-49056, "Nelze se připojit ke kanálu."
-49057, "Tento příkaz není v současné době podporován."
-49060, "Čas pro síťovou operaci vypršel."
-49061, "Inicializace sítě selhala."
-49062, "Čas pro serverovou operaci vypršel."
-49063, "Server pravděpodobně selhal."
+49054, ""
 49064, "Server, ke kterému se snažíš připojit, může některé operace vykonávat velmi pomalu. Použitím serveru, který se nachází blíže k tobě, můžeš celou hru značně urychlit."
 49065, "Nelze nalézt soubor serverlist.htm. Navštiv webovou stránku Worms Armageddon (worms.team17.com) a stáhni si jej."
-49066, "Zapnout jazykový filtr."
-49067, "Připojením k této službě akceptuješ pravidla a podmínky pro použití služby WORMNET service. Chceš pokračovat?"
-49068, "Neplatná operace."
+49066, ""
 49069, "Prosím, zkontroluj své nastavení"
 49070, "a zkus to znovu."
-49071, "Operace selhala."
-}
-STRINGTABLE
-{
-49072, "Operace dokončena"
-49073, "Přenáším data, prosím čekej..."
-49074, "Operace dokončena"
-49075, "Soubor diagnose.txt byl uložen do adresáře User\\Support (v herním adresáři). V případě kontaktování technické podpory použij tento soubor."
+49071, ""
 49076, "Tento server je plný. Zkus jiný server."
 49077, "Vytvoření hry na serveru se nezdařilo. Zkontroluj, zda jsi zadal všechny potřebné parametry, a zkus to znovu."
-49078, "Tvé herní CD neprošlo kontrolou a tvůj účet na síti WORMNET byl zablokován. V případě problémů kontaktuj technickou podporu Team17."
+49078, ""
 49079, "Tato hra se nachází na síti WORMNET. Hráči na lokální síti se k ní mohou připojit pouze prostřednictvím služby WORMNET."
 49080, "Čas vypršel."
-49081, "Nahrávám..."
-49082, "Přijímám..."
-49083, "Posílám..."
-49084, "Došlo ke kritické chybě serveru. Odpojuji se od serveru."
-49085, "Nelze"
-49086, "Došlo k neznámé chybě. Probíhá návrat do hlavního menu."
+49086, ""
 49087, "Nelze vytvořit unikátní identifikátor pro tuto hru."
-}
-STRINGTABLE
-{
-49088, "Identifikátor hry nenalezen, nelze hostovat hru."
+49088, ""
 49089, "Nahrát uloženou mapu."
 49090, "Varování"
-49091, "Kritická"
-49092, "Chyba sítě"
-49093, "Stisknutím tohoto tlačítka vyloučíš zvoleného hráče ze hry."
+49091, ""
 49094, "Sada 'locale' pro tento počítač je neznámá. Pro hru bude použita standardní verze."
 49095, "Přetečení bufferu! Čtení > 512 bytů bez přestávky!"
 49096, "Ze serveru nebylo získáno unikátní ID pro tuto hru!"
-49097, "Název kanálu"
-49098, "# na kanálu"
-49099, "Téma"
+49097, ""
 49100, "Spojení úspěšně dokončeno."
 49101, "Spojení se nezdařilo."
 49102, "Připojuji se k hostiteli..."
-49103, "Prosím čekej..."
-}
-STRINGTABLE
-{
+49103, ""
 49104, "Debugovací mód zapnut"
 49105, "Debugovací mód vypnut"
-49106, "Pro nápovědu k určitému příkazu napiš /HELP <příkaz>."
-49107, "Zadal jsi nesprávný chatovací příkaz. Chatovací příkazy vždy začínají znakem /.Napiš /HELP pro více informací ohledně příkazů a jejich použití."
-49108, "Platné příkazy jsou následující;"
-49109, "Pro tento příkaz není dostupná žádná nápověda."
+49106, ""
 49111, "Hledám hry..."
 49112, "Nebyly nalezeny žádné hry."
-49113, "Přezdívka"
-49114, "IP adresa"
-49115, "Na serveru"
-49116, "Skutečné jméno"
-49117, "Na kanálu:"
-49118, "Jméno"
-49119, "Ping"
-}
-STRINGTABLE
-{
+49113, ""
 49120, "Okružní jízda"
-49121, "Snažíš se poslat zprávu někomu, kdo se právě nachází ve hře. Tento člověk ti bude moci odpovědět až po skončení aktuální hry."
-49122, "Bezpečnostní selhání."
-49123, "Vzdálený server možná nepracuje."
-49124, "Byl jsi odpojen ze serveru, protože jsi odeslal příliš mnoho zpráv najednou (chyba zahlcení)."
-49125, "Základní trénink"
-49126, "Tento trénink je složen z jednoduchých úkolů, které vylepší tvé základní dovednosti.Pokud uspěješ, budeš odměněn medailí, která ti umožní přístup k misím.Čím lepší výsledek, tím více misí se ti zpřístupní."
-49127, "Házení granátem stupeň 1"
-49128, "Střelba z brokovnice"
-49129, "Střelba z bazuky stupeň 1"
-49130, "Lano stupeň 1"
-49131, "Házení granátem stupeň 2"
-49132, "Použití rány pěstí"
-49133, "Lano stupeň 2"
-49134, "Střelba z bazuky stupeň 2"
-49135, "Házení granátem stupeň 3"
-}
-STRINGTABLE
-{
-49136, "Trámy a ovce"
-49137, "Máš 50 sekund na zničení 2 cílů s použitím granátů.Nezapomeň správně používat časové zpoždění výbuchu.Granáty nejsou ovlivněny větrem."
-49138, "Máš 60 sekund na to, abys trefil všech 6 cílů."
-49139, "Máš 40 sekund na zničení všech cílů.Střely z bazuky jsou ovlivněny větrem."
-49140, "Použij lano k překonání celého bojiště. Po cestě seber bednu a znič cíl.Vše musíš splnit během jednoho tahu.Nauč se správně používat opakovaného švihu lana."
-49141, "Máš 60 sekund na zničení všech cílů."
-49142, "V tomto cvičení se naučíš alternativnímu využití různých zbraní a novým metodám skákání.Máš 50 sekund na zničení všech cílů."
-49143, "Máš 60 sekund na zničení cíle.S použitím lana získej zbraň, tu pak použij v cílové oblasti."
-49144, "Máš 60 sekund na zničení všech cílů.Nezapomeň, že dráha letu bazuky je ovlivněna větrem. V tomto cvičení budeš muset použít jeden malý-známý trik...Tip! Během 2. světové války měla britská armáda skákavou bombu."
-49145, "Máš 99 sekund na zničení cílů s použitím granátů.Nezapomeň správně používat časové zpoždění výbuchu.Granáty nejsou ovlivněny větrem."
-49146, "V tomto cvičení musíš postavit pontonový most přes obrazovku tak, abys mohl vyslat ovci, která pak srazí tvůj cíl do vody.Na toto cvičení máš 60 sekund."
-49147, "Nedokončil jsi toto cvičení, tedy ani základní trénink. Musíš se o to pokusit znovu."
-49148, "Smůla, nedokončil jsi toto cvičení a základní trénink pro tebe končí.Zkus to znovu a tentokrát se více snaž."
-49149, "Gratulujeme!Byl jsi odměněn bronzovou tréninkovou medailí.Díky tomu se nyní můžeš pokusit o několik prvních misí."
-49150, "Vynikající, tvé dovednosti ti vynesly stříbrnou tréninkovou medaili. Díky ní máš nyní přístup k dalším misím."
-49151, "Výborně vojáku!Právě jsi dokončil celý tréninkový program.Nyní máš přístup ke všem misím.Hodně štěstí!"
-}
-STRINGTABLE
-{
-49152, "Pro začátečníky zde není žádné místo.Pro přístup k misím musí tvůj tým získat alespoň bronzovou tréninkovou medaili.Jdi do menu Trénink a získej zde alespoň bronzovou medaili."
-49153, "Domníváme se, že mise, kterou se snažíš spustit, by mohla být nad tvé schopnosti. Abys nám dokázal opak, musíš získat alespoň stříbrnou tréninkovou medaili.Jdi tedy do menu trénink a získej alespoň stříbrnou medaili."
-49154, "Je chvályhodné, že se pokoušíš o tak obtížnou misi, ale přístup k ní mají pouze držitelé zlaté tréninkové medaile.Vrať se zpět, až ji získáš."
-
+49121, ""
 49191, "Hry"
 49193, "Červi"
-}
