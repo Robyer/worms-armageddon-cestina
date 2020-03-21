@@ -2661,7 +2661,7 @@ GAME_UNKNOWN_COMMAND          "neznámý příkaz"
 GAME_UNKNOWN_MACHINE          "neznámý počítač"
 GAME_NO_MESSAGE               "nebyla zadána žádná zpráva"
 GAME_NO_MACHINE               "nebyl zadán žádný počítač"
-GAME_UTIL                     "Pomůcky"
+GAME_UTIL                     " ; "
 
 GAME_AWAY                     "While you are Away, your turns will be automatically skipped."
 GAME_CHATHINT                 "This chat window is opened by pressing Page Down."
