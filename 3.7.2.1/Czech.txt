@@ -203,9 +203,9 @@ GAME_SUICIDE_BOMBER           "Sebevražedný výbuch"
 GAME_LONG_SUICIDE_BOMBER      "Sebevražedný výbuch"
 WP_H_SUICIDE                  "Sebevražedný výbuch - Mám červa a nebojím se ho použít!"
 
-GAME_PROD                     "Dloubnutí"
-GAME_LONG_PROD                "Dloubnutí"
-WP_H_PROD                     "Dloubnutí - Malý úder s velkými následky."
+GAME_PROD                     "Šťouchnutí"
+GAME_LONG_PROD                "Šťouchnutí"
+WP_H_PROD                     "Šťouchnutí - Malý úder s velkými následky."
 
 
 GAME_DYNAMITE                 "Dynamit"
