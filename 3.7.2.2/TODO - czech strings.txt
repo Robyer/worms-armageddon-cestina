@@ -227,7 +227,7 @@ STRINGTABLE
 322, ""
 323, "Zpět"
 324, ""
-334, "Vyzkouší tuto zvukovou sadu."
+334, ""
 335, ""
 352, "Zpět"
 353, "Návrat do předchozího menu"
