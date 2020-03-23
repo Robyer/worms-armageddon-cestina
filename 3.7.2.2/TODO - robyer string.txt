@@ -1,9 +1,3 @@
-0	 
-1	Prostredi 
-2	Zapne ci vypne zvuky prostredi
-3	CD hudba
-4	Zapne ci vypne CD hudbu
-5	\1
 6	Pokrocile
 7	Chyba
 8	Pripojeni ukonceno
@@ -70,8 +64,7 @@
 69	Vytvori nove ci zmeni stavajici mapy.
 70	Moznosti hry
 71	Upravi ruzne herni volby.
-72	Moznosti systemu
-73	Zmeni ruzne systemove volby.
+
 74	Zpet
 75	Vrati te do predchoziho menu.
 76	Vytvorit novy tym
@@ -276,7 +269,7 @@
 278	Zjisti a upravi nastaveni zbrani.
 279	Zjisti a upravi herni volby.
 280	Moznosti
-281	Ulozit
+281	Ulozit 
 282	Ulozi aktualni konfiguraci jako herni nastaveni.
 283	Smazat
 284	Smaze zvolene herni nastaveni.
@@ -361,7 +354,7 @@
 364	Zobrazuje tvou hodnost.
 365	Tymy
 366	Kasarna
-367	Klikni pro vytvoreni noveho tymu.
+
 368	Spustit
 369	Spusti hru
 370	Zpet
@@ -549,16 +542,10 @@
 552	Svycarsko
 553	Turecko
 554	Spojene staty Americke
-557	Prejit do pokrocileho nastaveni.
-558	Kompatibilita
-559	Front-end
-560	Workaround pro pomaly frontend
-561	Pouzit VRAM
+
+
 562	Opravy barev
-563	Pouzit systemovou paletu
-564	Pouzit GDI paletu
-565	Znovu-pouziti DirectX palety
-566	Naslouchat zmenam palety
+
 567	Vynutit virtualni plochu Wine
 568	Hra
 569	Workaround pro casovac
@@ -849,7 +836,6 @@
 1545	OK
 1546	Prosim zadej sve osobni udaje
 1563	Zpet
-1564	Navrat do hlavniho menu.
 1565	Vitez
 1566	Oceneni
 1567	Detaily
@@ -946,123 +932,6 @@
 1712	V teto hre jiz neni misto pro tvuj tym.
 1713	Nahled prave zvolene mapy.
 1714	Levym tlacitkem vygenerujes novou mapu, pravym upravis stavajici.
-1715	Padaji zbrane!
-1716	Dodavka zasob.
-1717	Ihned zabezpecit mista dopadu!
-1718	Dodavka byla uspesne dorucena.
-1719	Zelezny orel je na ceste.
-1720	Dodavka byla uspesne dorucena.
-1721	Jsme v bezpeci a vsechno uz je jenom na tobe!
-1722	Bedny jsou tvou jedinou nadeji...
-1723	Nepratelsky letecky transport je na ceste.
-1724	Nepratelsky transport se blizi.
-1725	Uz je skoro tady!
-1726	Prave dorazil. Dostan se k bedne a pak hodne rychle utec!
-1727	Nemas naboje? Tohle by mohlo pomoci.
-1728	Dej si pozor!
-1729	Expresni dodavka!
-1730	Zbrane uspesne predany!
-1731	Nenech toto vybaveni padnout do nespravnych rukou!
-1732	Expresni zasilka!
-1733	Smrt na objednavku
-1734	Trocha uzdraveni na ceste...
-1735	Neco co by vam melo pomoci, pane.
-1736	Pozehnana pomoc
-1737	Trochu vcasne pomoci?\n
-1738	Lekarske vybaveni odeslano.
-1739	Dalsi pomocna ruka
-1740	Trocha pomoci pro tebe
-1741	Kazda trocha se hodi.
-1742	Trochu osviceneho vysvobozeni
-1743	Potrebuje tu nekdo lekarskou peci?
-1744	Je tohle tva krevni skupina?
-1745	Tak zij! Zatracene, zij!
-1746	Doktor!
-1747	Atomova bomba je na ceste.
-1748	Cas je proti nam pane. Musime jednat rychle!
-1749	Vykur je ven, jestli muzes...
-1750	Zasah meteoru nevyhnutelny, rychle se zakopej!
-1751	Jiz je na ceste. Zasah je ocekavan za 5 minut!
-1752	Uz neni moc casu, rychle, rychle...
-1753	Bylo detekovano odpaleni takticke nuklearni rakety.
-1754	Varovani! Hrozi zasah nuklearni rakety!
-1755	Na severnim konci ostrova byly zaznamenany otresy zeme.
-1756	Globalni oteplovani! Pozor na hladinu vody!
-1757	Snaz se nenamocit!\n
-1758	Rychle, at se k tobe nedostanou!
-1759	General se snazi uprchnout!
-1760	Ta radiace bude tvoje smrt!
-1761	Rychle se dostan az do oblak!
-1762	Vylez na tu horu, ne na ten krtinec.
-1763	Rychle pryc od okraju, brzy prijde zemetreseni!
-1764	Kde je Noem, kdyz ho tak potrebujeme?
-1765	Je cas postavit ty pristresky.
-1766	Doufam, ze mas dostatecnou ochranu.
-1767	VAROVANI! Seismicka aktivita, 7.2 na Richterove stupnici!
-1768	Jak to dopadlo s tim petiminutovym varovanim?
-1769	Globalni vyhlazeni!
-1770	VAROVANI! Zlomova linie je tady!
-1771	Pozor, tektonicky pohyb!
-1772	Na konci sveta bude noc!
-1773	Den zuctovani
-1774	Nepratelske sily se mobilizuji!
-1775	Raketa je tady!
-1776	V pristim kole to uz bude nepritel brat vazne.
-1777	Nepritel je ozbrojen az po zuby!
-1778	Videli te, UTIKEJ!
-1779	Embargo na nepratelske zbrane bylo ukonceno.
-1780	Mozna te cekaji potize...
-1781	Konflikt se vyostruje.
-1782	Znic je vsechny, vojaku!
-1783	Valka je peklo.
-1784	Radeji kopej hodne hluboko!
-1785	Ve smrti JE cest.
-1786	Pouzij temnou stranu!
-1787	Zajisti oblast!
-1788	Kopej dolu a kopej hluboko.
-1789	To ovoce uz dozralo, a je na case jej posbirat!
-1790	Nezapomen sbirat bedny, abys rozsiril svuj arzenal.
-1791	Naradi by se ted hodilo.
-1792	Ted by se opravdu hodila prvni pomoc.
-1793	Budes muset pouzit lano...
-1794	Zvaz pouziti nekolika tramu jako ochrany.
-1795	Musis zahajit strelbu.
-1796	Nezapomen, ze i na lane muzes odhazovat predmety!
-1797	Nauc se vyuzivat opakovaneho nadhozeni lana!
-1798	Nauc se vsechny skakaci techniky.
-1799	Zpetny skok te dostane jeste vyse.
-1800	Dobre sleduj nepratelske jednotky a jejich taktiku.
-1801	Jednej rychle, mysli s predstihem.
-1802	Skunkove se mohou dostat i do mist, kam se zadna jina zbran nedostane.
-1803	Zbrane mohou byt pri vystrelu posunuty nahoru i dolu.
-1804	Nekdy se reseni mise ukryva v bedne.
-1805	Tramy muzes umistit i v pripade, ze se prave houpes na lane.
-1806	Potrebujes pomoc? Zkus pouzit sip nebo dva...
-1807	Tram muze byt tvou posledni obrannou linii.
-1808	Zvirata a stare zeny mohou jit nakupovat.
-1809	Padak nezpomali tvuj pad, ale lze jej ovladat.
-1810	Nezapomen, ze mas k dispozici padak.
-1811	Bedny a exploze nejdou dohromady.
-1812	Nalety budou efektivnejsi, pokud je spravne nasmerujes.
-1813	Krtci radi hrabou smerem dolu a take maji sklony k explozim.
-1814	Dobre umisteny dynamit vyzene z ukrytu i toho nejtvrdohlavejsiho cerva.
-1815	Vitr ovlivnuje drahu nekterych zbrani. Tak pozor, at nestojis po vetru.
-1816	Odhadni ucinky vetru, a pak uz jen pouzij svou bazuku!
-1817	Prebytecni cervi mohou byt vybornou navnadou.
-1818	Strilej take do barelu. I ty mohou byt smrtici.
-1819	Tato bedna by mohla byt zivotne dulezita!
-1820	Tramy mohou pomoci granatum dosahnout jejich cile.
-1821	Vodni ovce vodu primo miluje.
-1822	Pospes si, cas nam pomalu konci.
-1823	Radeji si pospes. Uz nezbyva mnoho casu.
-1824	Rychle! Voda stoupa!
-1825	Tady je neco, co ti pomuze.
-1826	Pokud mas potize, pouzij toto.
-1827	Mysleli jsme si, ze bys tohle mohl ocenit.
-1828	Zda se, ze potrebujes pomoc, novacku.
-1829	Tohle se bude hodit.
-1830	Potrebujes pomoc...
-1831	Zkus tohle.
 1900	Tyto ikonky generuji ostrovni mapy.
 1901	Tyto ikonky generuji jeskynni mapy..
 1902	Zde se zobrazuje napovedny text.

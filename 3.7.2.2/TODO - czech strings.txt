@@ -3,30 +3,14 @@ STRINGTABLE
 3, "CD hudba"
 4, "Zapne či vypne CD hudbu"
 7, "Chyba"
-14, "Zvolené jméno hráče je neplatné, prosím zadej platné jméno."
-15, "Pro připojení k jinému počítači musíš zadat nebo vybrat IP adresu."
-}
-STRINGTABLE
-{
-16, "IPX/SPX"
-21, "TCP/IP"
-22, "Nebyl detekován žádný síťový protokol!"
-25, "Musíš zadat heslo nebo deaktivovat volbu hesla."
-26, "Pro hostování hry musíš zadat její název."
 
-}
-STRINGTABLE
-{
-32, "Nelze inicializovat síť. Pravděpodobně je špatný nebo chybějící winsock stack."
+
 33, "Nastavení videa"
-34, "Nelze inicializovat síť pro TCP/IP hru!"
 35, "Animace"
 36, "Zapne či vypne animace."
 37, "Grafika s vysokým rozlišením"
 38, "Zapne vysoké grafické rozlišení (1024x768)."
-40, "Nelze inicializovat síť pro IPX/SPX hru!"
 44, "Nastavení zvuku"
-45, "Musíš zadat adresu proxy serveru nebo deaktivovat volbu proxy."
 46, "Hlasitost efektů"
 47, "Název hry je příliš krátký. Zadej delší název."
 }
@@ -47,11 +31,10 @@ STRINGTABLE
 60, "Povolený počet hráčů je 2 až 16"
 61, "Minimální"
 62, "Maximální"
-63, "Jazykový filtr"
 }
 STRINGTABLE
 {
-64, "Aktivuje filtr nevhodných výrazů."
+
 65, "Vrátí do hlavního menu."
 66, "Editor zbraní"
 67, "Nastaví parametry zbraní."
@@ -120,16 +103,13 @@ STRINGTABLE
 135, "Pokouším se o spojení"
 136, "Provedeno"
 137, "Návrat do předchozího menu."
-140, "Podpora firewallu"
+140, ""
 141, "Zapnout podporu proxy"
-142, "Zapni tuto volbu, pokud je tvá síť vybavena firewallem či proxy serverem."
-143, "Proxy adresa"
+142, ""
+143, ""
 }
 STRINGTABLE
 {
-144, "IP adresa tvého proxy serveru"
-145, "Proxy port"
-146, "Číslo portu tvého proxy serveru"
 150, "Konec"
 151, "Opravdu chceš ukončit hru?"
 
@@ -159,7 +139,6 @@ STRINGTABLE
 STRINGTABLE
 {
 257, "Lokální síť"
-258, "Klikni sem pro hru po lokální síti."
 259, "Klikni na toto tlačítko pro přepnutí mezi TCP/IP a IPX/SPX protokoly."
 260, "Zde zadej svého hráčské jméno (přezdívku)."
 261, "Zde nalezneš svou IP adresu."
@@ -243,12 +222,11 @@ STRINGTABLE
 370, "Zpět"
 371, "Návrat do předchozího menu"
 372, "Připojení k síti WORMNET prostřednictvím Internetu"
-373, "Konfigurace"
-374, "Upraví síťová nastavení."
+373, ""
+374, ""
 375, "Jméno hráče"
-376, "Tvá IP adresa"
+
 377, "Hra po lokální síti"
-378, "Informace o hráči"
 379, "WORMNET"
 380, "Login"
 381, "Připojí tě k serveru."
@@ -368,7 +346,7 @@ STRINGTABLE
 {
 1344, "Tyto ikonky generují venkovní mapy."
 1345, "Tyto ikonky generují vnitřní mapy."
-1346, "Zde se zobrazuje nápovědný text."
+
 1347, "PŘEDLOHY VENKOVNÍ"
 1348, "PŘEDLOHY VNITŘNÍ"
 
@@ -386,14 +364,9 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-1381, "Informace o hráči"
 1382, "Hráči"
-1383, "Tvá IP adresa"
 1384, "Síťová hra přes server"
-1387, "Hra po lokální síti"
-1388, "Přepíná mezi IPX/SPX a TCP/IP protokoly."
-1389, "Zde zadej své hráčské jméno (přezdívku)."
-1390, "Tvá IP adresa. (Zde obvykle není třeba nic měnit.)"
+
 1391, "Hra po Internetu prostřednictvím sítě WORMNET"
 }
 STRINGTABLE
@@ -480,7 +453,6 @@ STRINGTABLE
 
 1617, "Levým kliknutím vyřadíš hráče ze hry."
 1618, "Tito hráči jsou již ve hře."
-1619, "Nelze nalézt datové soubory misí. Zkontroluj, zda se Worms Aramageddon CD nachází ve tvé CD-ROM mechanice."
 
 
 1700, "Připojení ke hře v roli pozorovatele."
@@ -513,11 +485,10 @@ STRINGTABLE
 {
 5200, "Došlo k chybě při čtení dat z CD. Zkontroluj, zda je herní CD v mechanice a není na něm prach nebo škrábance."
 5201, "CD CHYBA"
-5202, "Vlož Worms Armageddon CD do CD-ROM mechaniky ještě před spuštěním hry."
-5203, "Zkontroluj, zda se Worms Armageddon CD nachází v CD-ROM mechanice."
-5204, "Došlo k chybě při inicializaci zvuku."
-5205, "Došlo k chybě při nahrávání herních dat. Zkontroluj svůj počítač."
-5206, "Nelze uložit herní data. Zkontroluj, zda je na tvém harddisku dostatek volného místa."
+5203, ""
+5204, ""
+5205, ""
+5206, ""
 5207, "Připojení k síti bylo přerušeno."
 
 {
