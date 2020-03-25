@@ -36,26 +36,13 @@ STRINGTABLE
 {
 
 65, "Vrátí do hlavního menu."
-66, "Editor zbraní"
-67, "Nastaví parametry zbraní."
-68, "Editor map"
-69, "Vytvoří nové či změní stávající mapy."
-70, "Možnosti hry"
-71, "Upraví různé herní volby."
 72, "Možnosti systému"
 73, "Změní různé systémové volby."
 74, "Zpět"
 75, "Vrátí tě do předchozího menu."
-76, "Vytvořit nový tým"
-77, "Vytvoří nový tým."
-78, "Seznam existujících týmů."
-79, "Upraví parametry týmu."
 }
 STRINGTABLE
 {
-80, "Upravit tým"
-81, "Smaže tým."
-82, "Zobrazit statistiky týmu"
 83, "Nastavení ovládání"
 84, "Nastavení týmu"
 85, "Fanfára"
@@ -103,41 +90,22 @@ STRINGTABLE
 135, "Pokouším se o spojení"
 136, "Provedeno"
 137, "Návrat do předchozího menu."
-140, ""
 141, "Zapnout podporu proxy"
-142, ""
-143, ""
 }
 STRINGTABLE
 {
 150, "Konec"
 151, "Opravdu chceš ukončit hru?"
 
-
-165, "Vytvoří nový tým."
 166, "Odejde z menu, aniž by došlo k vytvoření týmu."
 167, "Uloží provedené změny a odejde z tohoto menu."
 168, "Opravdu chceš opustit toto menu bez uložení provedených změn?"
-169, "Opravdu chceš smazat tento tým?"
-172, "Smazat"
-
 
 177, "Seznam uložených nastavení, které můžeš použít či upravit"
-178, "Uloží aktuální nastavení"
-179, "Nahraje zvolené nastavení"
-180, "Volby týmu"
-181, "Nastavení"
 
-198, "Zpět"
 
-}
-STRINGTABLE
-{
-253, "Zrušit"
-255, "Zpět"
-}
-STRINGTABLE
-{
+
+
 257, "Lokální síť"
 259, "Klikni na toto tlačítko pro přepnutí mezi TCP/IP a IPX/SPX protokoly."
 260, "Zde zadej svého hráčské jméno (přezdívku)."
@@ -162,9 +130,6 @@ STRINGTABLE
 279, "Zjistí a upraví herní volby."
 280, "Možnosti"
 281, "Uložit"
-282, "Uloží aktuální konfiguraci jako herní nastavení."
-283, "Smazat"
-284, "Smaže zvolené herní nastavení."
 286, "Nastavuje množství energie, které bude mít každý červ na začátku hry."
 287, "Nastavuje délku standardní hrací doby před aktivací Náhlé smrti."
 }
@@ -189,30 +154,11 @@ STRINGTABLE
 STRINGTABLE
 {
 304, "Kasárna"
-305, "Zvolený tým"
 306, "Mise"
-307, "Informace o misi"
-308, "Začít misi"
 309, "Zpět"
-310, "Nebyl zvolen žádný tým."
-311, "Nebyla zvolena žádná mise."
-312, "Spustí zvolenou misi."
-313, "Návrat do předchozího menu"
-314, "Zvolí následující misi."
-315, "Zvolí předchozí misi."
-316, "Který tým se pokusí splnit misi?"
-317, "Náhled mise"
-318, "Zvolená mise"
-322, ""
-323, "Zpět"
-324, ""
-334, ""
-335, ""
 352, "Zpět"
 353, "Návrat do předchozího menu"
-354, ""
 358, "Kasárna"
-359, ""
 361, "Mapa"
 365, "Týmy"
 366, "Kasárna"
@@ -222,8 +168,6 @@ STRINGTABLE
 370, "Zpět"
 371, "Návrat do předchozího menu"
 372, "Připojení k síti WORMNET prostřednictvím Internetu"
-373, ""
-374, ""
 375, "Jméno hráče"
 
 377, "Hra po lokální síti"
@@ -296,9 +240,6 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-502, ""
-503, ""
-504, ""
 506, "Neznámá"
 1247, "Mise"
 
@@ -449,7 +390,6 @@ STRINGTABLE
 STRINGTABLE
 {
 1563, "Zpět"
-1564, ""
 
 1617, "Levým kliknutím vyřadíš hráče ze hry."
 1618, "Tito hráči jsou již ve hře."
@@ -485,10 +425,6 @@ STRINGTABLE
 {
 5200, "Došlo k chybě při čtení dat z CD. Zkontroluj, zda je herní CD v mechanice a není na něm prach nebo škrábance."
 5201, "CD CHYBA"
-5203, ""
-5204, ""
-5205, ""
-5206, ""
 5207, "Připojení k síti bylo přerušeno."
 
 {
@@ -546,43 +482,27 @@ STRINGTABLE
 49042, "Zvol typ půdy pro svou mapu."
 49043, "Nelze se připojit k serveru. Zvol jiný server a zkus to znova."
 49044, "Nelze se připojit k chatové službě. Zvol jiný server a zkus to znova."
-49046, ""
 49047, "Zaškrtl jsi políčko \"Zapnout podporu proxy\", což znamená, že tvá síť obsahuje firewall. Pokud se nyní pokusíš hostovat hru, ostatní hráči se možná nebudou moci připojit."
-49048, ""
 49051, "Děkujeme ti za použití serveru WORMNET, těšíme se nashledanou!"
-49054, ""
 49064, "Server, ke kterému se snažíš připojit, může některé operace vykonávat velmi pomalu. Použitím serveru, který se nachází blíže k tobě, můžeš celou hru značně urychlit."
 49065, "Nelze nalézt soubor serverlist.htm. Navštiv webovou stránku Worms Armageddon (worms.team17.com) a stáhni si jej."
-49066, ""
 49069, "Prosím, zkontroluj své nastavení"
 49070, "a zkus to znovu."
-49071, ""
 49076, "Tento server je plný. Zkus jiný server."
 49077, "Vytvoření hry na serveru se nezdařilo. Zkontroluj, zda jsi zadal všechny potřebné parametry, a zkus to znovu."
-49078, ""
 49079, "Tato hra se nachází na síti WORMNET. Hráči na lokální síti se k ní mohou připojit pouze prostřednictvím služby WORMNET."
 49080, "Čas vypršel."
-49086, ""
 49087, "Nelze vytvořit unikátní identifikátor pro tuto hru."
-49088, ""
 49089, "Nahrát uloženou mapu."
 49090, "Varování"
-49091, ""
-49094, "Sada 'locale' pro tento počítač je neznámá. Pro hru bude použita standardní verze."
-49095, "Přetečení bufferu! Čtení > 512 bytů bez přestávky!"
 49096, "Ze serveru nebylo získáno unikátní ID pro tuto hru!"
-49097, ""
 49100, "Spojení úspěšně dokončeno."
 49101, "Spojení se nezdařilo."
 49102, "Připojuji se k hostiteli..."
-49103, ""
 49104, "Debugovací mód zapnut"
 49105, "Debugovací mód vypnut"
-49106, ""
 49111, "Hledám hry..."
 49112, "Nebyly nalezeny žádné hry."
-49113, ""
 49120, "Okružní jízda"
-49121, ""
 49191, "Hry"
 49193, "Červi"
