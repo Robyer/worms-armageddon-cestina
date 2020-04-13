@@ -1,10 +1,3 @@
-STRINGTABLE
-{
-3, "CD hudba"
-4, "Zapne či vypne CD hudbu"
-7, "Chyba"
-
-
 33, "Nastavení videa"
 35, "Animace"
 36, "Zapne či vypne animace."
@@ -243,60 +236,10 @@ STRINGTABLE
 506, "Neznámá"
 1247, "Mise"
 
-STRINGTABLE
-{
-1286, "Převrátí celou mapu."
-1287, "Zapne či vypne nezničitelný okraj mapy."
-1288, "Vytvoří tunelový systém na mapě."
-1289, "Vytvoří jámy na mapě."
-1290, "Importuje uživatelskou mapu."
-1291, "Zobrazí náhled této mapy."
-1292, "Levý tlačítkem zvětšíš velikost štětce, pravým tlačítkem ji zmenšíš."
-1293, "Vrátí tě do editačního módu"
-1294, "Levým tlačítkem smažeš celou mapu, pravým tlačítkem ji celou zaplníš půdou."
-1295, "Levým tlačítkem zaplníš celou mapu půdou, pravým tlačítkem ji celou smažeš."
-}
-STRINGTABLE
-{
-1296, "Vrátí zpět poslední provedenou změnu."
-1297, "Zvol mapu, kterou chceš nahrát, nebo zadej kód mapy."
-1298, "Uloží tuto mapu."
-1299, "Smaže tuto mapu."
-1300, "Levým tlačítkem zvýšíš počet mostů na této mapě, pravým tlačítkem jej snížíš."
-1301, "Levým tlačítkem zvýšíš počet objektů na této mapě, pravým tlačítkem jej snížíš."
-1302, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1303, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1304, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1305, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1306, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1307, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1308, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1309, "Levým tlačítkem vygeneruješ novou mapu, pravým tlačítkem ji upravíš."
-1310, "Kliknutím či tažením myši můžeš upravit výšku vody."
-1311, "Levé tlačítko kreslí, pravé tlačítko maže."
-}
-STRINGTABLE
-{
-1312, "Tato úroveň bude mít vlastnosti mapy vnitřního typu."
-}
-STRINGTABLE
-{
-1338, "Zvol typ půdy a pozadí pro tvou mapu."
-}
-STRINGTABLE
-{
-1344, "Tyto ikonky generují venkovní mapy."
-1345, "Tyto ikonky generují vnitřní mapy."
 
-1347, "PŘEDLOHY VENKOVNÍ"
-1348, "PŘEDLOHY VNITŘNÍ"
 
-1350, "Měním velikost obrázku, prosím čekej..."
-}
-STRINGTABLE
-{
-1366, "Na základě zadaného kódu vygeneruje novou mapu."
 1368, "V jiné hře"
+
 
 1371, "Chyba serveru"
 1373, "Nelze vytvořit GUID pro identifikaci hry."
@@ -432,7 +375,7 @@ STRINGTABLE
 }
 STRINGTABLE
 {
-49000, "Odchod z editoru map."
+49000, ""
 49001, "Zadal jsi nesprávné písmeno do políčka pro pohlaví. Prosím zadej buď M (muž), nebo Ž (žena)."
 49002, "Zadal jsi nesprávný věk. Povolený rozsah je 1-100."
 49003, "Políčko pro jméno musí být vyplněno. Prosím zadej své jméno."
@@ -467,19 +410,6 @@ STRINGTABLE
 49029, "Ke zvolenému serveru se nelze připojit. Zvol jiný a zkus to znovu."
 49030, "Původní zadané heslo je jiné, prosím zopakuj zadání."
 49031, "Stiskl jsi tlačítko ZRUŠIT. Nový účet nebude vytvořen. Opravdu chceš pokračovat?"
-49033, "Zpět"
-49034, "Nahrávám obrázek, prosím čekej..."
-49035, "Probíhá proces redukce barev, prosím čekej..."
-49036, "Generuji"
-49037, "Přepnutím do editačního módu ztratíš všechny informace o barvách. Opravdu to chceš udělat?"
-49038, "Tvůj obrázek je větší než oblast mapy. Chceš jej zmenšit nebo umístit do středu mapy?"
-49039, "Zmenšit"
-}
-STRINGTABLE
-{
-49040, "Vycentrovat"
-49041, "Provedl jsi změny. Chceš opravdu odejít a provedené změny anulovat?"
-49042, "Zvol typ půdy pro svou mapu."
 49043, "Nelze se připojit k serveru. Zvol jiný server a zkus to znova."
 49044, "Nelze se připojit k chatové službě. Zvol jiný server a zkus to znova."
 49047, "Zaškrtl jsi políčko \"Zapnout podporu proxy\", což znamená, že tvá síť obsahuje firewall. Pokud se nyní pokusíš hostovat hru, ostatní hráči se možná nebudou moci připojit."
