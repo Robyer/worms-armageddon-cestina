@@ -1,0 +1,11 @@
+STRINGTABLE
+{
+49000, "Odchod z editoru map."
+49001, "Zadal jsi nesprávné písmeno do políèka pro pohlaví. Prosím zadej buï M (muž), nebo Ž (žena)."
+49002, "Zadal jsi nesprávný vìk. Povolený rozsah je 1-100."
+49003, "Políèko pro jméno musí být vyplnìno. Prosím zadej své jméno."
+49004, "Políèko pro pøíjmení musí být vyplnìno. Prosím zadej své pøíjmení."
+49005, "Políèko pro adresu musí být vyplnìno. Prosím zadej svou adresu."
+49006, "Políèko e-mail musí být vyplnìno. Prosím zadej svou e-mailovou adresu."
+49007, "Políèko PSÈ musí být vyplnìno. Prosím zadej své PSÈ."
+}

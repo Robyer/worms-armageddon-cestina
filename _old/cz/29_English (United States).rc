@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+448, "Název hry"
+449, "Heslo"
+450, "Obnovit seznamy hráèù a her"
+451, "Obnoví seznamy hráèù a her."
+452, "Hostování hry"
+453, "Vytvoøit hru"
+454, "Vytvoøí a zaène hostovat novou hru."
+455, "Název tvé hry"
+456, "Chránìno heslem"
+457, "Možnost chránit hru heslem"
+458, "Zadej heslo pro svou hru."
+459, "Maximální poèet týmù, které mohou hrát tuto hru."
+460, "Zvol nastavení pro svou hru."
+461, "Potvrzení zadaných informací a pokraèování."
+462, "Zpìt"
+463, "Zruší aktuální operaci."
+}

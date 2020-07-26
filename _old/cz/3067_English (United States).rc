@@ -1,0 +1,18 @@
+STRINGTABLE
+{
+49056, "Nelze se pøipojit ke kanálu."
+49057, "Tento pøíkaz není v souèasné dobì podporován."
+49058, "Nelze hostovat hru."
+49060, "Èas pro síovou operaci vypršel."
+49061, "Inicializace sítì selhala."
+49062, "Èas pro serverovou operaci vypršel."
+49063, "Server pravdìpodobnì selhal."
+49064, "Server, ke kterému se snaíš pøipojit, mùe nìkteré operace vykonávat velmi pomalu. Pouitím serveru, kterı se nachází blíe k tobì, mùeš celou hru znaènì urychlit."
+49065, "Nelze nalézt soubor serverlist.htm. Navštiv webovou stránku Worms Armageddon (worms.team17.com) a stáhni si jej."
+49066, "Zapnout jazykovı filtr."
+49067, "Pøipojením k této slubì akceptuješ pravidla a podmínky pro pouití sluby WORMNET service. Chceš pokraèovat?"
+49068, "Neplatná operace."
+49069, "Prosím, zkontroluj své nastavení"
+49070, "a zkus to znovu."
+49071, "Operace selhala."
+}

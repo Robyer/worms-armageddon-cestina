@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+64, "Aktivuje filtr nevhodných výrazù."
+65, "Vrátí do hlavního menu."
+66, "Editor zbraní"
+67, "Nastaví parametry zbraní."
+68, "Editor map"
+69, "Vytvoøí nové èi zmìní stávající mapy."
+70, "Možnosti hry"
+71, "Upraví rùzné herní volby."
+72, "Možnosti systému"
+73, "Zmìní rùzné systémové volby."
+74, "Zpìt"
+75, "Vrátí tì do pøedchozího menu."
+76, "Vytvoøit nový tým"
+77, "Vytvoøí nový tým."
+78, "Seznam existujících týmù."
+79, "Upraví parametry týmu."
+}

@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+176, "CPU Veterán"
+177, "Seznam uložených nastavení, které mùžeš použít èi upravit"
+178, "Uloží aktuální nastavení"
+179, "Nahraje zvolené nastavení"
+180, "Volby týmu"
+181, "Nastavení"
+182, "Množství nábojù na zaèátku hry"
+183, "Náboje"
+184, "Síla zbranì"
+185, "Síla"
+186, "Ve kterém kole bude zbraò dostupná"
+187, "Zpoždìní"
+188, "Pravdìpodobnost nalezení této zbranì v bednì"
+189, "Bedny"
+190, "Zapne èi vypne superzbranì"
+191, "Superzbranì zapnuty"
+}

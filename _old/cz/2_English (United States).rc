@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+16, "IPX/SPX"
+17, "Hry pro jednoho hráèe"
+18, "Pøepne do menu her jednoho hráèe."
+19, "Vytvoøit hru"
+20, "Vytvoøí hru jednoho nebo více hráèù."
+21, "TCP/IP"
+22, "Nebyl detekován ádnı síovı protokol!"
+23, "Síová hra"
+24, "Hra po lokální síti nebo Internetu"
+25, "Musíš zadat heslo nebo deaktivovat volbu hesla."
+26, "Pro hostování hry musíš zadat její název."
+27, "Nastavení"
+28, "Pøepne do menu nastavení."
+29, "Konec"
+30, "Ukonèí hru a vrátí tì do skuteèného svìta."
+31, "Nastavení grafiky"
+}

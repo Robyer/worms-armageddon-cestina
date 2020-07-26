@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+384, "Heslo"
+385, "Zde zadej své heslo."
+386, "Heslo"
+387, "Zde zadej své heslo."
+388, "Hlavní místnost lokální sítì"
+389, "Zprávy od ostatních hráèù v hlavní místnosti"
+390, "Seznam hráèù v hlavní místnosti"
+391, "Napiš svou zprávu a odešli ji stiskem klávesy ENTER."
+392, "Seznam dostupných her"
+393, "Odeslat"
+394, "Odešle napsanou zprávu."
+395, "Hostovat"
+396, "Klikni sem pro hostování hry."
+397, "Zadej název hry."
+398, "Požadovat heslo"
+399, "Pøi použití této volby bude tvá hra chránìna heslem."
+}

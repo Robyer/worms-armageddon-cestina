@@ -1,0 +1,17 @@
+STRINGTABLE
+{
+0, " "
+1, "Prostøedí "
+2, "Zapne èi vypne zvuky prostøedí"
+3, "CD hudba"
+4, "Zapne èi vypne CD hudbu"
+7, "Chyba"
+8, "Pøipojení ukonèeno"
+9, "Pøipojení zahájeno"
+10, "Probíhá pøipojování, prosím èekej."
+11, "Pøipojeno"
+12, "Probíhá odpojování."
+13, "Pøipojení se zdaøilo."
+14, "Zvolené jméno hráèe je neplatné, prosím zadej platné jméno."
+15, "Pro pøipojení k jinému poèítaèi musíš zadat nebo vybrat IP adresu."
+}

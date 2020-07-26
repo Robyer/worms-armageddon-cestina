@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+320, "Rychlý start"
+321, "Mise"
+322, "Trénink"
+323, "Zpìt"
+324, "Spustí rychlou hru proti poèítaèi."
+325, "Spustí hru po jednotlivých misích."
+326, "Tréninkové disciplíny"
+327, "Návrat do hlavního menu"
+328, "Závod super ovcí"
+329, "Støelnice"
+330, "Šílené bedny"
+331, "Dìlostøelecká støelnice"
+332, "Eutanazie"
+333, "Aktuální rekord pro tuto událost %d:%02d:%02d sekund drží %s."
+334, "Vyzkouší tuto zvukovou sadu."
+335, "Èas nezbytný pro získání BRONZOVÉ medaile, je %d:%02d:%02d sekund... hodnì štìstí!"
+}

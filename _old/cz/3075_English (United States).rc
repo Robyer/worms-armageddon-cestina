@@ -1,0 +1,17 @@
+STRINGTABLE
+{
+49184, "Zadej heslo."
+49185, "Heslo je nesprávné, zkus jej zadat znovu."
+49186, "Rekordní èas týmu v této události."
+49187, "Možnosti zvuku"
+49188, "Vlajka"
+49189, "Systém"
+49190, "Zprávy"
+49191, "Hry"
+49192, "Kanál"
+49193, "Èervi"
+49194, "Omlouváme se"
+49195, "Tato volba není v demu dostupná"
+49196, "IP"
+49197, "Vynutí použití této IP adresy pøi hostování hry na síti wormnet."
+}

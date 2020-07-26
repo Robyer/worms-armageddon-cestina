@@ -1,0 +1,13 @@
+STRINGTABLE
+{
+2000, "Cenu pro nejlepšího èerva zápasu získává %s (%s) za %d zabitých èervù."
+2001, "%s získává cenu nejlepšího ostøelovaèe... (%d%%)\n"
+2002, "%s byl zvolen nejnudnìjším týmem.\n"
+2003, "Sláva %s, mistrùm temné strany!\n"
+2004, "%s nebyl ale vùbec dobrý.\n"
+2005, "%s získává cenu za pobavení divákù.\n"
+2006, "Cena obchodníkù putuje k %s.\n"
+2007, "Cenu za uspokojení nejvíce divákù získává %s.\n"
+2008, "%s nezmlkl ani na chvilku.\n"
+2009, "%s nemìl vùbec co øíci.\n"
+}

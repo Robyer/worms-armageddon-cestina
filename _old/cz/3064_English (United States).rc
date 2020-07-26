@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49008, "Políèko titul musí být vyplnìno. Prosím zadej svùj titul."
+49009, "Políèko heslo musí být vyplnìno. Prosím zadej své heslo."
+49010, "Políèko uživatelské jméno musí být vyplnìno. Prosím zadej své uživatelské jméno."
+49011, "Zopakuj zadání hesla pro ovìøení jeho správnosti"
+49012, "Políèko opakovaného zadání hesla musí být vyplnìno. Prosím zadej své heslo."
+49013, "Použil jsi nìkteré nepovolené znaky, zkus to znovu."
+49014, "Probíhá pøipojování k serveru, prosím èekej..."
+49015, "Pøipojeno k serveru"
+49016, "Ukonèuji pøipojení k serveru, prosím èekej..."
+49017, "Spojení ukonèeno"
+49018, "Pøipojení k serveru bylo pøerušeno."
+49019, "Pøipojení k chatovacímu serveru bylo pøerušeno."
+49020, "Pøipojení k datovému serveru bylo pøerušeno."
+49021, "Obnovuji pøipojení k serveru, prosím èekej..."
+49022, "Chatovací server"
+49023, "Datový server"
+}

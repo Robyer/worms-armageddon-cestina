@@ -1,0 +1,1 @@
+pro odstranění diakritiky stačí použít web: https://miniwebtool.com/remove-accent/

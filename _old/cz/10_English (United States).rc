@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+144, "IP adresa tvého proxy serveru"
+145, "Proxy port"
+146, "Èíslo portu tvého proxy serveru"
+147, "Dotaz pøed automatickým obnovením klienta"
+148, "Dotaz pøed automatickým obnovením souborù ze serveru"
+149, "Test sítì"
+150, "Konec"
+151, "\n\nOpravdu chceš ukonèit hru?"
+152, "Spustí sérii diagnostických testù"
+153, "Výsledky všech diagnostických funkcí"
+154, "Jméno"
+155, "Èerv 1"
+156, "Èerv 2"
+157, "Èerv 3"
+158, "Èerv 4"
+159, "Èerv 5"
+}

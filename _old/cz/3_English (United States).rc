@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+32, "Nelze inicializovat sí. Pravdìpodobnì je špatnı nebo chybìjící winsock stack."
+33, "Nastavení videa"
+34, "Nelze inicializovat sí pro TCP/IP hru!"
+35, "Animace"
+36, "Zapne èi vypne animace."
+37, "Grafika s vysokım rozlišením"
+38, "Zapne vysoké grafické rozlišení (1024x768)."
+39, "Úroveò detailù"
+40, "Nelze inicializovat sí pro IPX/SPX hru!"
+41, "Úroveò grafickıch detailù bìhem hry. Jejich sníením dosáhneš lepšího vıkonu."
+42, "Minimální"
+43, "Maximální"
+44, "Nastavení zvuku"
+45, "Musíš zadat adresu proxy serveru nebo deaktivovat volbu proxy."
+46, "Hlasitost efektù"
+47, "Název hry je pøíliš krátkı. Zadej delší název."
+}

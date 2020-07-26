@@ -1,0 +1,11 @@
+STRINGTABLE
+{
+816, "Major"
+817, "Polní maršál"
+818, "Hrdina"
+819, "Superhvìzda"
+820, "Elita"
+822, "Bojuj proti poèítaèi v bitvách typu deathmatch. Každá další bitva je o nìco nároènìjší.\n"
+823, "Tento tým již odehrál %d her typu deathmatch, z nich vyhrál %d a prohrál %d.\nTým již zabil %d èervù, pøièemž zemøelo %d èervù z tohoto týmu.\n"
+824, "Aktuální deathmatch hodnost tohoto týmu je %s.\n"
+}

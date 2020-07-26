@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1408, "Vytvoøí hru chránìnou heslem."
+1409, "Pøístup ke své høe mùžeš omezit heslem."
+1410, "Hostovat"
+1411, "Stisknutím tohoto tlaèítka mùžeš hostovat novou hru."
+1412, "Napiš svou zprávu a odešli ji stiskem klávesy ENTER."
+1413, "Podpora firewallu"
+1414, "Proxy adresa"
+1415, "Proxy port"
+1416, "Adresa tvého firewallu (Ponechej prázdné, pokud žádný nemáš.)"
+1417, "Èíslo portu používaného firewallem (je-li zapnuta jeho podpora)"
+1418, "Test/diagnostika sítì"
+1419, "Uložit testy"
+1420, "Automatická obnova"
+1421, "Dotázat se pøed úpravou souborù klienta"
+1422, "Po pøipojení automaticky obnovit seznam serverù"
+1423, "Auto ping"
+}

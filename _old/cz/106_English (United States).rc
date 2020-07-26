@@ -1,0 +1,10 @@
+STRINGTABLE
+{
+1680, "Mise dokonèena"
+1681, "Gratulujeme! Splnil jsi misi!\n"
+1682, "Misi jsi dokonèil %d sekund pøed èasovým limitem.\n"
+1683, "Misi jsi dokonèil s %d zbývajícími jednotkami energie.\n"
+1684, "Za výkon v této misi jsi byl odmìnìn %s medailí!\n"
+1685, "Gratulujeme! To je nový rekord pro tuto misi!\n"
+1686, "Za své úsilí jsi byl odmìnìn odkrytím tajné volby.\n"
+}

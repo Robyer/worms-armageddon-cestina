@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49040, "Vycentrovat"
+49041, "Provedl jsi zmìny. Chceš opravdu odejít a  provedené zmìny anulovat?"
+49042, "Zvol typ pùdy pro svou mapu."
+49043, "Nelze se pøipojit k serveru. Zvol jinı server a zkus to znova."
+49044, "Nelze se pøipojit k chatové slubì. Zvol jinı server a zkus to znova."
+49045, "Zvolenou hru nelze nalézt. Zvol jinou hru a zkus to znova."
+49046, "Zvolená hra je chránìna heslem. Prosím zadej heslo pro tuto hru."
+49047, "Zaškrtl jsi políèko \"Zapnout podporu proxy\", co znamená, e tvá sí obsahuje firewall. Pokud se nyní pokusíš hostovat hru, ostatní hráèi se moná nebudou moci pøipojit."
+49048, "Spojení se serverem bylo bìhem hry pøerušeno. Pøipoj se znovu."
+49049, "Nahrávám vısledky hry na server, prosím èekej..."
+49050, "Vısledky hry nelze nahrát na server."
+49051, "Dìkujeme ti za pouití serveru WORMNET, tìšíme se nashledanou!"
+49052, "Tvá hodnost je pøíliš nízká!"
+49053, "Tvá hodnost je pøíliš vysoká!"
+49054, "Byl jsi vyhoštìn ze hry!"
+49055, "Byl jsi vyhoštìn z kanálu!"
+}

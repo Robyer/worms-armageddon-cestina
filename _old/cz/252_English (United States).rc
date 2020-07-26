@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+4016, "Aktivuje neznièitelný terén. Poznámka: Peèlivì zvaž, na jaké mapì tento cheat použiješ."
+4017, "Zvìtší nièivou sílu granátù."
+4018, "Zvýší nièivý potenciál brokovnice."
+4019, "Vylepší všechny banánové bomby na super banánové bomby."
+4020, "Zvýší škody pùsobené dlouhým lukem."
+4021, "%s dosáhl následujícího...\n\n"
+4022, "DEATHMATCH HRY\n"
+4023, "Dosáhl hodnosti %s.\n"
+4024, "Odehrál %d kol hry, pøièemž zabil %d nepøátelských èervù, a souèasnì pøišel o %d vlastních èervù.\n"
+4025, "Za tento výkon dostal %s medaili.\n\n"
+4026, "Za tento výkon si nezaslouží žádnou medaili.\n\n"
+4027, "TRÉNINKOVÉ UDÁLOSTI\n"
+4028, "Tento tým je držitelem následujících rekordù:\n"
+4029, "%s - %d:%02d:%02d sekund.\n"
+4030, "%s - %d:%02d:%02d sekund  ( %s ocenìní ).\n"
+4031, "\nVÝKONY V MISÍCH\n"
+}

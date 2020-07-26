@@ -1,0 +1,16 @@
+STRINGTABLE
+{
+5200, "Došlo k chybì pøi ètení dat z CD. \nZkontroluj, zda je herní CD v mechanice a není na nìm prach nebo škrábance."
+5201, "CD CHYBA"
+5202, "Vlož Worms Armageddon CD do CD-ROM mechaniky ještì pøed spuštìním hry."
+5203, "Zkontroluj, zda se Worms Armageddon CD nachází v CD-ROM mechanice."
+5204, "Došlo k chybì pøi inicializaci zvuku."
+5205, "Došlo k chybì pøi nahrávání herních dat. Zkontroluj svùj poèítaè."
+5206, "Nelze uložit herní data. Zkontroluj, zda je na tvém harddisku dostatek volného místa."
+5207, "Pøipojení k síti bylo pøerušeno."
+5208, "Tato medaile ti umožòuje hru následující mise."
+5209, "Tato odmìna ti zpøístupnila mapu této mise i pro bìžnou hru."
+5210, "Tato nejvyšší pocta ti zpøístupní tajné volby."
+5211, "Nejlepší výsledek, jaký byl na tomto poèítaèi dosažen."
+5212, "Nejlepší výsledek tohoto týmu."
+}

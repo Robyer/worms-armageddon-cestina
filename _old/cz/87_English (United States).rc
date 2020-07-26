@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1376, "Bìhem pokusu o hostování hry došlo k chybì."
+1377, "Èas vyhrazenı pro pokus o hostování hry vypršel."
+1378, "Èas vyhrazenı pro pokus o pøipojení ke høe vypršel."
+1379, "Hry na lokální síti"
+1380, "Lokální sí"
+1381, "Informace o hráèi"
+1382, "Hráèi"
+1383, "Tvá IP adresa"
+1384, "Síová hra pøes server"
+1385, "Pøipojit se na Wormnet"
+1386, "Monosti pøipojení k serveru"
+1387, "Hra po lokální síti"
+1388, "Pøepíná mezi IPX/SPX a TCP/IP protokoly."
+1389, "Zde zadej své hráèské jméno (pøezdívku)."
+1390, "Tvá IP adresa. (Zde obvykle není tøeba nic mìnit.)"
+1391, "Hra po Internetu prostøednictvím sítì WORMNET"
+}

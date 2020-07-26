@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+112, "Zvolí náhrobní kámen, kterı bude zùstavat po tvıch èervech."
+113, "Smazat"
+114, "Smae zvolené nastavení."
+115, "Nelze se pøipojit k serveru. Zkus jinı server."
+116, "K tomuto kanálu se nemùeš pøipojit, nebo jsi ještì nedosáhl poadované hodnosti."
+117, "Tvá hodnost je pøíliš vysoká pro pøipojení k této høe."
+118, "Tvá hodnost je pøíliš nízká pro pøipojení k této høe."
+119, "se pøipojil k tomuto kanálu."
+120, "se odpojil od tohoto kanálu."
+121, "Pro pøihlášení musíš zadat heslo."
+122, "Pro pøihlášení musíš zadat uivatelské jméno."
+123, "Neznámı"
+124, "Chyba ve spojení. Pøíèinou mùe bıt firewall. Kontaktuj svého správce sítì."
+125, "Došlo k chybì serveru. Probíhá odpojení od serveru."
+126, "Zadal jsi nesprávné uivatelské jméno/heslo. Spojení se serverem bude nyní ukonèeno."
+127, "Nyní jsi oznaèen jako 'mimo poèítaè'."
+}

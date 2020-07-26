@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49024, "Pøipojení se nezdaøilo."
+49025, "Pøipojení se nezdaøilo. Zkontroluj nastavení sítì a zkus to znovu."
+49026, "Prosím zadej své identifikaèní údaje"
+49027, "Tvá identifikace se nezdaøila. Zkontroluj své nastavení a zkus to znovu."
+49028, "Identifikace se nezdaøila."
+49029, "Ke zvolenému serveru se nelze pøipojit. Zvol jiný a zkus to znovu."
+49030, "Pùvodní zadané heslo je jiné, prosím zopakuj zadání."
+49031, "Stiskl jsi tlaèítko ZRUŠIT. Nový úèet nebude vytvoøen. Opravdu chceš pokraèovat?"
+49032, "Nelze otevøít soubor diagnostiky sítì. Hra bude nyní pokraèovat bez zápisu do tohoto souboru."
+49033, "Zpìt"
+49034, "Nahrávám obrázek, prosím èekej..."
+49035, "Probíhá proces redukce barev, prosím èekej..."
+49036, "Generuji"
+49037, "Pøepnutím do editaèního módu ztratíš všechny informace o barvách. Opravdu to chceš udìlat?"
+49038, "Tvùj obrázek je vìtší než oblast mapy. Chceš jej zmenšit nebo umístit do støedu mapy?"
+49039, "Zmenšit"
+}

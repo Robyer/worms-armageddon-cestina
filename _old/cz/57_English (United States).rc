@@ -1,0 +1,8 @@
+STRINGTABLE
+{
+900, "Tenhle úkol je pro úplné nováèky."
+901, "Tato mise je snadná."
+902, "Tato mise je prùmìrnì obtížná."
+903, "Tato mise je obtížná a je vhodná pouze pro veterány."
+904, "Tato mise je velmi obtížná, proto ji mùže splnit jen ten nejlepší."
+}

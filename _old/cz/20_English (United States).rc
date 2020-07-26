@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+304, "Kasárna"
+305, "Zvolený tým"
+306, "Mise"
+307, "Informace o misi"
+308, "Zaèít misi"
+309, "Zpìt"
+310, "Nebyl zvolen žádný tým."
+311, "Nebyla zvolena žádná mise."
+312, "Spustí zvolenou misi."
+313, "Návrat do pøedchozího menu"
+314, "Zvolí následující misi."
+315, "Zvolí pøedchozí misi."
+316, "Který tým se pokusí splnit misi?"
+317, "Náhled mise"
+318, "Zvolená mise"
+319, " "
+}

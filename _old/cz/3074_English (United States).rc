@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49168, "Remizováno her"
+49169, "Prohráno her"
+49170, "Zabitıch"
+49171, "Padlıch"
+49172, "Zabitıch (Pro)"
+49173, "Zabitıch (Proti)"
+49174, "Aktuální mise"
+49175, "Deathmatch hodnost"
+49176, "Dokonèen trénink"
+49177, "Celková hodnost tımu"
+49178, "Èas dokonèení"
+49179, "Zobrazit informace o misi"
+49180, "Statistiky zvoleného tımu."
+49181, "Síová adresa."
+49182, "Nyní jsi pøipojen k %s (Hostováno %s)..."
+49183, "Pro pøipojení k této høe je vyadováno heslo."
+}

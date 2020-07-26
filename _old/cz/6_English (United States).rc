@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+80, "Upravit tým"
+81, "Smaže tým."
+82, "Zobrazit statistiky týmu"
+83, "Nastavení ovládání"
+84, "Nastavení týmu"
+85, "Fanfára"
+86, "Zvuková sada"
+87, "Speciální zbraò"
+88, "Prapor týmu"
+89, "Zadej název svého týmu."
+90, "Zadej jméno svého èerva."
+91, "Vytvoøí náhodný název týmu. Dvojitým kliknutím vytvoøí náhodný název týmu."
+92, "Vytvoøí náhodné jméno èerva."
+93, "Chatové spojení bylo bìhem hry pøerušeno. Zkus se pøipojit znovu."
+94, "Zvolí ovládání èlovìkem nebo jedním z pìti rùznì dovedných poèítaèù."
+95, "Nastaví zvukovou sadu, kterou bude tento tým používat."
+}

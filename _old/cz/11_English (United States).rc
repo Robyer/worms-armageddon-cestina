@@ -1,0 +1,16 @@
+STRINGTABLE
+{
+160, "Èerv 6"
+161, "Èerv 7"
+162, "Èerv 8"
+163, "Èlovìk"
+164, "CPU Zaèáteèník"
+165, "Vytvoøí nový tým."
+166, "Odejde z menu, aniž by došlo k vytvoøení týmu."
+167, "Uloží provedené zmìny a odejde z tohoto menu."
+168, "Opravdu chceš opustit toto menu bez uložení provedených zmìn?"
+169, "\n\nOpravdu chceš \nsmazat tento tým?"
+170, "CPU Mírnì pokroèilý"
+171, "CPU Pokroèilý"
+172, "Smazat"
+}

@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+224, "Nastavení beden"
+225, "Èasová nastavení"
+226, "Nastavení objektù"
+227, "Obecná nastavení"
+228, "První pomoc"
+229, "Náøadí"
+230, "Energie první pomoci"
+231, "Po zapnutí budou èervi zanechávat karty dárce."
+232, "Pravdìpodobnost objevení bedny se zbranìmi v každém kole"
+233, "Pravdìpodobnost objevení bedny s náøadím v každém kole"
+234, "Pravdìpodobnost objevení bedny první pomoci v každém kole"
+235, "Energie získaná sebráním bedny první pomoci"
+236, "Uloží tvé výsledky do textového souboru."
+237, "Obnovit standardní"
+238, "Zapne èi vypne opakovaný záznam."
+239, "Obnoví standardní nastavení sítì."
+}

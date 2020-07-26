@@ -1,0 +1,1981 @@
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_BLANK               " "
+    IDS_4_AMBIENCE          "Prost¯edÌ "
+    IDS_4_H_AMBIENCE        "Zapnout/vypnout zvuky prost¯edÌ"
+    IDS_4_CD                "CD hudba"
+    IDS_4_H_CD              "Zapnout/vypnout CD hudbu"
+    IDS_RANDOMERROR         "Chyba"
+    PC_IDS_NOTINITIALISED   "P¯ipojenÌ ukonËeno."
+    PC_IDS_INITIALISED      "P¯ipojenÌ zah·jeno."
+    PC_IDS_CONNECTING       "ProbÌh· p¯ipojov·nÌ, prosÌm Ëekej."
+    PC_IDS_CONNECTED        "P¯ipojeno."
+    PC_IDS_DISCONNECTING    "ProbÌh· odpojov·nÌ."
+    PC_IDS_CONNECTSUCCESS   "P¯ipojenÌ se zda¯ilo."
+    PC_IDS_PLAYERNAMENOTVALID 
+                            "ZvolenÈ jmÈno hr·Ëe je neplatnÈ, prosÌm zadejte platnÈ jmÈno."
+    PC_IDS_MUSTENTERIPADDRESS 
+                            "Pro p¯ipojenÌ k jinÈmu poËÌtaËi je pot¯eba zadat IP adresu."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_IPXNETTYPE       "IPX/SPX"
+    IDS_1_VCPU              "Hry pro jednoho hr·Ëe"
+    IDS_1_H_VCPU            "P¯epnout do menu her pro jednoho hr·Ëe."
+    IDS_1_CREATEGAME        "Vytvo¯it hru"
+    IDS_1_H_CREATEGAME      "Vytvo¯it hru pro jednoho nebo vÌce hr·Ë˘."
+    PC_IDS_TCPNETTYPE       "TCP/IP"
+    PC_IDS_NOPROTOCOLSDETECTED "Nebyl detekov·n û·dn˝ sÌùov˝ protokol!"
+    IDS_1_NETWORK           "SÌùov· hra"
+    IDS_1_H_NETWORK         "Hra po lok·lnÌ sÌti nebo Internetu"
+    PC_IDS_MUSTENTERPASSWORD 
+                            "MusÌte zadat heslo nebo deaktivovat volbu hesla."
+    PC_IDS_GAMENAMEREQUIRED "Pro hostov·nÌ hry musÌte zadat jejÌ n·zev."
+    IDS_1_SYSTEM            "NastavenÌ"
+    IDS_1_H_SYSTEM          "P¯epne do menu nastavenÌ."
+    IDS_1_QUIT              "Konec"
+    IDS_1_H_QUIT            "UkonËÌ hru a vr·tÌ tÏ do skuteËnÈho svÏta."
+    IDS_4_BOX_GRAPHICS      "NastavenÌ grafiky"                          
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_7_H_FANFARE         "ZvolÌ fanf·ru, kterou bude tv˘j t˝m pouûÌvat."
+    IDS_7_H_SPECIAL         "ZvolÌ speci·lnÌ zbraÚ, kterou bude tv˘j t˝m pouûÌvat."
+    IDS_7_H_DELETE          "Smaûe tento t˝m."
+    IDS_H_EX_CURRENT        "Pr·vÏ upravovanÈ nastavenÌ"
+    IDS_YES                 "Ano"
+    IDS_NO                  "Ne"
+    IDS_CANCEL              "Zruöit"
+    IDS_OK                  "OK"
+    IDS_LOAD                "Nahr·t"
+    IDS_7_H_FLAG            "ZvolÌ vlajku tvÈho t˝mu."
+    IDS_SAVE                "Uloûit"
+    IDS_USER_DEF            "Uûivatelsk˝"
+    IDS_DEFAULT_COMBO       "*** STANDARDNÕ ***"
+    IDS_DEFAULT             "StandardnÌ"
+    IDS_7_TXT_GRAVESTONE    "N·hrobek"
+    IDS_7_H_PLAY            "P¯ehraje fanf·ru, kterou bude tv˘j t˝m pouûÌvat."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_HELP_PROXYADDRESSEDIT "IP adresa tvÈho proxy serveru"
+    PC_IDS_LOC_PROXYPORTSTATIC "Proxy port"
+    PC_IDS_HELP_PROXYPORTEDIT "»Ìslo portu tvÈho proxy serveru"
+    PC_IDS_LOC_UPDATEPROMPTCHECK "Dotaz p¯ed automatick˝m obnovenÌm klienta"
+    PC_IDS_HELP_UPDATEPROMPTCHECK 
+                            "Dotaz p¯ed automatick˝m obnovenÌm soubor˘ ze serveru"
+    PC_IDS_LOC_NETTEST      "Test sÌtÏ"
+    IDS_CM_EXITGAME         "Konec"
+    IDS_CM_EXITMESSAGE      "\n\nOpravdu chceö ukonËit hru?"
+    PC_IDS_HELP_NETTEST     "SpustÌ sÈrii diagnostick˝ch test˘"
+    PC_IDS_HELP_NETDIAGNOSEHISTORY "V˝sledky vöech diagnostick˝ch funkcÌ"
+    IDS_TM_TEAMNAME         "JmÈno"
+    IDS_TM_TEAM1            "»erv 1"
+    IDS_TM_TEAM2            "»erv 2"
+    IDS_TM_TEAM3            "»erv 3"
+    IDS_TM_TEAM4            "»erv 4"
+    IDS_TM_TEAM5            "»erv 5"
+END
+//////// PÿELOéIT
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_H_EX_COLOURSCHEME   "ZmÏnit barevnÈ schÈma. M˘ûe pomoci pokud vidÌte zvl·ötnÌ barvy."
+    IDS_SHRINKORCROP        "V·ö obr·zek je vÏtöÌ neû oblast mapy. Chcete jej zmenöit nebo o¯Ìznout?"
+    IDS_SHRINK              "Zmenöit"
+    IDS_CROP                "O¯Ìznout"
+    IDS_COLOURMODE          "KliknutÌm odstranÌte barvu z tÈto mapy.\nPrav˝m tlaËÌtkem p¯epnete dÌry pro rozmÌstÏnÌ Ëerv˘."
+    IDS_CM_OVERWRITE_MAP_TITLE "P¯epsat mapu?"
+    IDS_CM_OVERWRITE_MAP_MESSAGE 
+                            "\n\nJste si jistÌ ûe chcete p¯epsat\nmapu ""%s""?"
+    PC_IDS_PORT             "Port"
+    PC_IDS_UPNP             "P¯esmÏrovat pomocÌ UPnP"
+    PC_IDS_HELP_PORT        "Port pouûÌvan˝ pro zakl·d·nÌ her."
+    PC_IDS_HELP_UPNP        "Pokus o p¯esmÏrov·nÌ portu automaticky\npomocÌ Universal Plug and Play."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_CANTINITIALISENET 
+                            "Nelze inicializovat sÌù. PravdÏpodobnÏ je öpatn˝ nebo chybÏjÌcÌ winsock stack."
+    IDS_4_BOX_VIDEO         "NastavenÌ videa"
+    PC_IDS_UNABLETOINITTCP  "Nelze inicializovat sÌù pro TCP/IP hru!"
+    IDS_4_RE_ANIMS          "Animace"
+    IDS_4_H_RE_ANIMS        "Zapne Ëi vypne animace."
+    IDS_4_RE_HIRES          "Grafika s vysok˝m rozliöenÌm"
+    IDS_4_H_RE_HIRES        "Zapne vysokÈ grafickÈ rozliöenÌ (1024x768)."
+    IDS_4_BOX_DETAIL        "⁄roveÚ detail˘"
+    PC_IDS_UNABLETOINITIPX  "Nelze inicializovat sÌù pro IPX/SPX hru!"
+    IDS_4_H_RE_DETAIL       "⁄roveÚ grafick˝ch detail˘ bÏhem hry. Jejich snÌûenÌm dos·hneö lepöÌho v˝konu."
+    IDS_4_TXT_MIN           "Minim·lnÌ"
+    IDS_4_TXT_MAX           "Maxim·lnÌ"
+    IDS_4_BOX_AUDIO         "NastavenÌ zvuku - Hlasitost = %d%%"
+    PC_IDS_NEEDPROXYADDRESS "MusÌö zadat adresu proxy serveru nebo deaktivovat volbu proxy."
+    IDS_4_BOX_EFFECTS       "Hlasitost efekt˘"
+    PC_IDS_GAMENAMETOOSMALL "N·zev hry je p¯Ìliö kr·tk˝. Zadej delöÌ n·zev."
+END
+//////// PÿELOéIT
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_H_SUPERBANANA    "Super Ban·n - Your produce alone has been worth the trip!"
+    IDS_WP_H_SCALES         "V·hy spravedlnosti - Kr·l äalomoun by byl pyön˝."
+    IDS_WP_H_SHEEPSTRIKE    "French Sheep Strike - The Woolly Wonder Weapon"
+    IDS_WP_H_SUICIDE        "Sebevraûedn˝ v˝buch - M·m Ëerva a nebojÌm se ho pouûÌt!"
+    IDS_WP_H_SALLY          "Salvation Army - Show charity towards your enemies."
+    IDS_HOLECOUNT           "Change the maximum number of objects, bridges and holes that can be automatically placed on the map."
+    PC_IDS_NEEDIPADDRESS    "You must enter your I.P. address, or deselect the ""Force IP"" option."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_4_H_RE_VOLUME       "NastavÌ hlasitost zvukov˝ch efekt˘."
+    IDS_4_RE_MIXER          "Hlasitost zvuk˘"
+    IDS_4_H_RE_MIXER        "ZobrazÌ panel systÈmu Windows pro nastavenÌ hlasitosti zvuk˘."
+    IDS_4_RE_TEST           "Test zvuku"
+    IDS_4_H_RE_TEST         "Test CD hudby."
+    IDS_4_RE_OK             "ZpÏt"
+    IDS_7_DELETE            "Smazat t˝m"
+    IDS_7_CANCEL            "Zruöit"
+    IDS_7_OK                "OK"
+    IDS_7_BOX_TEAMNAME      "N·zev t˝mu"
+    IDS_7_BOX_MEMBERS       "»lenovÈ t˝mu"
+    PC_IDS_PASSWORDREQUIRED "MusÌö zadat heslo, nebo deaktivovat volbu hesla."
+    PC_IDS_INVALIDMAXPLAYERS "Povolen˝ poËet hr·Ë˘ je 2 aû 16"
+    IDS_7_TXT_MIN           "Minim·lnÌ"
+    IDS_7_TXT_MAX           "Maxim·lnÌ"
+    IDS_4_RE_FILTER         "Jazykov˝ filtr"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_4_H_RE_FILTER       "Aktivuje filtr nevhodn˝ch v˝raz˘."
+    IDS_4_H_RE_OK           "Vr·tÌ do hlavnÌho menu."
+    IDS_EX_WEAPONS          "Editor zbranÌ"
+    IDS_H_EX_WEAPONS        "NastavÌ parametry zbranÌ."
+    IDS_EX_TERRAIN          "Editor map"
+    IDS_H_EX_TERRAIN        "Vytvo¯Ì novÈ Ëi zmÏnÌ st·vajÌcÌ mapy."
+    IDS_EX_GAMEOPTIONS      "Moûnosti hry"
+    IDS_H_EX_GAMEOPTIONS    "UpravÌ r˘znÈ hernÌ volby."
+    IDS_EX_GENERAL          "Moûnosti systÈmu"
+    IDS_H_EX_GENERAL        "ZmÏnÌ r˘znÈ systÈmovÈ volby."
+    IDS_EX_BACK             "ZpÏt"
+    IDS_H_EX_BACK           "Vr·tÌ tÏ do p¯edchozÌho menu."
+    IDS_EX_CRTEAM           "Vytvo¯it nov˝ t˝m"
+    IDS_H_EX_CRTEAM         "Vytvo¯Ì nov˝ t˝m."
+    IDS_H_EX_LISTTEAMS      "Seznam existujÌcÌch t˝m˘."
+    IDS_H_EX_EDTEAM         "UpravÌ parametry t˝mu."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EX_EDTEAM           "Edit team"
+    IDS_H_EX_DELTEAM        "Delete the team."
+    IDS_EX_DELTEAM          "View team statistics."
+    IDS_7_BOX_CONTROL       "Control options"
+    IDS_7_BOX_TEAMOPTIONS   "Team options"
+    IDS_7_TXT_FANFARE       "Fanfare"
+    IDS_7_TXT_VOICE         "Voice bank"
+    IDS_7_TXT_SPECIAL       "Special weapon"
+    IDS_7_TXT_FLAG          "Team banner"
+    IDS_7_H_TEAMNAME        "Enter the name of your team."
+    IDS_7_H_TEAM            "Enter the name of your team member."
+    IDS_7_H_RANDOMTEAM      "Create a random team name. Double click to create a random team."
+    IDS_7_H_RANDOM          "Create a random team member."
+    PC_IDS_CHATCONNECTIONLOST 
+                            "The chat connection was lost during the game; please reconnect."
+    IDS_7_H_SKILL           "Select human control or one of five computer skill levels."
+    IDS_7_H_VOICE           "Select which voice bank this team will use."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TM_TEAM6            "Worm 6"
+    IDS_TM_TEAM7            "Worm 7"
+    IDS_TM_TEAM8            "Worm 8"
+    IDS_TM_HUMAN            "Human"
+    IDS_TM_CPU_1            "CPU Rookie"
+    IDS_7_H_CREATE_OK       "Click to create a new team."
+    IDS_7_H_CREATE_CANCEL   "Exit without creating this team."
+    IDS_7_H_EDIT_OK         "Save these changes and exit."
+    IDS_7_H_EDIT_CANCEL     "Exit without saving changes?"
+    IDS_CM_DELETETEAMMESSAGE 
+                            "\n\nAre you sure you wish to \ndelete this team?"
+    IDS_TM_CPU_2            "CPU Easy"
+    IDS_TM_CPU_3            "CPU Average"
+    IDS_CM_DELETETEAM       "Delete"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_7_H_GRAVESTONE      "Select the gravestone that your Worms leave behind."
+    IDS_EX_DEL_SCHEME       "Delete"
+    IDS_H_EX_DEL_SCHEME     "Deletes the selected scheme."
+    PC_IDS_CANTCONNECT      "Unable to connect to the server; please try another server."
+    PC_IDS_BADUSERLEVEL     "You cannot join this channel; you have not attained the appropriate rank."
+    PC_IDS_USERLEVELTOOHIGH "Sorry, your rank is too high to join this game."
+    PC_IDS_USERLEVELTOOLOW  "Sorry, your rank is too low to join this game."
+    PC_IDS_JOINEDCHANNEL    "joined the channel."
+    PC_IDS_LEFTCHANNEL      "has left the channel."
+    PC_IDS_NOPASSWORD       "A password is required before login can proceed."
+    PC_IDS_NOUSERNAME       "A username is required before login can proceed."
+    PC_IDS_UNKNOWNPING      "Unknown"
+    PC_IDS_FIREWALL         "Bad connection, possible firewall. Check with your network administrator."
+    PC_IDS_FATALSERVERERROR "A server error has occurred. Disconnecting from the server."
+    PC_IDS_RETRYLIMIT       "You have failed to enter the correct username/password; the server connection will now be closed."
+    PC_IDS_NOWAWAY          "You are now marked as being away."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_HOLYHANDGRENADE  "Holy Grenade"
+    IDS_WP_OLDWOMAN         "Old Woman"
+    IDS_WP_MADCOW           "Mad Cow"
+    IDS_WP_SUPERSHEEP       "Super Sheep"
+    IDS_WP_HOMINGPIGEON     "Homing Pigeon"
+    IDS_WP_FLAMETHROWER     "Flamethrower"
+    IDS_WP_MOLEBOMB         "Mole Bomb"
+    IDS_WP_SHEEPGUN         "Sheep Launcher"
+    IDS_WP_H_BAZOOKA        "Bazooka - Fresh from the local supermarket."
+    IDS_WP_H_HOMER          "Homing Missile - Every home should have one."
+    IDS_WP_H_MORTAR         "Mortar - Shrapnel city."
+    IDS_WP_H_GRENADE        "Hand Grenade - Standard issue."
+    IDS_WP_H_CLUSTER        "Cluster Bomb - A handful of explosive delight."
+    IDS_WP_H_GASGRENADE     "Skunk Bomb - Smells bad!"
+    IDS_WP_H_PETROL         "Petrol Bomb - The urban favourite."
+    IDS_WP_H_BANANA         "Banana Bomb - Explosive soft fruit."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TM_CPU_4            "CPU Veteran"
+    IDS_H_EX_LISTSCHEME     "A list of schemes you can view or edit."
+    IDS_H_EX_SAVESCHEME     "Saves the selected scheme."
+    IDS_H_EX_LOADSCHEME     "Loads the selected scheme."
+    IDS_EX_BOX_TEAMS        "Team options"
+    IDS_EX_BOX_SCHEME       "Scheme options"
+    IDS_12_H_AMMO           "How much ammo you will start the game with."
+    IDS_12_AMMO             "Ammo"
+    IDS_12_H_DAMAGE         "The weapon power settings."
+    IDS_12_DAMAGE           "Power"
+    IDS_12_H_DELAY          "Which turn the weapon will become available."
+    IDS_12_DELAY            "Delay"
+    IDS_12_H_CRATE          "How likely you are to get these weapons in crates."
+    IDS_12_CRATES           "Crates"
+    IDS_12_H_ALLOWSUPER     "Turn the super weapons on or off."
+    IDS_12_ALLOWSUPER_ON    "Super weapons are allowed."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_12_H_CANCEL         "Cancel any changes you have made."
+    IDS_12_CANCEL           "Cancel"
+    IDS_12_ALLOWSUPER_OFF   "Super weapons are off"
+    IDS_12_H_ALLOWSPECIAL   "If set, the teams will start with their special weapon."
+    IDS_12_ALLOWSPECIAL_ON  "Team special weapons are on."
+    IDS_12_H_OK             "Return to the previous menu."
+    IDS_12_OK               "Exit"
+    IDS_12_H_SLIDER_AMMO    "Adjust the amount of ammo this weapon starts with."
+    IDS_12_H_SLIDER_POWER   "Adjust the power setting of this weapon."
+    IDS_12_H_SLIDER_DELAY   "Adjust which turn this weapon will become available."
+    IDS_12_H_SLIDER_CRATE   "Adjust the chance of getting this weapon in a crate."
+    IDS_11_H_WORMSELECT_ON  "With this option you can choose which Worm to move."
+    IDS_11_H_WORMSELECT_OFF "The Worms are moved in rotation."
+    IDS_11_H_WORMSELECT_RANDOM "The Worms are moved randomly."
+    IDS_11_H_ARTILERYMODE_ON "Worms cannot walk or jump."
+    IDS_11_H_ARTILERYMODE_OFF "Worms can walk and jump as usual."
+    IDS_12_ALLOWSPECIAL_OFF "Team special weapons are off."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_H_HANDGUN        "Hand Gun - Come on, make my day."
+    IDS_WP_H_SHOTGUN        "Shotgun - Two barrels, twice the fun."
+    IDS_WP_H_UZI            "Uzi - Uzi 9mm!"
+    IDS_WP_H_MINIGUN        "Minigun - Not quite as small as it sounds."
+    IDS_WP_H_LONGBOW        "Longbow - Robin who?"
+    IDS_WP_H_AIRSTRIKE      "Air Strike - Raining death."
+    IDS_WP_H_NAPALM         "Napalm Strike - Apocalypse now!"
+    IDS_WP_H_MINE           "Land Mine - Mind out."
+    IDS_WP_H_FIREPUNCH      "Fire Punch - Take it on the chin."
+    IDS_WP_H_DRAGONBALL     "DragonBall - Summon an ancient ball of energy!"
+    IDS_WP_H_PROD           "Prod - You have to admire their nerve..."
+    IDS_WP_H_AXE            "Axe - It'll split them in two!"
+    IDS_WP_H_BLOWTORCH      "Blow Torch - Favoured by the miserable dark side."
+    IDS_WP_H_DRILL          "Pneumatic Drill - Drill or kill!"
+    IDS_WP_H_GIRDER         "Girder - Bridges or barriers, your choice."
+    IDS_WP_H_NINJAROPE      "Ninja Rope - Mastering the rope reaps great rewards."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_H_PARACHUTE      "Parachute - Prepare yourself for great falls."
+    IDS_WP_H_BUNGEE         "Bungee - Extreme action!"
+    IDS_WP_H_TELEPORT       "Teleport - No better way to travel."
+    IDS_WP_H_DYNAMITE       "Dynamite - The family favourite."
+    IDS_WP_H_SHEEP          "Sheep - The original exploding mammal."
+    IDS_WP_H_BASEBALLBAT    "Baseball Bat - Straight from Soldier Field."
+    IDS_WP_H_FLAMETHROWER   "Flame Thrower - Come on baby, light my fire!"
+    IDS_WP_H_PIGEON         "Homing Pigeon - A bit stupid, but thoroughly useful."
+    IDS_WP_H_MADCOW         "Mad Cow - Fresh from the British stockpile."
+    IDS_WP_H_HOLY           "Holy Hand Grenade - The Lord's preferred weapon."
+    IDS_WP_H_OLDWOMAN       "Old Woman - Finally, a use for your granny."
+    IDS_WP_H_SHEEPLAUNCHER  "Sheep Launcher - Send your sheep to far flung places."
+    IDS_WP_H_SUPERSHEEP     "Super Sheep - The incredible flying sheep!"
+    IDS_WP_H_MOLESQUAD      "Mole Squadron - Excavate your foes."
+    IDS_WP_H_KAMAKAZI       "Kamikaze - Death or glory."
+    PC_IDS_HELP_PASSWORDEDIT "Enter your password here."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TM_CPU_5            "CPU General"
+    IDS_11_H_TELEPORTIN_ON  "Before the game begins, you take turns to place your Worms."
+    IDS_11_H_TELEPORTIN_OFF "Worms are randomly positioned on the landscape."
+    IDS_11_TXT_STOCKPILING  "Stockpiling"
+    IDS_11_H_STOCKPILING_ON "Recieve new ammo stocks on each round and keep remaining items from the previous round."
+    IDS_11_H_STOCKPILING_OFF 
+                            "Your ammo is restocked each round but any items remaining from the last round are lost."
+    IDS_11_H_STOCKPILING_ANTI 
+                            "You only get one set of ammo and it has to last the entire match!"
+    IDS_11_H_SUDDENDEATH_OFF "When the round time is zero the round will end."
+    IDS_11_H_SUDDENDEATH_DRAIN 
+                            "When the round time expires, a nuke is dropped and energy is gradually lost."
+    IDS_11_H_WATERRISING    "How fast the water rises during sudden death."
+    PC_IDS_LOC_SAVETEST     "Save test"
+    IDS_11_TXT_SUDDENDEATH  "Sudden death\nis triggered by the round\ntime reaching zero."
+    IDS_11_H_ENERGY_SLIDER  "How much energy you will lose each turn during sudden death."
+    IDS_11_TXT_CRATE        "Weapons"
+    IDS_11_BOX_GAME         "Game options"
+    IDS_11_BOX_SUDDENDEATH  "Sudden death options"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_11_BOX_CRATES       "Crate options"
+    IDS_11_BOX_TIME         "Time options"
+    IDS_11_BOX_OBJECTS      "Object options"
+    IDS_11_BOX_OTHER        "General options"
+    IDS_11_TXT_FIRSTAID     "First-aid"
+    IDS_11_TXT_UTILITIES    "Utilities"
+    IDS_11_TXT_HEALTH       "First-aid points"
+    IDS_11_H_DONORCARD      "Option to leave Donor cards or not."
+    IDS_11_H_CRATE          "The percentage chance of getting a weapon crate."
+    IDS_11_H_UTILITIES      "The percentage chance of getting a utility crate."
+    IDS_11_H_FIRSTAID       "The percentage chance of getting a first-aid crate."
+    IDS_11_H_HEALTH         "The energy value of a first-aid crate.\nHold Shift for fine tuning."
+    PC_IDS_HELP_SAVETEST    "Save the results to a text file."
+    PC_IDS_LOC_RESTOREDEFAULTS "Restore defaults"
+    IDS_11_H_AUTO           "This turns automatic replays on or off."
+    PC_IDS_HELP_RESTOREDEFAULTS 
+                            "Click here to restore the default network configuration."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_11_H_FALLDAMAGE     "Turn fall damage on or off."
+    IDS_11_H_DISPTIME       "Toggle the round-time remaining display."
+    IDS_11_TXT_DELAY        "Delay"
+    IDS_11_TXT_RETREAT      "Land retreat"
+    IDS_11_TXT_ROPERETREAT  "Rope retreat"
+    IDS_11_H_DELAY          "The delay between players taking control in a hot-seat game."
+    IDS_11_H_RETREAT        "Adjust the time you have to retreat after using a weapon.\nHold Shift for fine tuning."
+    IDS_11_H_ROPERETREAT    "Adjust the time you have to retreat after dropping from a rope.\nHold Shift for fine tuning."
+    IDS_11_H_DUDS           "Turn dud mines on or off."
+    IDS_11_H_OBJECTS_COMBO  "Select which type of objects you would like on the terrain."
+    PC_IDS_LOC_MAILSUPPORT  "Mail support"
+    PC_IDS_HELP_MAILSUPPORT "Mail the results of the tests to Team17's support department."
+    IDS_11_H_MINEFUSE       "The time that the fuse lasts on a mine."
+    IDS_11_CANCEL           "Cancel"
+    IDS_11_H_CANCEL         "Exit without saving."
+    IDS_11_OK               "Exit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_11_H_OK             "Save your changes and return to the previous menu."
+    PC_IDS_LOC_LOCALNETWORK "Local network"
+    PC_IDS_HELP_LOCALNETWORK "Click here to play via a local area network."
+    PC_IDS_HELP_NETTYPE     "Click this button to toggle between TCP/IP and IPX/SPX protocols."
+    PC_IDS_HELP_PLAYERNAMEEDIT "Enter your playername (Nickname) here."
+    PC_IDS_HELP_IPADDRESSEDIT "This box contains your I.P. address."
+    PC_IDS_LOC_SERVERNET    "Wormnet"
+    IDS_11_H_OBJECTS_DATA1  "There will be up to 8 mines on the terrain.\nHold Shift to change the amount."
+    IDS_11_H_OBJECTS_DATA2  "There will be up to 8 Oil-Drums on the terrain.\nHold Shift to change the amount."
+    IDS_11_H_OBJECTS_DATA3  "There will be up to 8 OTHER on the terrain.\nHold Shift to change the amount."
+    IDS_11_H_OBJECTS_DATA   "There will be no objects on the terrain."
+    IDS_11_H_OK_VIEW        "Return to previous screen."
+    IDS_CM_OVERWRITE_SCHEME_MESSAGE 
+                            "\n\nAre you sure you wish to overwrite\nthe ""%s"" scheme?"
+    IDS_CM_OVERWRITE_SCHEME_TITLE "Overwrite scheme?"
+    IDS_CM_DELETE_SCHEME_TITLE "Delete scheme?"
+    IDS_CM_DELETE_SCHEME_MESSAGE 
+                            "\nAre you sure you wish to\ndelete the ""%s"" scheme?"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TLC_COL2            "Rank"
+    IDS_TLM_COL1            "Team Name"
+    IDS_TLM_COL2            "Points"
+    IDS_TML_HELP            "Left click a team to add it to the game. Right click to edit."
+    IDS_TMLIG_HELP          "Left click to remove this team from the game."
+    IDS_MT_COL2             "Mission"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_6_H_WORMS           "Left click to add a Worm to the team. Right click to remove."
+    IDS_6_H_ALLY            "Select an allied group for this team."
+    IDS_6_H_HANDICAP        "Select to handicap or help the team."
+    IDS_6_BOX_TERRAIN       "Terrain"
+    IDS_6_BOX_SCHEME        "Scheme options"
+    IDS_6_WEAPONS           "Weapons"
+    IDS_6_H_WEAPONS         "Set or view the weapon options."
+    IDS_6_H_OPTIONS         "Set or view the game options."
+    IDS_6_OPTIONS           "Options"
+    IDS_6_SAVE              "Save"
+    IDS_6_H_SAVE            "Save the current configuration as a game scheme."
+    IDS_6_DELETE            "Delete"
+    IDS_6_H_DELETE          "Delete the selected scheme."
+    IDS_11_H_SUDDENDEATH_CLASSIC 
+                            "All Worm's energy will be reduced to 1 point. (Classic mode)."
+    IDS_6_H_STARTHEALTH     "Select the initial energy level that Worms will have.\nHold Shift for fine tuning."
+    IDS_6_H_ROUNDTIME       "Select how long a round will last before sudden death begins.\nHold Shift for fine tuning."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_6_H_TURNTIME        "Select how long players have to make their moves.\nHold Shift for fine tuning."
+    IDS_6_H_WINS            "Set the number of victories required to win the match."
+    IDS_6_H_NEWTEAM         "Enter the details of a new team."
+    IDS_6_START             "Start the game"
+    IDS_6_H_START           "You're all set let's go!"
+    IDS_6_BACK              "Exit"
+    IDS_6_H_BACK            "Return to the previous menu."
+    IDS_6_H_COMBO_SCHEME    "The currently selected game scheme."
+    IDS_6_BOX_TEAMS         "Teams"
+    IDS_6_BOX_BARRACKS      "Barracks"
+    IDS_6_TXT_SCHEME        "Scheme"
+    IDS_6_NEWTEAM           "Create a new team"
+    IDS_11_H_SUDDENDEATH_NOLOSS 
+                            "No energy will be lost when the round time expires."
+    IDS_11_H_OBJECTS_DATA4  "There will be up to 8 OTHER1 on the terrain.\nHold Shift to change the amount."
+    IDS_11_H_OBJECTS_DATA5  "There will be up to 8 objects on the terrain.\nHold Shift to change the amount."
+    IDS_3_BOX_TERRAIN       "Terrain"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MT_COL3             "Attempts"
+    IDS_MT_HELP             "Left click to select a team. Right click to edit a team."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_3_BOX_TEAMS         "Barracks"
+    IDS_3_BOX_TEAM_SELECT   "Selected team"
+    IDS_3_BOX_MISSION       "Mission"
+    IDS_3_BOX_DETAILS       "Mission Details"
+    IDS_3_STARTMISSION      "Start Mission"
+    IDS_3_CANCEL            "Exit"
+    IDS_3_NOTEAM            "No Team Selected"
+    IDS_3_NO_MISSION        "No Mission Selected."
+    IDS_3_H_STARTMISSION    "Start the mission."
+    IDS_3_H_CANCEL          "Return to previous menu."
+    IDS_3_H_NEXT            "Select the next mission."
+    IDS_3_H_PREVIOUS        "Select the previous mission."
+    IDS_3_H_SELECTED        "Which team will attempt the mission."
+    IDS_3_H_DETAILS         "Mission overview."
+    IDS_3_H_MISSION         "The currently selected mission."
+    IDS_3_NO_DETAILS        " "
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TT_HELP             "Left click to select the team to train. Right click to edit the team."
+    IDS_TT_TEAMLIST_TRAINING_1 "Super Sheep Racing Best Time"
+    IDS_TT_TEAMLIST_TRAINING_2 "Rifle Range Best Time"
+    IDS_TT_TEAMLIST_TRAINING_3 "Crazy Crates Best Time"
+    IDS_TT_TEAMLIST_TRAINING_4 "Artillery Range Best Time"
+    IDS_TT_TEAMLIST_TRAINING_5 "Euthanasia Best Time"
+    IDS_QT_HELP             "Click on your team to remove it."
+    IDS_TMLIR_HELP          "The teams playing in the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WORMNAME_5          "Artillery"
+    IDS_WORMNAME_11         "Assassin"
+    IDS_WORMNAME_6          "Captain"
+    IDS_WORMNAME_4          "Field Soldier"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WORMNAME_10         "Field Marshall"
+    IDS_WORMNAME_9          "General"
+    IDS_WORMNAME_3          "Grenadier"
+    IDS_WORMNAME_1          "Guard"
+    IDS_WORMNAME_8          "Major"
+    IDS_WORMNAME_7          "Secret Agent"
+    IDS_WORMNAME_0          "Sentry"
+    IDS_WORMNAME_2          "Sniper"
+    IDS_TEAMNAME0           "Cannon Fodder"
+    IDS_TEAMNAME1           "Commandos"
+    IDS_TEAMNAME2           "Elite"
+    IDS_TEAMNAME3           "Enemy"
+    IDS_TEAMNAME4           "Guardsmen"
+    IDS_TEAMNAME5           "Gunners"
+    IDS_TEAMNAME6           "Officers"
+    IDS_TEAMNAME7           "Patrol"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAMNAME8           "Platoon"
+    IDS_TEAMNAME9           "Resistance"
+    IDS_TEAMNAME10          "Special Forces"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_30_QUICKCPU         "Quickstart"
+    IDS_30_MISSION          "Missions"
+    IDS_30_TARGET           "Target practice"
+    IDS_30_BACK             "Exit"
+    IDS_30_H_QUICKCPU       "Play a quick game against the computer."
+    IDS_30_H_MISSION        "Attempt a mission."
+    IDS_30_H_TARGET         "Training disciplines."
+    IDS_30_H_BACK           "Return to the main menu."
+    IDS_2_COMBO_ENTRIES_1   "Super Sheep Racing"
+    IDS_2_COMBO_ENTRIES_2   "Rifle Range"
+    IDS_2_COMBO_ENTRIES_3   "Crazy Crates"
+    IDS_2_COMBO_ENTRIES_4   "Artillery Range"
+    IDS_2_COMBO_ENTRIES_5   "Euthanasia"
+    IDS_2_TRAINING_RECORD   "The current record in this event is %d:%02d:%02d seconds, held by %s."
+    IDS_7_H_PLAY_SOUNDBANK  "Test this soundbank."
+    IDS_2_TRAINING_AIM_BRONZE 
+                            "The time required for a BRONZE medal is %d:%02d:%02d seconds... good luck!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_OPENLEVELTEXT       "These thumbnails generate island terrains."
+    IDC_CAVERNLEVELTEXT     "These thumbnails generate cavern terrains."
+    IDC_HELPPROMPT          "Help text appears here."
+    IDC_OPENLEVELTEXTSTR    "ISLAND TEMPLATES"
+    IDC_CAVERNLEVELTEXTSTR  "CAVERN TEMPLATES"
+    IDS_PLEASEWAIT          "Please wait... working..."
+    IDS_RESAMPLINGIMAGE     "Resizing image, please wait"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_UNDO                "Undo the last change to your custom level."
+    IDC_LEVELNAME           "Select a terrain to load, or type a terrain code."
+    IDC_SAVE                "Save this terrain."
+    IDC_DELETE              "Delete this terrain."
+    IDC_BRIDGES             "Left click to increase the number of bridges on the terrain. Right click to decrease."
+    IDC_OBJECTS             "Left click to increase the number of objects on the terrain. Right click to decrease."
+    IDC_OPEN1               "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_OPEN2               "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_OPEN3               "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_OPEN4               "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_CAVERN1             "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_CAVERN2             "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_CAVERN3             "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_CAVERN4             "Left click to generate a new terrain; Right click to edit it;\nShift+Click to backtrack."
+    IDC_WATERLEVEL          "Click or drag to raise and lower the water level."
+    IDC_DRAWING             "Left mouse button paints; right mouse button erases.\nAlt=fine tune, Ctrl=constrain, Shift+click=draw line"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_SOIL                "Select the soil and background for your custom level.\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_INVERT              "Click to invert the landscape."
+    IDC_BORDERS             "Click to turn the indestructible border on or off.\nRight click to fill the top cavern border."
+    IDC_TUNNELS             "Click to draw a tunnel system in the terrain."
+    IDC_HOLES               "Click to draw holes in the terrain."
+    IDC_IMPORT              "Click to import a custom terrain."
+    IDC_EDITMODE            "Click to preview this terrain.\nRight Click to convert to a colour map."
+    IDC_BRUSHSIZE           "Left click to increase brush size. Right click to decrease it."
+    IDC_EDITMODE2           "Click to return to edit mode.\nRight Click to convert to a colour map."
+    IDC_CLEAR               "Left click to clear the terrain. Right click to solid fill."
+    IDC_FILL                "Left click to fill a solid area. Right click to clear it."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_GENERATE            "Click to generate a level based on the text entered."
+    PC_IDS_CANTFINDSERVERLIST 
+                            "Unable to find the server-list; trying the default server."
+    PC_IDS_AWAYINGAME       "Away in a game"
+    PC_IDS_NOTINCHANNEL     "Not in a channel"
+    PC_IDS_INCHANNEL        "In channel:"
+    PC_IDS_SERVERERROR      "Server error."
+    PC_IDS_UNKNOWNSERVERERROR "An unknown error has occurred on the server."
+    PC_IDS_GAMEGUIDERROR    "Unable to create a GUID for game identification."
+    PC_IDS_SESSIONGUIDERROR "Unable to create a GUID for session identification."
+    PC_IDS_ERROR            "Error"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_UNAWAY           "The away message has been removed."
+    PC_IDS_USERAWAY         "is away ** "
+    PC_IDS_UNKNOWNCOMMAND   "You have entered an unknown command; please type /help for a list of valid commands."
+    PC_IDS_COMMANDLIST      "A list of available commands.\n\n/msg <nickname> messagetext   ( Allows you to send a message to a specific channel member )\n/away messagetext   ( Send this message text to anyone sending you a message )\n/away   ( Clears the away message )\n/me actiontext   ( Sends a message to show you have performed an action )\n/ignore <nickname>   ( Ignores user, or clears ignores if nickname omitted )\n/time   ( Display the time and date both locally and GMT ) \n\n\n"
+    PC_IDS_CHAT             "Chat"
+    PC_IDS_DATA             "Data"
+    PC_IDS_CONNECTINGTOSERVER "Connecting to server"
+    PC_IDS_ATTEMPTINGCONNECTION "Attempting connection"
+    PC_IDS_LOC_DONE         "Done"
+    PC_IDS_HELP_DONE        "Return to the previous menu."
+    PC_IDS_LOC_PINGSTATICGROUP "Auto ping"
+    PC_IDS_LOC_AUTOUPDATESTATICGROUP "Auto update"
+    PC_IDS_LOC_FIREWALLSTATICGROUP "Firewall support"
+    PC_IDS_LOC_USEPROXY     "Enable firewall support"
+    PC_IDS_HELP_USEPROXY    "Set if you have a firewall, allowing use of a proxy server."
+    PC_IDS_LOC_PROXYSTATIC  "Proxy address"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_2_TRAINING_AIM_SILVER 
+                            "To achieve a SILVER medal, you need to achieve a time of %d:%02d:%02d seconds or more!"
+    IDS_2_TRAIN_DETAILS_1   "Launch the Super-Sheep and fly around the landscape for as long as possible. \n\nCollecting items will increase the time you have available. \n\nA special award is given should you qualify for a GOLD medal in this event!"
+    IDS_2_TRAIN_DETAILS_2   "Shoot the targets to add valuable seconds to the timer.\n\nIf the timer reaches zero, the practice is over."
+    IDS_2_TRAIN_DETAILS_3   "Use your rope to maneouvre around the level; each crate you collect adds valuable seconds to the timer.\n\nThe event ends when the timer reaches zero."
+    IDS_2_TRAIN_DETAILS_4   "From a fixed location, use your artillery to explode the targets. \n\nGet extra time for each target you hit; training ends when the time runs out."
+    IDS_2_TRAIN_DETAILS_5   "For this event, you have a selection of weapons; use them to take out the old women as quickly as possible! \n\nSee how long you can last!"
+    IDS_2_TRAINING_AIM_GOLD "To recieve a GOLD medal, you need to achieve a time of %d:%02d:%02d seconds. Go to it!"
+    IDS_2_TRAINING_BRONZE   "Well done. Your time of %d:%02d:%02d qualifies you for a BRONZE medal award in this event. Keep practicing to improve your skills."
+    IDS_2_TRAINING_SILVER   "Congratulations, your excellent time of %d:%02d:%02d means that you have attained a SILVER medal in this discipline. A little more practice and you will have mastered this event."
+    IDS_2_TRAINING_GOLD     "Fantastic! The superb time of %d:%02d:%02d means the highest accolade is yours, a GOLD medal in this event! We salute you! But remember to keep practising to improve your time!"
+    IDS_2_H_COMBO_TRAINING  "Select which training discipline you wish to practice."
+    IDS_2_H_TRAINING_DETAILS "The training discipline you have selected."
+    IDS_2_BOX_DETAILS       "Training Details"
+    IDS_2_STARTTRAINING     "Begin Training"
+    IDS_2_NOTEAMSELECTED    "No Team Selected."
+    IDS_2_H_STARTTRAINING   "Commence training the current discipline."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_2_BACK              "Exit"
+    IDS_2_H_BACK            "Return to the previous menu."
+    IDS_2_BOX_TEAM_SELECTED "Select Team"
+    IDS_2_TXT_TEAMRECORD    "Team record :"
+    IDS_2_H_TEAM_SELECTED   "The currently selected team."
+    IDS_2_H_TEAMRECORD      "The current record for this team in this discipline."
+    IDS_2_BOX_TEAMS         "Barracks"
+    IDS_2_NEWTEAM           "Create team"
+    IDS_2_H_NEWTEAM         "Create a new team."
+    IDS_31_BOX_TERRAIN      "Terrain"
+    IDS_31_BOX_DETAILS      "Deathmatch details"
+    IDS_31_H_QUICKGAME_DETAILS "Displays your rank."
+    IDS_31_BOX_PLAYERS      "Teams"
+    IDS_31_BOX_TEAMS        "Barracks"
+    IDS_31_H_NEWTEAM        "Click to create a new team."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_GAMEHOSTERROR    "An error occured trying to host a game."
+    PC_IDS_GAMEHOSTTIMEOUT  "A timeout error occurred whilst trying to host a game."
+    PC_IDS_GAMEJOINTIMEOUT  "A timeout error occurred whilst trying to join a game."
+    PC_IDS_LANPLAYGROUP     "Local area network games"
+    PC_IDS_LOCALNETWORK     "Local area network"
+    PC_IDS_PLAYERINFOGROUP  "Player Information"
+    PC_IDS_PLAYERNAME       "Players"
+    PC_IDS_YOURIPADDRESS    "Your I.P. address"
+    PC_IDS_SERVERGROUP      "Server based network play"
+    PC_IDS_CONNECTTOSERVER  "Connect to Wormnet"
+    PC_IDS_SERVEROPTIONS    "Server connection options"
+    PC_IDS_LOCALNETBUTTONHELP "Click to play via a local area network."
+    PC_IDS_PROTOCOLBUTTONHELP 
+                            "Toggle between IPX/SPX and TCP/IP as the selected protocol."
+    PC_IDS_PLAYERNAMEEDITHELP "Enter your playername (Nickname) here."
+    PC_IDS_IPADDRESSEDITHELP 
+                            "Your IP address (no changes are usually required)"
+    PC_IDS_SERVERCONNECTBUTTONHELP "Connect to WORMNET for Internet play."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_SERVEROPTIONSBUTTONHELP "Click to edit your server options."
+    PC_IDS_CANCEL           "Exit"
+    PC_IDS_NETLOGINTITLE    "Please enter your login details"
+    PC_IDS_USERNAME         "Username"
+    PC_IDS_PASSWORD         "Password"
+    PC_IDS_LOGIN            "Login"
+    PC_IDS_GAMENAME         "Game"
+    PC_IDS_LANGAMELISTHELP  "Shows a list of available games; double click on a name to join it."
+    PC_IDS_TEXTLISTHELP     "Where any chat text is displayed."
+    PC_IDS_SENDBUTTON       "Send"
+    PC_IDS_SENDBUTTONHELP   "Submit the current message."
+    PC_IDS_LANPLAYERLISTHELP "List of players available to play."
+    PC_IDS_REFRESHLISTS     "Refresh lists"
+    PC_IDS_REFRESHLISTSHELP "Refreshes the game and player lists."
+    PC_IDS_GAMEHOSTINGGROUP "Game hosting"
+    PC_IDS_GAMENAMEEDITHELP "A name to identify your game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_PASSWORDREQUIREDHELP "Create a password secure game."
+    PC_IDS_PASSWORDEDITHELP "You can password protect a game."
+    PC_IDS_HOSTGAME         "Host"
+    PC_IDS_HOSTGAMEBUTTONHELP "Host a game by selecting this button."
+    PC_IDS_EDITHELP         "Type your message and press RETURN to submit."
+    PC_IDS_FIREWALLSUPPORTGROUP "Firewall support"
+    PC_IDS_PROXYADDRESS     "Proxy address"
+    PC_IDS_PROXYPORT        "Proxy port"
+    PC_IDS_PROXYADDRESSEDITHELP 
+                            "The address of your firewall. (Ignore if you have no firewall.)"
+    PC_IDS_PROXYPORTEDITHELP 
+                            "The port number that the firewall is using, if firewall support is enabled."
+    PC_IDS_TESTNETWORK      "Test/diagnose network"
+    PC_IDS_SAVETEST         "Save test"
+    PC_IDS_AUTOUPDATEGROUP  "Auto update"
+    PC_IDS_PROMPTBEFOREUPDATE "Prompt before updating client files"
+    PC_IDS_AUTOUPDATESERVER "Automatically update server list upon connection"
+    PC_IDS_AUTOPING         "Auto ping"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_RESETDEFAULT     "Reset to default"
+    PC_IDS_AUTOUPDATECLIENTHELP 
+                            "Automatically update all essential client files."
+    PC_IDS_AUTOUPDATESERVERLISTHELP 
+                            "Automatically update the server list when a server connection is made."
+    PC_IDS_AUTOPINGCHECKHELP 
+                            "Click to automatically ping all members in the same channel."
+    PC_IDS_TITLE            "Title"
+    PC_IDS_FORNAME          "Forname"
+    PC_IDS_SURNAME          "Surname"
+    PC_IDS_ADDRESS          "Address"
+    PC_IDS_POSTCODE         "Post/Zip code"
+    PC_IDS_TELEPHONE        "Telephone"
+    PC_IDS_SEX              "Gender"
+    PC_IDS_AGE              "Age"
+    PC_IDS_EMAILADDRESS     "Email address"
+    PC_IDS_GAMEUSERNAME     "Game username"
+    PC_IDS_GAMEPASSWORD     "Game password"
+    PC_IDS_TITLEHELP        "Enter your title (Mr,Mrs,Ms etc)."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_FORENAMEHELP     "Enter your first name."
+    PC_IDS_SURNAMEHELP      "Enter your surname."
+    PC_IDS_ADDRESSHELP      "Enter your postal address. (Optional)"
+    PC_IDS_POSTCODEHELP     "Enter your postal/zip code. (Optional)"
+    PC_IDS_TELEPHONEHELP    "Enter your telephone number. (Optional)"
+    PC_IDS_SEXHELP          "Enter your gender (M/F)"
+    PC_IDS_AGEHELP          "Please enter your age."
+    PC_IDS_EMAILADDRESSHELP "Please enter your email address. (Optional)"
+    PC_IDS_GAMEUSERNAMEHELP "Please enter a username whenever you logon."
+    PC_IDS_GAMEPASSWORDHELP "Please enter a password used whenever you logon."
+    PC_IDS_OK               "OK"
+    PC_IDS_DONE             "OK"
+    PC_IDS_USERDETAILSTITLE "Wormnet could not find your account. Please enter your personal details..."
+    PC_IDS_LEAVECHANNEL     "Leave channel"
+    PC_IDS_SHOWRANKINGS     "Display rankings"
+    PC_IDS_REFRESHCHANNELLIST "Refresh channel list"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_REFRESHUSERLIST  "Refresh"
+    PC_IDS_REFRESHLIST      "Refresh list"
+    PC_IDS_REFRESHLISTHELP  "Refresh the list of currently available games."
+    PC_IDS_REFRESHUSERLISTHELP 
+                            "Refresh the list of users currently on Wormnet."
+    PC_IDS_REFRESHCHANNELLISTHELP "Refresh the channels list."
+    PC_IDS_LEAVECHANNELHELP "Leave the current channel."
+    PC_IDS_SHOWRANKINGSHELP "Show the rankings for the current channel."
+    PC_IDS_SHOWRANKINGSCLOSEHELP "Return to the channel."
+    PC_IDS_RETURN           "Return to the channel"
+    PC_IDS_CHANNELISTHELP   "Double click a channel name to enter it."
+    PC_IDS_USERLISTHELP     "Double click on a player's name to enter the channel they are in."
+    PC_IDS_MEMBERLISTHELP   "A list of the current members of this channel."
+    PC_IDS_GAMELISTHELP     "Double click on a highlight to jump to that location."
+    PC_IDS_JOINSESSIONTIMEOUT "A timeout error occurred joining the game."
+    PC_IDS_HOSTSESSIONTIMEOUT "A timeout error occurred hosting the game."
+    PC_IDS_GAMELIST         "Game list"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_TOPBORDERTOOLTIP    "This terrain will behave like a cavern."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAMRANK_0          "Absolute beginner"
+    IDS_TEAMRANK_1          "Beginner"
+    IDS_TEAMRANK_2          "Inexperienced"
+    IDS_TEAMRANK_3          "Rookie"
+    IDS_TEAMRANK_4          "Novice"
+    IDS_TEAMRANK_5          "Below average"
+    IDS_TEAMRANK_6          "Average"
+    IDS_TEAMRANK_7          "Reasonable"
+    IDS_TEAMRANK_8          "Above average"
+    IDS_TEAMRANK_9          "Fairly competent"
+    IDS_TEAMRANK_10         "Competent"
+    IDS_TEAMRANK_11         "Highly competent"
+    IDS_TEAMRANK_12         "Veteran"
+    IDS_TEAMRANK_13         "Distinguished"
+    IDS_TEAMRANK_14         "Highly distinguished"
+    IDS_TEAMRANK_15         "General"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAMRANK_16         "Major"
+    IDS_TEAMRANK_17         "Field Marshall"
+    IDS_TEAMRANK_18         "Hero"
+    IDS_TEAMRANK_19         "Superstar"
+    IDS_TEAMRANK_20         "Elite"
+    IDS_QUICKDETAILS_1      "Take on the CPU in increasingly tougher Deathmatch battles!\n"
+    IDS_QUICKDETAILS_2      "This team has played %d Deathmatch games, winning %d and losing %d.\nThe team has slaughtered %d Worms and %d of this Worms teams have been put to the sword.\n"
+    IDS_QUICKDETAILS_3      "The current Deathmatch ranking for this team is %s.\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_31_START            "Start"
+    IDS_31_H_START          "Start the game."
+    IDS_31_BACK             "Exit"
+    IDS_31_H_BACK           "Return to the previous menu."
+    PC_IDS_HELP_SERVERNET   "Connect to WORMNET via the Internet."
+    PC_IDS_LOC_NETOPTIONS   "Configuration"
+    PC_IDS_HELP_NETOPTIONS  "Edit the server connection options."
+    PC_IDS_LOC_PLAYERNAME   "Player name (Nickname)"
+    PC_IDS_LOC_YOURIPSTATIC "Your I.P. address"
+    PC_IDS_LOC_LANSTATICGROUP "Local area network game"
+    PC_IDS_LOC_PLAYERINFOGROUP "Player information"
+    PC_IDS_LOC_SERVERSTATICGROUP "WORMNET"
+    PC_IDS_LOC_LOGIN        "Login"
+    PC_IDS_HELP_LOGIN       "Connect to the server."
+    PC_IDS_HELP_USERNAME    "Enter your username."
+    PC_IDS_LOC_STUSERNAME   "Username"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_LOC_PASSWORD     "Password"
+    PC_IDS_HELP_PASSWORD    "Enter a password."
+    PC_IDS_LOC_STPASSWORD   "Password"
+    PC_IDS_HELP_STPASSWORD  "Enter a password."
+    PC_IDS_LOC_LANLOBBYCAPTION "Local network lobby"
+    PC_IDS_HELP_LANMESSAGEHISTORY 
+                            "Chat messages from other players in the lobby."
+    PC_IDS_HELP_LANPLAYERLIST "A list of the players in the lobby."
+    PC_IDS_HELP_LANTEXTENTRY 
+                            "Type messages here; press RETURN to submit them."
+    PC_IDS_HELP_LANGAMELIST "A list of games available."
+    PC_IDS_LOC_LANSEND      "Send"
+    PC_IDS_HELP_LANSEND     "Click to submit the current message."
+    PC_IDS_LOC_HOSTGAME     "Host"
+    PC_IDS_LOC_HOSTER       "Hoster"
+    PC_IDS_HELP_HOSTGAME    "Click to host a game."
+    PC_IDS_HELP_GAMENAMEEDIT "Enter the game name."
+    PC_IDS_LOC_PASSWORDCHECK "Password required"
+    PC_IDS_HELP_PASSWORDCHECK "Click to password protect your game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_LOC_GAMENAMESTATIC "Game name"
+    PC_IDS_LOC_PASSWORDSTATIC "Password"
+    PC_IDS_LOC_REFRESH      "Refresh game and player lists"
+    PC_IDS_HELP_REFRESH     "Refresh the game and player lists."
+    PC_IDS_LOC_GAMEHOSTGROUP "Game hosting"
+    PC_IDS_LOC_CREATEGAMEDLGCAPTION "Create a game"
+    PC_IDS_HELP_CREATEGAMEDLGCAPTION "Create and host a game."
+    PC_IDS_HELP_GAMENAMEHELP "The name of your game."
+    PC_IDS_LOC_REQUIRESPASSWORD "Password-protected"
+    PC_IDS_HELP_REQUIRESPASSWORDHELP "Password-protect a game."
+    PC_IDS_HELP_GAMEPASSWORD "Enter a password for your game."
+    PC_IDS_HELP_MAXPLAYERSHELP 
+                            "The maximum number of teams allowed in your game."
+    PC_IDS_HELP_SCENARIOCOMBO "Select an option scheme for your game."
+    PC_IDS_HELP_IDOK        "Accept the information and proceed."
+    PC_IDS_LOC_IDCANCEL     "Exit"
+    PC_IDS_HELP_IDCANCELHELP "Cancel the current operation."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_LOC_NEWGAMENAME  "Name"
+    PC_IDS_LOC_NEWMAXPLAYERS "Max players"
+    PC_IDS_LOC_NEWSCENARIO  "Scenario"
+    PC_IDS_LOC_CONNECTSTATECAPTION "Connection status"
+    PC_IDS_HELP_CONNECTSTATECAPTIONHELP "Shows the current connection status."
+    PC_IDS_LOC_CONNECTSTATE "Connection status"
+    PC_IDS_HELP_CONNECTSTATEHELP "Shows the current status of the connection."
+    PC_IDS_LOC_IDCANCEL2    "Cancel"
+    PC_IDS_HELP_IDCANCELHELP2 "Cancels the current operation."
+    PC_IDS_HELP_TITLE       "Your title (Mr,Mrs etc)."
+    PC_IDS_HELP_FORENAME    "Your firstname."
+    PC_IDS_HELP_SURNAME     "Your surname."
+    PC_IDS_HELP_ADDRESS     "Your postal address. (Optional)"
+    PC_IDS_HELP_POSTCODE    "Your postal/zip code. (Optional)"
+    PC_IDS_HELP_TELEPHONE   "Your telephone number. (Optional)"
+    PC_IDS_HELP_AGE         "Enter your age. (Optional)"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_LOC_STATIC       "Personal details"
+    PC_IDS_LOC_TITLESTATIC  "Title"
+    PC_IDS_LOC_STFORENAME   "Firstname"
+    PC_IDS_LOC_STSURNAME    "Surname"
+    PC_IDS_LOC_STADDRESS    "Address"
+    PC_IDS_LOC_STTELEPHONE  "Telephone"
+    PC_IDS_LOC_STSEX        "Gender"
+    PC_IDS_LOC_STAGE        "Age"
+    PC_IDS_LOC_STPOSTCODE   "Post/Zip code"
+    PC_IDS_LOC_PASSWORD2    "Password"
+    PC_IDS_LOC_GAMEUSERNAMESTATIC "Username"
+    PC_IDS_LOC_GAMEPASSWORDSTATIC "Password"
+    PC_IDS_HELP_SEXEDIT     "Your gender (M/F)."
+    PC_IDS_HELP_EMAILEDIT   "Your email address."
+    PC_IDS_LOC_EMAILST      "Email Address"
+    IDS_31_H_WORMS          "The number of Worms in this team."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_MESSAGEHISTORY   "Message history"
+    PC_IDS_TEXTENTRY        "Text entry"
+    PC_IDS_LEAVEROOMBUTTON  "Leave channel"
+    PC_IDS_SENDMESSAGE      "Send message"
+    PC_IDS_CHANNELLISTREFRESH "Refresh channel list"
+    PC_IDS_CHANNELLIST      "Channel list"
+    PC_IDS_USERLISTREFRESH  "Refresh user list"
+    PC_IDS_USERLIST         "User list"
+    PC_IDS_GAMELISTREFRESH  "Refresh game list"
+    PC_IDS_MEMBERLIST       "Member list"
+    PC_IDS_LOC_LANLOBBY     "Local network lobby"
+    PC_IDS_LOC_NETWORKDLG   "Network options"
+    PC_IDS_HELP_AUTOPINGCHECK "Ping channel members automatically."
+    PC_IDS_HELP_AUTOUPDATESERVERLISTCHECK 
+                            "Update server list upon connection."
+    PC_IDS_LOC_SERVERNETOPTIONS "Network configuration"
+    PC_IDS_LOC_AUTOPINGCHECK "Ping channel members automatically"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_LOC_AUTOUPDATESERVERLISTCHECK 
+                            "Automatically update server list upon connect"
+    IDS_TEAM_COMP_1_NAME    "ROYALTY"
+    IDS_TEAM_COMP_2_NAME    "TEAM17"
+    IDS_TEAM_COMP_3_NAME    "NASTY CREW"
+    IDS_TEAM_COMP_4_NAME    "DODGY 8"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAM_COMP_5_NAME    "VENOM"
+    IDS_TEAM_COMP_1_WORM_1  "The Queen"
+    IDS_TEAM_COMP_1_WORM_2  "Prince Charles"
+    IDS_TEAM_COMP_1_WORM_3  "Prince Andrew"
+    IDS_TEAM_COMP_1_WORM_4  "Prince Of Persia"
+    IDS_TEAM_COMP_1_WORM_5  "Queen Mum"
+    IDS_TEAM_COMP_1_WORM_6  "Henry 8th"
+    IDS_TEAM_COMP_1_WORM_7  "King Canute"
+    IDS_TEAM_COMP_1_WORM_8  "Sal"
+    IDS_TEAM_COMP_2_WORM_1  "Lambo"
+    IDS_TEAM_COMP_2_WORM_2  "Zelda"
+    IDS_TEAM_COMP_2_WORM_3  "Boggy B"
+    IDS_TEAM_COMP_2_WORM_4  "Spadge"
+    IDS_TEAM_COMP_2_WORM_5  "Satan"
+    IDS_TEAM_COMP_2_WORM_6  "Rob"
+    IDS_TEAM_COMP_2_WORM_7  "PC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAM_COMP_2_WORM_8  "Randalism"
+    IDS_TEAM_COMP_3_WORM_1  "Vinny Jones"
+    IDS_TEAM_COMP_3_WORM_2  "Cilla Black"
+    IDS_TEAM_COMP_3_WORM_3  "Old Spice"
+    IDS_TEAM_COMP_3_WORM_4  "George Graham"
+    IDS_TEAM_COMP_3_WORM_5  "Bob Monkhouse"
+    IDS_TEAM_COMP_3_WORM_6  "Alex Ferguson"
+    IDS_TEAM_COMP_3_WORM_7  "Vera Lynn"
+    IDS_TEAM_COMP_3_WORM_8  "Spotty Spice"
+    IDS_TEAM_COMP_4_WORM_1  "El Presidente"
+    IDS_TEAM_COMP_4_WORM_2  "The Intern"
+    IDS_TEAM_COMP_4_WORM_3  "Tony Blair"
+    IDS_TEAM_COMP_4_WORM_4  "Maggie T"
+    IDS_TEAM_COMP_4_WORM_5  "Dodgy Bloke"
+    IDS_TEAM_COMP_4_WORM_6  "Prince Charles"
+    IDS_TEAM_COMP_4_WORM_7  "Hector Flushwit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAM_COMP_4_WORM_8  "Stub"
+    IDS_TEAM_COMP_5_WORM_1  "Noggin"
+    IDS_TEAM_COMP_5_WORM_2  "Tebbitbreath"
+    IDS_TEAM_COMP_5_WORM_3  "Foul Stench"
+    IDS_TEAM_COMP_5_WORM_4  "Y Front"
+    IDS_TEAM_COMP_5_WORM_5  "Peuce"
+    IDS_TEAM_COMP_5_WORM_6  "Mucus"
+    IDS_TEAM_COMP_5_WORM_7  "Pustulous"
+    IDS_TEAM_COMP_5_WORM_8  "Spanner"
+    PC_IDS_LOC_IDOK         "OK"
+    PC_IDS_LOC_USERDETAILS  "Please enter your personal details"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDC_MAPEDEXIT           "Exit from the terrain editor."
+    PC_IDS_SEXINVALIDERROR  "You entered an invalid character in the Sex field; please enter either M (male) or F (female)."
+    PC_IDS_AGEINVALIDERROR  "You entered an invalid age; age range is from 1-100."
+    PC_IDS_FIRSTNAMEREQUIREDFIELD 
+                            "The firstname field is required; please enter a firstname and try again."
+    PC_IDS_SURNAMEREQUIREDFIELD 
+                            "The surname field is required; please enter a surname and try again."
+    PC_IDS_ADDRESSREQUIREDFIELD 
+                            "The address field is required; please enter your address and try again."
+    PC_IDS_EMAILREQUIREDFIELD 
+                            "The email field is required; please enter an email address and try again."
+    PC_IDS_POSTCODEREQUIREDFIELD 
+                            "The postcode field is required; please enter a postcode and try again."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_TITLEREQUIREDFIELD 
+                            "The title field is required; please enter a title (Mr, Mrs,Ms) and try again."
+    PC_IDS_PASSWORDREQUIREDFIELD 
+                            "The password field is required; please enter a password and try again."
+    PC_IDS_USERNAMEREQUIREDFIELD 
+                            "The username field is required; please enter a username and try again."
+    PC_IDS_PASSWORDCONFIRM  "Retype password for confirmation"
+    PC_IDS_PASSWORDCONFIRMREQUIRED 
+                            "The password confirmation field is required; please enter your password and try again."
+    PC_IDS_BADCHARACTERS    "You have entered some illegal characters; please try again."
+    PC_IDS_CONSTATECONNECTING "Connecting to server, please wait..."
+    PC_IDS_CONSTATECONNECTED "Connected to server."
+    PC_IDS_CONSTATECLOSING  "Closing server connection, please wait..."
+    PC_IDS_CONSTATECLOSED   "Connection closed."
+    PC_IDS_CONSTATECONLOST  "Connection to server has been lost."
+    PC_IDS_CONSTATECHATLOST "The connection to the chat server has been lost."
+    PC_IDS_CONSTATEDATALOST "The connection to the data server has been lost."
+    PC_IDS_CONSTATERECONNECT "Reconnecting to the server, please wait..."
+    PC_IDS_CONSTATECHATSERVER "Chat server"
+    PC_IDS_CONSTATEDATASERVER "Data server"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_CONSTATECONFAILED "Connection failed."
+    PC_IDS_CONSTATEFAILEDRETRY 
+                            "Connection failed; please review the configuration and try again."
+    PC_IDS_AUTHENTICATE     "Please enter your authentication details"
+    PC_IDS_CONSTATEAUTHFAILEDRETRY 
+                            "You failed to authenticate; please review your configuration and try again."
+    PC_IDS_CONSTATEAUTHFAILED "Authentication failed."
+    PC_IDS_CONSTATESERVERDEAD 
+                            "Unable to connect to the specified server; please select another and try again."
+    PC_IDS_BADPASSWORDCONFIRM 
+                            "The password supplied was different; please re-enter."
+    PC_IDS_ACCOUNTCREATECANCEL 
+                            "You pressed cancel; this will not create a new account. Are you sure?"
+    PC_IDS_UNABLETOOPENDIAGNOSEFILE 
+                            "Unable to open the network diagnostics file; continuing without writing to file."
+    PC_IDS_LOC_EXIT         "Exit"
+    IDS_LOADINGIMAGE        "Loading image, please wait..."
+    IDS_REDUCINGCOLOURS     "Colour reduction process, please wait..."
+    IDS_GENERATE            "Generate"
+    IDS_LOSECOLOUR          "Switching to edit mode will lose all colour information. Are you sure you want to do this?"
+    IDS_STRETCHORCENTRE     "Your image is smaller than the terrain area. Would you like to stretch or centre the image?"
+    IDS_STRETCH             "Stretch"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_8_RESULTS           "Results"
+    IDS_8_CONTINUE          "Play next round"
+    IDS_8_H_CONTINUE        "Continue to the next round."
+    IDS_8_H_TXT_RESULTS     "Who won the last round."
+    IDS_30_DEATHMATCH       "Deathmatch"
+    IDS_30_H_DEATHMATCH     "Play a deathmatch game."
+    IDS_2_TRAINING_AWARD    "Your achievements have resulted in the award of a secret option!"
+    IDS_2_TRAINING_FAIL     "Bad luck, your time of %d:%02d:%02d was not enough to win an award. Try again, practice makes perfect!"
+    IDS_2_TRAINING_NEW_RECORD 
+                            "Excellent, your time of %d:%02d:%02d is a new record in this event!"
+    IDS_RE_FLAG_UK          "United Kingdom"
+    IDS_RE_FLAG_Unknown     "Unknown"
+    IDS_RE_FLAG_Argentina   "Argentina"
+    IDS_RE_FLAG_Australia   "Australia"
+    IDS_RE_FLAG_Austria     "Austria"
+    IDS_RE_FLAG_Belgium     "Belgium"
+    IDS_RE_FLAG_Brazil      "Brazil"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_35_BACK             "Exit"
+    IDS_35_H_BACK           "Return to the main menu."
+    IDS_35_BOX_WINNER       "The winner"
+    IDS_35_BOX_RESULTS      "Awards"
+    IDS_35_BOX_DETAILS      "Details"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_35_RESTART          "Play again"
+    IDS_35_H_RESTART        "Play another match with the same teams."
+    IDS_35_H_RESULTS        "These are the awards that have been given."
+    IDS_35_H_DETAILS        "Details of the game."
+    IDS_35_H_WINNER         "The winner of the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_19_TITLE            "Mission Failed"
+    IDS_19_MESSAGE          "You failed the mission. Re-group and try again."
+    IDS_21_TITLE            "All missions completed!"
+    IDS_21_MESSAGE          "Fantastic! You have completed the final mission!\n"
+    IDS_20_AWARD1           "Red blood awarded!"
+    IDS_20_AWARD2           "Aqua sheep awarded!"
+    IDS_20_AWARD3           "Sheep heaven awarded!"
+    IDS_20_AWARD4           "God mode awarded!"
+    IDS_20_AWARD5           "Utilities awarded!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_UT_TITLE            "Utilities"
+    IDS_QCW_TITLE           "Congratulations!"
+    IDS_QCW_MESSAGE         "Congratulations, to the victor the spoils!\n"
+    IDS_QC_RANK             "Your rank is %s.\n"
+    IDS_QCL_TITLE           "Hard Luck"
+    IDS_QCL_MESSAGE         "Bad luck, you were beaten... try again!\n"
+    IDS_QC_MEDAL            "For your exploits, you have been awarded the %s medal."
+    IDS_TEAM_HUMAN          "Player One"
+    IDS_TEAM_HUMAN_WORM_1   "Worm 1"
+    IDS_TEAM_HUMAN_WORM_2   "Worm 2"
+    IDS_TEAM_HUMAN_WORM_3   "Worm 3"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAM_HUMAN_WORM_4   "Worm 4"
+    IDS_MCHLST_HOST         "Left click to remove a player from the game."
+    IDS_MCHLST_JOIN         "These are the players in the game. "
+    IDS_ERROR_MISSION       "The mission data could not be found; please check that the Worms Aramageddon game CD is in your CD Rom drive."
+    IDS_STAT_HEALTH         "%s (%s) wins the Florence Nightingale anniversary hot-water bottle!\n"
+    IDS_STAT_NOAWARDS       "No awards were made.\n"
+    IDS_STAT_TOTALKILLED    "\n\nA total of %d Worm(s) were killed during this game.\n"
+    IDS_STAT_TOTALDAMAGE    "A total of %dpts of damage were lost during this game."
+    IDS_STAT_ACCURATE       "The accuracy award was handed to %s (%s) with a %d%% chance of hitting it's target.\n"
+    IDS_STAT_BESTSHOT       "The best shot award was won by %s (%s) with %d kill(s) and %d pts.\n"
+    IDS_STAT_STRATEGIC      "%s (%s) wins the strategy award.\n"
+    IDS_STAT_ACROBATIC      "Big Billy's circus award handed to %s (%s).\n"
+    IDS_STAT_SURVIVOR       "The longest surviving Worm was %s (%s).\n"
+    IDS_STAT_USELESS        "%s (%s) was the most useless.\n"
+    IDS_STAT_BORING         "The Worm voted most boring was %s (%s).\n"
+    IDS_STAT_LEASTPOPULAR   "%s (%s) was voted least popular.\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_CH_TITLE            "Cheats"
+    IDS_CH_SHEEPHEAVEN      "Box of fluff."
+    IDS_CH_REDBLOOD         "Splat Attack."
+    IDS_CH_GODMODE          "Invincibility."
+    IDS_CH_AQUASHEEP        "Sheep Upgrade"
+    IDS_CH_FREEDOM          "Freedom Mode."
+    IDS_CH_INDESTRUCTABLELAND "Rock Solid!"
+    IDS_CH_GRENADE_UPGRADE  "Pineapple Power."
+    IDS_CH_SHOTGUN_UPGRADE  "12Bore Shotgun."
+    IDS_CH_BANANNA_UPGRADE  "The kindly grocer."
+    IDS_CD_BOW_UPGRADE      "Robin Hood."
+    IDS_CH_H_SHEEPHEAVEN    "Causes all crates to contain our fluffy friends."
+    IDS_CH_H_REDBLOOD       "Makes the Worms bleed when shot."
+    IDS_CH_H_GODMODE        "The Worms are invincible except for drowning in the water."
+    IDS_CH_H_AQUASHEEP      "Upgrades any of your Super Sheep into AQUA SHEEP, which can swim as well as fly."
+    IDS_CH_H_FREEDOM        "Play with an infinite supply of WORM SELECT utilities."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_CH_H_INDESTRUCTABLELAND 
+                            "Enables indestructible land. Note: Be careful which terrain you elect to play on!"
+    IDS_CH_H_GRENADE_UPGRADE "Increases the potential power of grenades."
+    IDS_CH_H_SHOTGUN_UPGRADE "Increases the performance of the shotgun."
+    IDS_CD_H_BANNANA_UPGRADE 
+                            "Upgrades any banana bombs to Super Banana Bombs."
+    IDS_CD_H_BOW_UPGRADE    "Improves performance of the Longbow."
+    IDS_TEAMINFO_INTRO      "%s has achieved the following...\n\n"
+    IDS_TEAMINFO_SUBTITLE_DEATHMATCH "DEATHMATCH GAMES\n"
+    IDS_TEAMINFO_DEATH_1    "Has achieved the rank of %s.\n"
+    IDS_TEAMINFO_DEATH_2    "Has played %d rounds, killing %d enemy Worms and losing %d Worms in the process.\n"
+    IDS_TEAMINFO_DEATH_MEDAL 
+                            "For this performance, the %s medal has been awarded.\n\n"
+    IDS_TEAMINFO_DEATH_NOMEDAL 
+                            "This performance is not worthy of a medal.\n\n"
+    IDS_TEAMINFO_SUBTITLE_TRAINING "TRAINING EVENTS\n"
+    IDS_TEAMINFO_TRAIN_INTRO "The team holds the following records;\n"
+    IDS_TEAMINFO_TRAIN_RECORDS "%s - %d:%02d:%02d seconds.\n"
+    IDS_TEAMINFO_TRAIN_RECORDS_AWARD 
+                            "%s - %d:%02d:%02d seconds  ( %s Award ).\n"
+    IDS_TEAMINFO_SUBTITLE_MISSION "\nMISSION PERFORMANCE\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TEAMINFO_MISSION    "This team has reached mission %d.\n"
+    IDS_TEAMINFO_MISSION_NOAWARD 
+                            "For this, no medal of honour has been awarded.\n\n"
+    IDS_TEAMINFO_MISSION_AWARD "The team has been awarded the %s Medal.\n\n"
+    IDS_TEAMINFO_SUBTITLE_MULTIPLAYER "MULTIPLAYER GAME STATS\n"
+    IDS_TEAMINFO_MULTI_PLAYED "Rounds played %d.\n"
+    IDS_TEAMINFO_MULTI_WON  "Rounds won %d.\n"
+    IDS_TEAMINFO_MULTI_WORMSKILLED "Worms you have killed - %d.\n"
+    IDS_TEAMINFO_MULTI_LOST "Rounds lost %d.\n"
+    IDS_TEAMINFO_MULTI_WORMSLOST "Worms lost in action - %d.\n"
+    IDS_TEAMINFO_MULTI_RANK "Your rank based on this performance is %s.\n\n"
+    IDS_TEAMINFO_SUBTITLE_OVERALL "OVERALL RATING\n"
+    IDS_TEAMINFO_OVER_RANK  "Overall, this teams rank is rated as %s."
+    IDS_CH_SMALLSOLDIERS    "Small Soldiers"
+    IDS_CH_H_SMALLSOLDIERS  "Enjoy a new playing dimension!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_RETRY_1     "Come on, have another go...\n"
+    IDS_MISSION_RETRY_2     "Go on, try again.\n"
+    IDS_MISSION_RETRY_3     "Tough luck - give it another shot.\n"
+    IDS_MISSION_RETRY_4     "Keep your head up, you'll do it this time.\n"
+    IDS_MISSION_RETRY_5     "Prove you can do it!\n"
+    IDS_MISSION_RETRY_6     "Come on soldier!\n"
+    IDS_MISSION_RETRY_7     "Try again, but this time make an effort.\n"
+    IDS_MISSION_RETRY_8     "You again?\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_31_QUICKGAME_DETAILS_1 "Details"
+    IDS_MEDAL_BRONZE        "BRONZE"
+    IDS_MEDAL_SILVER        "SILVER"
+    IDS_MEDAL_GOLD          "GOLD"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_17_H_PLAYERS        "The players in the current game."
+    IDS_17_H_TEAMS          "The teams in the current game."
+    IDS_17_NEXT_ROUND       "Continue..."
+    IDS_17_H_NEXT_ROUND     "Continue the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_17_H_READY          "Confirm that you are ready to continue."
+    IDS_17_READY            "Ready"
+    IDS_17_QUIT             "Quit"
+    IDS_17_H_EXIT           "Quit the current game."
+    IDS_H_17_KICKPLAYER     "Remove a player from the game."
+    IDS_17_H_MESSAGEBOX     "Messages from other players in the game."
+    IDS_17_H_MESSAGEENTRY   "Type messages to the other players here."
+    IDS_17_LEADING          "%s is currently leading."
+    IDS_18_PLAYAGAIN        "Play again"
+    IDS_18_H_PLAYAGAIN      "Have another game with the same players."
+    IDS_18_QUIT             "Exit"
+    IDS_18_H_QUIT           "Exit the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STAT_WORMMATCH      "The Worm of the match award goes to %s (%s) with %d kill(s)."
+    IDS_STATT_ACCURATE      "%s wins the sniping award... (%d%%)\n"
+    IDS_STATT_BORING        "%s were the most boring team.\n"
+    IDS_STATT_STRATEGIC     "Hail to %s, masters of the darkside!\n"
+    IDS_STATT_USELESS       "%s were not very good at all.\n"
+    IDS_STATT_EXCITING      "%s won the entertainment award.\n"
+    IDS_STATT_GREEDY        "The shopping award goes to %s.\n"
+    IDS_STATT_CROWD         "Armageddon crowd pleaser award goes to %s.\n"
+    IDS_STATT_CHATTERBOX    "%s couldn't keep quiet!\n"
+    IDS_STATT_OUTCAST       "%s had nothing to say.\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STAT_LIABILITY      "%s (%s) was a liability.\n"
+    IDS_STAT_DARKSIDE       "The Worm that has turned to the darkside is %s (%s).\n"
+    IDS_STAT_GREEDY         "The Happy Shopper award was collected by %s (%s).\n"
+    IDS_STAT_HIGHFLYER      "NASA greets %s (%s) who flew high for %d.\n"
+    IDS_STAT_HOMERUNS       "Babe Ruth ball-park award goes to %s (%s).\n"
+    IDS_STAT_ANIMALS        "Doctor Dolittle award handed to %s (%s).\n"
+    IDS_STAT_COWARD         "%s (%s) turned a strange yellow colour.\n"
+    IDS_STAT_ENDOFROUND     "\n\nEnd of round %d\n\n\n"
+    IDS_STAT_ROUNDTIME      "Round time : %01d:%02d:%02d\n"
+    IDS_STAT_GAMETIME       "Total game time elapsed: %01d:%02d:%02d\n\n"
+    IDS_STAT_BESTDAMAGEWORM "The most dangerous Worm was : %s (%s)\n"
+    IDS_STAT_WORMOFROUND    "Worm of the round : %s (%s)\n\n"
+    IDS_STAT_BESTKILLS      "Most kills with one shot : %d\n"
+    IDS_STAT_BESTKILLSWORM  "The Worm who made that shot : %s (%s)\n\n"
+    IDS_STAT_BESTDAMAGE     "Most damage with one shot : %d\n"
+    IDS_STAT_TEAMSWINROUND  "%s wins the round.\n\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STAT_REDWINROUND    "The red teams won the round.\n\n"
+    IDS_STAT_BLUEWINROUND   "The blue teams won the round.\n\n"
+    IDS_STAT_GREENWINROUND  "The green teams won the round.\n\n"
+    IDS_STAT_YELLOWWINROUND "The yellow teams won the round.\n\n"
+    IDS_STAT_MAGENTAWINROUND "The magenta teams won the round.\n\n"
+    IDS_STAT_CYANWINROUND   "The cyan teams won the round.\n\n"
+    IDS_STAT_DRAW           "The round was drawn.\n\n"
+    IDS_STAT_TEAMSWINMATCH  "%s wins the match!\n\n"
+    IDS_STAT_REDWINMATCH    "The red teams win the match!\n\n"
+    IDS_STAT_BLUEWINMATCH   "The blue teams win the match!\n\n"
+    IDS_STAT_GREENWINMATCH  "The green teams win the match!\n\n"
+    IDS_STAT_YELLOWWINMATCH "The yellow teams win the match!\n\n"
+    IDS_STAT_MAGENTAWINMATCH "The magenta teams win the match!\n\n"
+    IDS_STAT_CYANWINMATCH   "The cyan teams win the match!\n\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_16_H_SPECTATE       "Join the game as a spectator."
+    IDS_16_H_SCHEME         "This is the setting selected by the host."
+    IDS_15_H_SCHEME         "Choose an option scheme to play with."
+    IDS_15_H_WEAPON         "Edit the weapon settings."
+    IDS_15_H_OPTION         "Edit the game option settings."
+    IDS_16_H_WEAPON         "View the weapon settings."
+    IDS_16_H_OPTION         "View the game option settings."
+    IDS_15_16_H_TEAMPANEL   "A list of teams on your computer."
+    IDS_15_START            "Start"
+    IDS_15_H_START          "Start the game."
+    IDS_KICKED_TITLE        "GAME TERMINATED"
+    IDS_KICKED_INFO         "The host has removed you from the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_FAILED_TEAM         "Sorry, there is no room for your team!"
+    IDS_LEVEL_HELP_JOIN     "An outline of the current terrain."
+    IDS_LEVEL_HELP_HOST     "Left click to generate a new terrain; Right click to edit one; Shift+Click to backtrack."
+    IDS_EVENTTEXT_0         "Weapons drop!"
+    IDS_EVENTTEXT_1         "Supplies imminent."
+    IDS_EVENTTEXT_2         "Secure the drop zones!"
+    IDS_EVENTTEXT_3         "Delivery successful, over and out."
+    IDS_EVENTTEXT_4         "The iron eagle is on the way, over."
+    IDS_EVENTTEXT_5         "Package delivered, over and out."
+    IDS_EVENTTEXT_6         "That's it we're clean out, you're on your own!"
+    IDS_EVENTTEXT_7         "The crates are your only hope..."
+    IDS_EVENTTEXT_8         "Enemy air transport en route."
+    IDS_EVENTTEXT_9         "Enemy transport closing."
+    IDS_EVENTTEXT_10        "Almost here!"
+    IDS_EVENTTEXT_11        "It's arrived, now get the crate and get the hell out!"
+    IDS_EVENTTEXT_12        "No ammo? Try this for size!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_DIFFICULTY_1 "This task is for rookies."
+    IDS_MISSION_DIFFICULTY_2 "This mission is considered easy."
+    IDS_MISSION_DIFFICULTY_3 
+                            "As far as difficulty goes, this one is ranked moderate."
+    IDS_MISSION_DIFFICULTY_4 "This is a tough mission, for veterans only."
+    IDS_MISSION_DIFFICULTY_5 
+                            "Only the best will complete this mission. Very difficult."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_20_TITLE            "Mission Success"
+    IDS_20_MESSAGE_1        "Congratulations, mission accomplished.\n"
+    IDS_20_MESSAGE_2        "You completed the mission with %d seconds remaining.\n"
+    IDS_20_MESSAGE_2a       "You completed the mission with %d units of energy remaining.\n"
+    IDS_20_MESSAGE_3        "Your performance on this mission has been rewarded with a %s medal!\n"
+    IDS_20_MESSAGE_4        "Congratulations, that's a new record for this mission!\n"
+    IDS_20_MESSAGE_5        "For your endeavours, you have been awarded a secret option!\n"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_13        "Mind your head!"
+    IDS_EVENTTEXT_14        "A first class delivery!"
+    IDS_EVENTTEXT_15        "Weapons drop successful!"
+    IDS_EVENTTEXT_16        "Don't let this equipment fall into the wrong hands..."
+    IDS_EVENTTEXT_17        "Express Delivery!"
+    IDS_EVENTTEXT_18        "Death by mail order."
+    IDS_EVENTTEXT_19        "A little bit of healing goes a long way..."
+    IDS_EVENTTEXT_20        "Something to perk you up, sir."
+    IDS_EVENTTEXT_21        "A blessed relief."
+    IDS_EVENTTEXT_22        "Some timely assistance?\n"
+    IDS_EVENTTEXT_23        "Medical supplies despatched."
+    IDS_EVENTTEXT_24        "Another helping hand."
+    IDS_EVENTTEXT_25        "A little assistance for you."
+    IDS_EVENTTEXT_26        "Every little bit helps."
+    IDS_EVENTTEXT_27        "A little light relief."
+    IDS_EVENTTEXT_28        "Anybody require medical assistance?"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_29        "Is this your blood group?"
+    IDS_EVENTTEXT_30        "Live damn you, Live!"
+    IDS_EVENTTEXT_31        "Medic!"
+    IDS_EVENTTEXT_32        "Nuke en-route."
+    IDS_EVENTTEXT_33        "Time is against us sir, we need to deal with this quickly!"
+    IDS_EVENTTEXT_34        "Smoke'em out if you can..."
+    IDS_EVENTTEXT_35        "Meteor strike imminent, dig in!"
+    IDS_EVENTTEXT_36        "It's on its way, ETA 5 minutes!"
+    IDS_EVENTTEXT_37        "Time is short, get a move on!"
+    IDS_EVENTTEXT_38        "Tactical nuclear missile launch detected."
+    IDS_EVENTTEXT_39        "Warning! Strike imminent!"
+    IDS_EVENTTEXT_40        "A tremor has been detected at the north end of the island!"
+    IDS_EVENTTEXT_41        "Global warming! Watch the water level!"
+    IDS_EVENTTEXT_42        "Try not to get wet!\n"
+    IDS_EVENTTEXT_43        "Hurry, don't let them dig in!"
+    IDS_EVENTTEXT_44        "The General is escaping!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_45        "Radiation will be the death of you!"
+    IDS_EVENTTEXT_46        "Reach for the skies!"
+    IDS_EVENTTEXT_47        "Climb a mountain not a molehill."
+    IDS_EVENTTEXT_48        "Keep away from the edge, earthquake imminent!"
+    IDS_EVENTTEXT_49        "Where's Noah when you need him?"
+    IDS_EVENTTEXT_50        "It's time to build those shelters."
+    IDS_EVENTTEXT_51        "Hope you've got protection."
+    IDS_EVENTTEXT_52        "WARNING! Seismic activity, 7.2 on the Richter scale!"
+    IDS_EVENTTEXT_53        "What happened to the five minute warning?"
+    IDS_EVENTTEXT_54        "Global Extermination!"
+    IDS_EVENTTEXT_55        "WARNING! Destabilising fault-line..."
+    IDS_EVENTTEXT_56        "Caution, tectonic movement!"
+    IDS_EVENTTEXT_57        "The end of the world is nigh!"
+    IDS_EVENTTEXT_58        "Judgement Day."
+    IDS_EVENTTEXT_59        "Enemy forces mobilising!"
+    IDS_EVENTTEXT_60        "Strike imminent!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_61        "Next turn the enemy gets serious."
+    IDS_EVENTTEXT_62        "The enemy is armed to the teeth!"
+    IDS_EVENTTEXT_63        "They've seen you, RUN!"
+    IDS_EVENTTEXT_64        "Enemy weapons embargo has been lifted."
+    IDS_EVENTTEXT_65        "There may be trouble ahead..."
+    IDS_EVENTTEXT_66        "This conflict is escalating."
+    IDS_EVENTTEXT_67        "Ride those thermals, trooper!"
+    IDS_EVENTTEXT_68        "War is hell."
+    IDS_EVENTTEXT_69        "Better dig deep..."
+    IDS_EVENTTEXT_70        "There IS honour in death."
+    IDS_EVENTTEXT_71        "Use the darkside!"
+    IDS_EVENTTEXT_72        "Secure the area!"
+    IDS_EVENTTEXT_73        "Dig down and dig deep."
+    IDS_EVENTTEXT_74        "That fruits just about ripe and for the picking!"
+    IDS_EVENTTEXT_75        "Remember to get the crates to add armoury."
+    IDS_EVENTTEXT_76        "A utility would be useful..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_77        "You could do with some 1st aid."
+    IDS_EVENTTEXT_78        "You'll need to use the rope..."
+    IDS_EVENTTEXT_79        "Think about using some girders as cover."
+    IDS_EVENTTEXT_80        "You need to draw fire."
+    IDS_EVENTTEXT_81        "Remember that you can drop items while on a rope!"
+    IDS_EVENTTEXT_82        "Learn to use the repeat swing of the rope!"
+    IDS_EVENTTEXT_83        "Learn all the jumping techniques."
+    IDS_EVENTTEXT_84        "A back jump gets you up even higher."
+    IDS_EVENTTEXT_85        "Make a note of the enemy units and their skills."
+    IDS_EVENTTEXT_86        "Act quickly, think sooner."
+    IDS_EVENTTEXT_87        "Skunks can reach places that other weapons cannot reach!"
+    IDS_EVENTTEXT_88        "Guns can be strafed up and down when fired."
+    IDS_EVENTTEXT_89        "Crates can sometimes offer a solution to a mission."
+    IDS_EVENTTEXT_90        "Girders can still be placed even whilst swinging on your rope."
+    IDS_EVENTTEXT_91        "Need a leg up? Try an arrow or two..."
+    IDS_EVENTTEXT_92        "A girder could be your last line of defence..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_93        "Animals and old women can go shopping you know..."
+    IDS_EVENTTEXT_94        "Parachutes don't slow your fall but can be controlled..."
+    IDS_EVENTTEXT_95        "A parachute! Ride those thermals, trooper."
+    IDS_EVENTTEXT_96        "Crates and explosions don't mix."
+    IDS_EVENTTEXT_97        "Air strikes are more effective from the correct direction!"
+    IDS_EVENTTEXT_98        "Moles love to dig down and they tend to explode too."
+    IDS_EVENTTEXT_99        "A well-placed stick of dynamite will dislodge any stubborn Worm."
+    IDS_EVENTTEXT_100       "Wind can have an effect on fire, be careful not to stand downwind!"
+    IDS_EVENTTEXT_101       "Measure the wind and send a bazooka curling!"
+    IDS_EVENTTEXT_102       "Extra Worms make great decoys."
+    IDS_EVENTTEXT_103       "Roll out the barrels, they can be deadly too..."
+    IDS_EVENTTEXT_104       "This crate could be vital!"
+    IDS_EVENTTEXT_105       "Girders can help grenades reach their targets..."
+    IDS_EVENTTEXT_106       "Aqua sheep by name, aquatic by nature."
+    IDS_EVENTTEXT_107       "Come on soldier, get a move on!"
+    IDS_EVENTTEXT_108       "You'd better hurry, there's not much time left!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_EVENTTEXT_109       "Quick! The water is rising!"
+    IDS_EVENTTEXT_110       "Here's something to help this time."
+    IDS_EVENTTEXT_111       "If you're having trouble, use this."
+    IDS_EVENTTEXT_112       "We thought you would appreciate this!"
+    IDS_EVENTTEXT_113       "Looks like you need help, rookie."
+    IDS_EVENTTEXT_114       "This will come in handy..."
+    IDS_EVENTTEXT_115       "You need help..."
+    IDS_EVENTTEXT_116       "Try this."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_CENTRE              "Centre"
+    IDS_MAPEDQUITTEXT       "You have made changes; do you want to exit and lose the changes?"
+    IDS_CHOOSESOIL          "Choose the soil background for your custom level."
+    PC_IDS_SERVERFAIL       "Unable to connect to the server; please select another server and retry."
+    PC_IDS_CHATSERVICEFAIL  "Unable to connect to the chat service; please select another server and retry connection."
+    PC_IDS_GAMEFINDFAIL     "Unable to locate the specified game; please select a different game and try again."
+    PC_IDS_GAMEREQUIRESPASSWORD 
+                            "The chosen game is password protected. Please enter the game password."
+    PC_IDS_PROXYHOSTBAD     "You have checked the ""Enable Proxy"" checkbox; this means you have a firewall; if you try and host a game now, others may not be able to join the game."
+    PC_IDS_CONNECTFAILEDINGAMECLIENT 
+                            "Your connection to the server was lost during play; please reconnect."
+    PC_IDS_POSTINGRESULTS   "Posting game results to the server; please wait..."
+    PC_IDS_POSTRESULTSFAILED "Unable to post the game results to the server."
+    PC_IDS_THANKS           "Thank you for using WORMNET, please call again!"
+    PC_IDS_RANKTOOLOW       "Your rank is too low!"
+    PC_IDS_RANKTOOHIGH      "Your rank is too high!"
+    PC_IDS_PLAYERKICKED     "You have been kicked from the game!"
+    PC_IDS_CHANNELKICK      "You have been kicked from the channel!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_CANTJOINCHANNEL  "Unable to join the channel."
+    PC_IDS_CHATCOMMANDNOTALLOWED "That command is currently unsupported."
+    PC_IDS_UNABLETOHOST     "Unable to host the game."
+    PC_IDS_NETTIMEOUT       "Network operation timed out."
+    PC_IDS_NETINITFAIL      "Network initialisation failed."
+    PC_IDS_SERVEROPTIMEOUT  "Server operation has timed out."
+    PC_IDS_SERVERDIED       "The server may have failed."
+    PC_IDS_BADLOCALE        "The server you are attempting to connect to may be slow for some operations. Selecting a server closer to you may help speed up operations."
+    PC_IDS_SERVERLISTFILEFAILED 
+                            "Unable to find the serverlist.htm file; please visit the Worms Armageddon web-site for the latest file. (worms.team17.com)"
+    PC_IDS_LANGUAGEFILTERENABLE "Enable the profanity filter."
+    PC_IDS_TERMSANDCONDITIONS 
+                            "By connecting to this service, you agree to be bound by the terms and conditions agreement for the WORMNET service; do you wish to continue?"
+    PC_IDS_INVALID          "Invalid operation."
+    PC_IDS_PLEASECHECKSETTINGS "Please check your settings"
+    PC_IDS_ANDRETRY         "and retry."
+    PC_IDS_OPFAILED         "Operation failed."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_OPSUCCESS        "Operation successful"
+    PC_IDS_DATATRANSFER     "Transferring data, please wait..."
+    PC_IDS_OPCOMPLETE       "Operation complete."
+    PC_IDS_PLEASEPOST       "A file diagnose.txt has been written to the User\\Support folder (in the folder where the game is installed); please refer to this file when contacting support."
+    PC_IDS_SERVERBUSY       "The server is currently busy; please select another server."
+    PC_IDS_POSTGAMEFAILED   "Posting your game to the server failed. Please ensure you enter all the required details and try again."
+    PC_IDS_PIRACYCHECKFAILED 
+                            "You have failed the CD authentication check; your account on WORMNET has been disabled. Please contact Team17 support if there is a problem."
+    PC_IDS_NOLANJOIN        "This game is being logged by the WORMNET service; LAN players may only join this game via WORMNET."
+    PC_IDS_TIMEOUT          "Timeout."
+    PC_IDS_POSTING          "Posting..."
+    PC_IDS_RECEIVING        "Receiving..."
+    PC_IDS_SENDING          "Sending..."
+    PC_IDS_SERVERPAGEFAILED "A fatal server operation occurred. Disconnecting from the server."
+    PC_IDS_UNABLE           "Unable"
+    PC_IDS_UNKNOWNERROR     "An unknown error occurred; exiting back to main menu."
+    PC_IDS_CANTCREATEUNIQUE "Unable to create unique identifier for the game or session."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_NOGAMEID         "Game identifier not found; unable to host game."
+    IDS_MAPLOAD             "Load a saved terrain."
+    PC_IDS_WARNING          "Warning"
+    PC_IDS_FATAL            "Fatal"
+    PC_IDS_NETERROR         "Network Error"
+    PC_IDS_KICKPLAYERHELP   "Press this button to kick the player from this game."
+    PC_IDS_UNKNOWNLOCALE    "The locale set for this machine is unknown. Using default."
+    PC_IDS_BUFFEROVERRUN    "Buffer Overrun! Read > 512 bytes without termination!"
+    PC_IDS_NOUNIQUEID       "Have not gained a unique game ID from the server for this game!"
+    PC_IDS_CHANNELNAME      "ChannelName"
+    PC_IDS_NUMINCHANNEL     "# in Channel"
+    PC_IDS_CHANNELTITLE     "Topic"
+    PC_IDS_CONNECTIONSUCCESS "Connection successful."
+    PC_IDS_CONNECTIONFAILED "Connection failed."
+    PC_IDS_CONNECTINGTOHOST "Connecting to host..."
+    PC_IDS_PLEASEWAIT       "Please wait..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_RE_FLAG_Canada      "Canada"
+    IDS_RE_FLAG_Croatia     "Croatia"
+    IDS_RE_FLAG_Bosnia      "Bosnia"
+    IDS_RE_FLAG_Cyprus      "Cyprus"
+    IDS_RE_FLAG_Czech       "Czech"
+    IDS_RE_FLAG_Denmark     "Denmark"
+    IDS_RE_FLAG_Finland     "Finland"
+    IDS_RE_FLAG_France      "France"
+    IDS_RE_FLAG_Georgia     "Georgia"
+    IDS_RE_FLAG_Germany     "Germany"
+    IDS_RE_FLAG_Greece      "Greece"
+    IDS_RE_FLAG_Hongkong    "Hong Kong"
+    IDS_RE_FLAG_Hungary     "Hungary"
+    IDS_RE_FLAG_Iceland     "Iceland"
+    IDS_RE_FLAG_India       "India"
+    IDS_RE_FLAG_Indonesia   "Indonesia"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_RE_FLAG_Iran        "Iran"
+    IDS_RE_FLAG_Iraq        "Iraq"
+    IDS_RE_FLAG_Ireland     "Ireland"
+    IDS_RE_FLAG_Israel      "Israel"
+    IDS_RE_FLAG_Italy       "Italy"
+    IDS_RE_FLAG_Japan       "Japan"
+    IDS_RE_FLAG_Liechtenstein "Liechtenstein"
+    IDS_RE_FLAG_Luxembourg  "Luxembourg"
+    IDS_RE_FLAG_Malaysia    "Malaysia"
+    IDS_RE_FLAG_Malta       "Malta"
+    IDS_RE_FLAG_Mexico      "Mexico"
+    IDS_RE_FLAG_Morocco     "Morocco"
+    IDS_RE_FLAG_Netherlands "Netherlands"
+    IDS_RE_FLAG_Newzealand  "New Zealand"
+    IDS_RE_FLAG_Norway      "Norway"
+    IDS_RE_FLAG_Poland      "Poland"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_RE_FLAG_Portugal    "Portugal"
+    IDS_RE_FLAG_Puertorico  "Puertorico"
+    IDS_RE_FLAG_Romania     "Romania"
+    IDS_RE_FLAG_Russia      "Russia"
+    IDS_RE_FLAG_Singapore   "Singapore"
+    IDS_RE_FLAG_Southafrica "South Africa"
+    IDS_RE_FLAG_Spain       "Spain"
+    IDS_RE_FLAG_Sweden      "Sweden"
+    IDS_RE_FLAG_Switzerland "Switzerland"
+    IDS_RE_FLAG_Turkey      "Turkey"
+    IDS_RE_FLAG_USA         "United States of America"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_SCHM_BEGINNER       "[ Beginner ]"
+    IDS_SCHM_DEFAULT        "[ Intermediate ]"
+    IDS_SCHM_ADVANCED       "[ Pro ]"
+    IDS_SCHM_CLASSIC        "[ Classic ]"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_SCHM_ARMAGEDDON     "[ Armageddon ]"
+    IDS_SCHM_BLASTZONE      "[ Blast Zone ]"
+    IDS_SCHM_SUDDENSINKING  "[ Sudden Sinking ]"
+    IDS_SCHM_TOURNAMENT     "[ Tournament ]"
+    IDS_SCHM_RETRO          "[ Retro ]"
+    IDS_SCHM_STRATEGIC      "[ Strategic ]"
+    IDS_SCHM_DARKSIDE       "[ The Darkside ]"
+    IDS_SCHM_ARTILLERY      "[ Artillery ]"
+    IDS_SCHM_FULL           "[ The Full Wormage ]"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ERROR_CD            "There was a problem reading from the CD.\nPlease ensure it is in the CD-ROM drive and free from dust, scratches etc."
+    IDS_ERROR_CD_TITLE      "CD ERROR"
+    IDS_ERROR_CD_START      "Please insert the Worms Armageddon CD into your CD-ROM drive before starting the game."
+    IDS_ERROR_CD_MISSING    "Please ensure that the Worms Armageddon CD is in your CD-ROM drive."
+    IDS_ERROR_AUDIO         "There was a problem initialising the audio system."
+    IDS_ERROR_LOAD          "There was an error loading Worms Armageddon data; please check your system."
+    IDS_ERROR_SAVE          "Unable to save Worms Armageddon Data. Please ensure that there is sufficient space on your Hard Drive."
+    IDS_ERROR_CONNECTION    "The connection to the network has been lost."
+    IDS_MISSION_HELP_BRONZE "This medal allows you to attempt the next mission."
+    IDS_MISSION_HELP_SILVER "This reward unlocks the mission terrain for normal play."
+    IDS_MISSION_HELP_GOLD   "This top honour counts towards secret options!"
+    IDS_MISSION_HELP_RECORD "This is the best performance by any team on this computer."
+    IDS_MISSION_HELP_TEAM   "This is the record held by this team."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_DETAIL_1    "One of the enemy's top Generals is devising a remarkably fiendish plan from his covert base of operations.\n\nThanks to recon, we have located the position of this base and require you to assassinate him before his plans can become operational. \n\nWe expect that the enemy have intercepted this transmission and are preparing for your arrival, so extreme caution is required."
+    IDS_MISSION_DETAIL_2    "Your troops have stumbled upon an enemy supply zone. \n\nCapture the area and plunder as much weaponry as possible to aid your cause. \n\nBe fast and efficient and keep your eye on the clock since we're gonna nuke the hell out of the place!"
+    IDS_MISSION_DETAIL_3    "Following the success of your last mission the enemy is now on the defensive. \n\nYour limited arsenal of weaponry should be sufficient to eliminate the enemy, but weapons supply drops are en-route so sit tight. \n\nWhilst you may appear to have the upper hand, do not get complacent."
+    IDS_MISSION_DETAIL_4    "On arrival at the mission's rally point you will find your enemy dug in and resistant. \n\nUse the supplies dropped prior to your arrival to eliminate the enemy and halt their sinister chemical weapons production. \n\nBeware contamination.\n\nPut the enemy out of action ... permanently!"
+    IDS_MISSION_DETAIL_5    "An informant has indicated the enemy is about to renew an old campaign of terror. Their first target is to be a city official, a Worm renowned for its political importance. Unfortunately this comes at a most awkward time as the area is currently under siege of a fragmenting comet, which has decided to use the city as its landing zone.\n\nWe can estimate that after 5 minutes some of these comet fragments will make an unwelcome appearance.\n\nTime is an additional enemy; save the politician and clear the area of our foes so we can evacuate the city."
+    IDS_MISSION_DETAIL_6    "This mission requires a good dose of skill and guile to successfully complete. \n\nGuide your paratroopers down to the enemy and deal a swift and decisive blow to eliminate them.\n\nSecure the area, over and out."
+    IDS_MISSION_DETAIL_7    "An experimental weapon can be found in a crate to be delivered to a specific zone in this area.\n\nThe top of the pyramid in this area has previously been used as an important drop point for incoming materials and equipment. We advise you promptly secure this location in preparation for its delivery. \n\nWe will monitor the airways and keep you notified as to the expected time of arrival for the all-important delivery."
+    IDS_MISSION_DETAIL_8    "Scale those heights and get the much-needed weaponry to aid your quest to dig down and kill the captain of the enemy. \n\nBe careful; his subordinates won't want to let that happen so easily.."
+    IDS_MISSION_DETAIL_9    "This one could be a mathematical nightmare, with angles and variables it could be enough to demoralise even the most resilient Worm. \n\nHowever, persistence and a little luck may win the day, giving our forces a much needed morale-boosting victory.\n\nDon't waste time and get on with the job; the 3 minute warning has just sounded."
+    IDS_MISSION_DETAIL_10   "This mission involves one Worm with an unlimited supply of shotgun bullets. \n\nThere is a time limit, so move quickly to destroy the enemy and reach high ground.\n\nThis where all that rifle range practise comes in useful.\n\nYou did train didn't you? I hope so..."
+    IDS_MISSION_DETAIL_11   "Your goal is to eliminate all the enemy Worms.\n\nKeep an eye out for special deliveries. Sturdy positioning is highly recommended as geometric reports suggest the area is susceptible to earth tremors; we'll try and warn you if one looks likely!\n\nYou start with 2 Worms and there is no time limit, which means little pressure, but beware the enemy will not be quite so relaxed..."
+    IDS_MISSION_DETAIL_12   "Defying gravity is perhaps the most unlikely solution to this little mission. \n\nThe enemy is entrenched around the goal of this mission, a crate which contains a powerful weapon that could help bring a swift end to this conflict."
+    IDS_MISSION_DETAIL_13   "A bold and daring approach is required to successfully complete this mission. \n\nGrab what you can and obtain the secret weapon located in the bottom left corner of the battlezone. \n\nSuccess in this mission could tip the balance of power in our favour."
+    IDS_MISSION_DETAIL_14   "This could prove to be a tough one. \n\nSharp reflexes and quick thinking are the key to success in this mission. \n\nThe enemy is particularly vigilant here, so your movement time has been shaved to a minimum.\n\nWe will try to aid you the best we can by supplying utilities to minimise their impact...\n\nBlow them to hell and back."
+    IDS_MISSION_DETAIL_15   "In this mission you must destroy the crate guarded by the enemy. \n\nIt contains a deadly weapon that the enemy was researching.\n\nYou start with a crippled Worm, unaccustomed to the odd terrain. \n\nYou have 3 minutes in which to complete this mission. "
+    IDS_MISSION_DETAIL_16   "A breakaway faction of the enemy has infiltrated a base amongst one of the most prestigious monuments in the world. \n\nThe government of this location have expressed great contempt for this action and require the skill and expertise of your commandos to remove this threat.\n\nThe leader of the faction simply calls itself General, a former head of the enemy forces; the General is your primary target. \n\nEliminate him and the rest of the followers will surrender."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_NAME_1      "Chateau Assassin."
+    IDS_MISSION_NAME_2      "All quiet in the library?"
+    IDS_MISSION_NAME_3      "Operation Market Garden."
+    IDS_MISSION_NAME_4      "Chemical Warfare."
+    IDS_MISSION_NAME_5      "Countdown to Armageddon!"
+    IDS_MISSION_NAME_6      "The Drop Zone."
+    IDS_MISSION_NAME_7      "Sand in your eye."
+    IDS_MISSION_NAME_8      "Jurassic Worm."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_DETAIL_17   "Phase one of this mission has gone horribly wrong and the air-dropped weaponry supplies have fallen into enemy hands.\n\nYour Worms have been left with only a few utilities and close combat weapons with which to destroy the enemy and retrieve the crates.\n\nThe enemy has placed the stolen supplies into what it believes are a secured location. \n\nHowever, clever use of  the resources you have will prove that this not the case."
+    IDS_MISSION_DETAIL_18   "The conflict has reached that point were supplies become short and weapons in demand. \n\nUnfortunately we only have one trusty weapon at this time. \n\nThe bazooka still has one or two tricks it can show the enemy, so take what you've got and give 'em hell!"
+    IDS_MISSION_DETAIL_19   "A member of the enemy's elite command staff is hidden away with the belief that this Worm is untouchable. \n\nWe consider this to be an attempt to make a mockery of our authority and armed forces.\n\nYou must prove them wrong. Using the few weapons we provide, quash this belief once and for all.\n\nYou will demonstrate that our forces are superior, inventive and that no enemy should ever underestimate our resolve again."
+    IDS_MISSION_DETAIL_20   "Information is limited in this battlefield.\n\nIt seems our best efforts to recon the area have been met with lethal force. \n\nWe believe there may be a small stockade of a new type of weapon at this location. \n\nFind and secure it to strike a decisive blow."
+    IDS_MISSION_DETAIL_21   "Your goal is to eliminate all other Worms.\n\nA single unit is all you have. \n\nKeep your wits about you and don't hang about for too long.\n\nMake good use of the limited resources you have; it's a case of brains before brawn.\n\nYou have 5 minutes to complete the task before the land begins to sink.\n\nWatch yourself out there."
+    IDS_MISSION_DETAIL_22   "In this mission you must retrieve the special weapons crate being held on the far right of the landscape.\n\nYou start with only one Worm and limited weapons; use them wisely.\n\nUse Ninja Ropes and Girders to avoid the mines.\n\nAn Earthquake could strike at any time."
+    IDS_MISSION_DETAIL_23   "Ambush!  \n\nThe enemy has been taken totally by surprise; use this element of surprise to press your advantage and batter the enemy where they stand. \n\nWe'll help you where we can with supplies.\n\nThis is quite simply a fight for survival.\n\nEliminate or be eliminated."
+    IDS_MISSION_DETAIL_24   "You take over this mission as the situation becomes critical. \n\nThe Commandos have just succeeded in retrieving sensitive information from a grounded sub but have unfortunately lost their commander and require immediate assistance. \n\nThe enemy is closing in but the greater threat will come from the tide, which is gradually rising.\n\nGet them to high ground and quick!"
+    IDS_MISSION_DETAIL_25   "This mission needs to involve the use of some accurate shooting if you are to succeed and clever use of our fluffy friends.\n\nEnemy supplies scattered throughout the area will provide any of the extra munitions you may require.\n\nHowever, should things get too sticky then we will lend assistance. \n\nBe prepared for the worst."
+    IDS_MISSION_DETAIL_26   "This mission requires tremendous skill to navigate the cavern using your only available weapon. \n\nYour friend will collect the required weapon needed to successfully remove the enemy threat."
+    IDS_MISSION_DETAIL_27   "Agent Dennis has been ambushed; the enemy know his location and have detached a small task force to eliminate him.\n\nAlthough our agent is a monster of a Worm and a fine specimen too, he is not too well endowed in the brains department.\n\nUse all of your cunning and guile to see this one through to the end and bring him back alive."
+    IDS_MISSION_DETAIL_28   "After sending in a group of our own crack troops to retrieve a scientist abducted by the enemy our troops have broken radio silence and our now requesting instructions for the final phase of their mission.\n\nThis is where you come in. \n\nIt is paramount that the scientist survives at all cost.\n\nThis would be straightforward but for the enemy, who are in hot pursuit and determined not to let the scientist escape."
+    IDS_MISSION_DETAIL_29   "Collect the secret crate guarded by the enemy; it contains a weapon vital to a later mission. Watch out for the mined area.\n\nThere is no time limit, but we advise you to hurry up..."
+    IDS_MISSION_DETAIL_30   "A renegade enemy soldier is holding the earth to ransom, threatening to blow up the south pole!\n\nFor mission success you need to act quickly and decisively. \n\nTime is running out and we fear an imminent attack in this zone. \n\nYou need to find out what weapons you need to perform that task... a utility may be useful!\n\nKill the soldier, restore order and avert calamity!"
+    IDS_MISSION_DETAIL_31   "At an abandoned train yard a locomotive stands idle. This vehicle has been requisitioned by those who would plot against our organisation.\n\nAmongst the scrap of the locomotive sits a crate containing what can only be described as a destructive force like we have never seen. We need you to use a specially trained infiltration Worm to collect this crate and give our R&D boys another new weapon to toy with."
+    IDS_MISSION_DETAIL_32   "An agent has infiltrated our HQ, stolen some important tapes and attached them to a weather balloon, which is intended for enemy aircraft pickup. \n\nWe have tracked the balloon and know that not all has gone to plan for the enemy.\n\nThe balloon is slowly descending and will free fall into the ocean. \n\nUse girders to prevent the crate's destruction and collect it once successful."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_DETAIL_33   "Run for the hills. \n\nNoah is nowhere to be seen and the water lapping round your ankles and rapidly rising. \n\nCombine your weapons and utilities for maximum effect. \n\nWe strongly urge you use a combination of girder and ropes to make your way to the safety of the cavern ceiling."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_NAME_9      "Aim long, aim true."
+    IDS_MISSION_NAME_10     "Big Shot."
+    IDS_MISSION_NAME_11     "Rumble in the Farmyard."
+    IDS_MISSION_NAME_12     "Go Bananas!"
+    IDS_MISSION_NAME_13     "Horny Nuke."
+    IDS_MISSION_NAME_14     "Mad Cows."
+    IDS_MISSION_NAME_15     "Mars Star."
+    IDS_MISSION_NAME_16     "Trouble on Mount Wormore."
+    IDS_MISSION_NAME_17     "Stolen Goods."
+    IDS_MISSION_NAME_18     "Bazooka on the Rocks."
+    IDS_MISSION_NAME_19     "Water Surprise."
+    IDS_MISSION_NAME_20     "Hot Stuff."
+    IDS_MISSION_NAME_21     "Sinking Ice Cap."
+    IDS_MISSION_NAME_22     "Pumpkin Problems."
+    IDS_MISSION_NAME_23     "Wooden Ambush!"
+    IDS_MISSION_NAME_24     "No Substitute."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSION_NAME_25     "Goody two-shoes."
+    IDS_MISSION_NAME_26     "Super Sheep to the rescue!"
+    IDS_MISSION_NAME_27     "Rescue Agent Dennis!"
+    IDS_MISSION_NAME_28     "Trouble in Toy Store."
+    IDS_MISSION_NAME_29     "Not Mushroom out there...  "
+    IDS_MISSION_NAME_30     "Cool as ice."
+    IDS_MISSION_NAME_31     "Do the Locomotion."
+    IDS_MISSION_NAME_32     "Spectral recovery?"
+    IDS_MISSION_NAME_33     "Who left the flood-gates open?"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_DEBUGMODEENABLED "Debug mode enabled"
+    PC_IDS_DEBUGMODEDISABLE "Debug mode disabled"
+    PC_IDS_CHATMODEHELP     "Type /HELP <commandname> for more help on commands.\n"
+    PC_IDS_INVALIDCHATCOMMAND 
+                            "You typed an invalid chat command. Chat commands are anything that begin with /.\nType /HELP for more information on commands and their usage."
+    PC_IDS_VALIDCOMMANDS    "Valid commands are the following;\n"
+    PC_IDS_NOCOMMANDHELP    "No help is available for this command.\n"
+    PC_IDS_SEARCHINGFORGAMES "Searching for games..."
+    PC_IDS_NOGAMESFOUND     "No games were found..."
+    PC_IDS_NICKNAME         "NickName"
+    PC_IDS_LANADDRESS       "IP Address"
+    PC_IDS_ONSERVER         "On server"
+    PC_IDS_REALNAME         "Real name"
+    PC_IDS_CHANNEL          "In channel:"
+    PC_IDS_NAME             "Name"
+    PC_IDS_PING             "Ping"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_IDS_RTT              "Round trip"
+    PC_IDS_AWAY             "You are trying to message someone currently in a game but they will not be able to answer you. Please wait until the user gets back from the game before retrying."
+    PC_IDS_SECUREFAILURE    "Security failure."
+    PC_IDS_SERVERDOWN       "The remote server may be down."
+    PC_IDS_SERVERDISCONNECTED 
+                            "You have been disconnected from the server for sending too many messages at once. (Excess flood error.)"
+    IDS_TRAININGOVERVIEW    "Basic Training"
+    IDS_TRAININGOVERVIEWTEXT 
+                            "This training mode comprises of a short course of tasks which will improve your basic skills.\n\nShould you be successful, you will be awarded a Medal, which will allow you to try your hand at the Missions.\n\nThe better you perform, the more missions you can attempt."
+    IDS_TRAINING_TEXT1      "Grenade skills grade 1."
+    IDS_TRAINING_TEXT2      "Shotgun skills."
+    IDS_TRAINING_TEXT3      "Bazooka skills grade 1."
+    IDS_TRAINING_TEXT4      "Rope grade 1."
+    IDS_TRAINING_TEXT5      "Grenade skills grade 2."
+    IDS_TRAINING_TEXT6      "Using Firepunch."
+    IDS_TRAINING_TEXT7      "Rope grade 2."
+    IDS_TRAINING_TEXT8      "Bazooka skills grade 2."
+    IDS_TRAINING_TEXT9      "Grenade skills grade 3."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_PINGSPEED_FAST      "This player has a fast connection with you."
+    IDS_PINGSPEED_MODERATE  "This player has a moderate connection with you."
+    IDS_PINGSPEED_SLOW      "This player has a fast slow with you."
+    IDS_PINGSPEED_VERYPOOR  "This connection to the player is very poor."
+    IDS_GENERIC_ERROR       "Worms Armageddon System Error (%d)"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    MR_IDS_TITLE            "A warm welcome to WORMS ARMAGEDDON!\nGameplay's darkest hour!\n\nCopyright 1998 Team17 Software Limited.\nAll Rights Reserved.\nDistributed by MicroProse Ltd.\n\nPress any key or click the mouse to play!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TRAINING_TEXT10     "Girders and Sheep."
+    IDS_TRAINING_DESC1      "\n\nYou have 50 seconds to destroy the 2 targets using the grenade.\n\nRemember to use the fuse settings. \n\nGrenades are not affected by the wind."
+    IDS_TRAINING_DESC2      "\n\nYou have 60 seconds in which to shoot 6 targets."
+    IDS_TRAINING_DESC3      "\n\nYou have 40 seconds to destroy the targets.\n\nThe Bazooka is affected by the wind."
+    IDS_TRAINING_DESC4      "\n\nUse the rope to cross the play-field, collect the crate and destroy the target.\n\nThis must be performed with one turn.\n\nLearn how to use the repeat swing function of the rope."
+    IDS_TRAINING_DESC5      "\n\nYou have 60 seconds to destroy the targets."
+    IDS_TRAINING_DESC6      "\n\nThis exercise also teaches you to find other ways of using weapons, particularly using different jumping methods.\n\nYou have 50 seconds to destroy the targets."
+    IDS_TRAINING_DESC7      "\n\nYou have 60 seconds to destroy the target.\n\nUsing the rope, collect the weapon and use it on the target area."
+    IDS_TRAINING_DESC8      "\n\nYou have 60 seconds to destroy the targets.\n\nRemember, the Bazooka is affected by the wind. In this exercise you will have to use a little-known trick...\n\nTip! In World War 2, the British Forces had a Bouncing Bomb!"
+    IDS_TRAINING_DESC9      "\n\nYou have 99 seconds to destroy the targets using the grenade.\n\nRemember to use the fuse settings. \n\nGrenades are not affected by the wind."
+    IDS_TRAINING_DESC10     "This exercise requires you to lay a pontoon bridge across the screen so that you can send your sheep to knock the target into the water.\n\nYou have 60 seconds to achieve this."
+    IDS_TRAININGFAIL1       "You have failed to complete this exercise and therefore also failed Basic Training. You will need to restart Basic Training and try again."
+    IDS_TRAININGFAIL2       "Tough luck, you have failed this event and Basic Training is over.\n\nTry again and attempt to improve your award."
+    IDS_TRAININGSUCCESS1    "Congratulations!\n\nYou have been awarded a Basic Training Bronze Medal award.\n\nYou can now attempt the first few missions!"
+    IDS_TRAININGSUCCESS2    "Excellent, your skills have earned you a Silver Medal award in Basic Training; you can now access more missions!"
+    IDS_TRAININGSUCCESS3    "Well done, Soldier!\n\nYou have successfully completed the full Basic Training program.\n\nYou now have access to all the missions!\n\nGood luck!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_MISSIONREJECT1      "There's no room for rookies here!\n\nYour team needs to have earned at least a Bronze Medal in Basic Training before it can access the missions.\n\nGo to the Training menu and get a Basic Training award!"
+    IDS_MISSIONREJECT2      "We feel that the mission you are attempting may be beyond your capabilities, therefore we need teams with a minimum of a Silver Medal in Basic Training.\n\nGo back to the Training menu and get some more practice."
+    IDS_MISSIONREJECT3      "It's commendable that you wish to try such a difficult mission, but we will only accept recruits who have been awarded a Gold Medal in Basic Training!\n\nCome back when you have successfully achieved this."
+    PC_NEWSTATS1            "Team Mission Status"
+    PC_NEWSTATS2            "Mission Status"
+    PC_NEWSTATS3            "Team Status"
+    PC_NEWSTATS4            "Team Name"
+    PC_NEWSTATS5            "Worm Name 1"
+    PC_NEWSTATS6            "Worm Name 2"
+    PC_NEWSTATS7            "Worm Name 3"
+    PC_NEWSTATS8            "Worm Name 4"
+    PC_NEWSTATS9            "Worm Name 5"
+    PC_NEWSTATS10           "Worm Name 6"
+    PC_NEWSTATS11           "Worm Name 7"
+    PC_NEWSTATS12           "Worm Name 8"
+    PC_NEWSTATS13           "Games Won"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_NEWSTATS14           "Games Drawn"
+    PC_NEWSTATS15           "Games Lost"
+    PC_NEWSTATS16           "Kills"
+    PC_NEWSTATS17           "Killed"
+    PC_NEWSTATS18           "Kills (For)"
+    PC_NEWSTATS19           "Kills (Against)"
+    PC_NEWSTATS20           "Current Mission"
+    PC_NEWSTATS21           "Deathmatch Rank"
+    PC_NEWSTATS22           "Training Completed"
+    PC_NEWSTATS23           "Overall Team Rank"
+    PC_NEWSTATS24           "Completion Time"
+    PC_NEWSTATS25           "Show Mission Information"
+    PC_NEWSTATS26           "Statistics on the selected team."
+    PC_NEWNET1              "Network Address"
+    PC_NEWNET2              "You are now connected to %s (Hosted by %s)..."
+    PC_NEWNET3              "A password is required to join this game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    PC_NEWNET4              "Please enter the password."
+    PC_NEWNET5              "The Password is incorrect; please try again."
+    PC_NEWSTATS27           "The team's record time in this training event."
+    ID_AUDIOOPTIONS         "Audio options"
+    ID_TEAMFLAG             "Flag"
+    PC_NEW_SYSTEM           "System"
+    PC_NEW_MESSAGES         "Messages"
+    PC_NEW_GAMES            "Games"
+    PC_NEW_CHANNEL          "Channel"
+    MB_ADD_WORMS            "Worms"
+    IDS_DEMO                "Sorry"
+    IDS_FULLONLY            "This feature is not available in the demo"
+    PC_IDS_FORCEIP          "Force IP"
+    PC_IDS_FORCEIPHELP      "Force the use of this IP when hosting games on wormnet."
+    IDS_RESEED              "Reseed"
+    IDC_RESEED              "Change placement of objects, bridges\nand holes.  Shift+click to backtrack."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_H_SELECT         "Select Worm - Eenie, meanie, miney, moe..."
+    IDS_WP_H_ARMAGEDDON     "Armageddon - And the meek shall inherit... nothing."
+    IDS_WP_H_MAGIC          "Patsy's Magic Bullet - Not a conspiracy after all..."
+    IDS_WP_H_CARPET         "Carpet Bomb - Clean up that ugly stain."
+    IDS_WP_H_CRATESPY       "Crate Spy - Go on a window shopping spree."
+    IDS_WP_H_DONKEY         "Concrete Donkey - He who has the last hee hah"
+    IDS_WP_H_FREEZE         "Freeze - Glacier in a box"
+    IDS_WP_H_GIRDERS        "Girder Pack - A crash course in architecture"
+    IDS_WP_H_MBBOMB         "The coveted MB Bomb"
+    IDS_WP_H_MINESTRIKE     "Mine Strike - Unexploded munitions, anyone?"
+    IDS_WP_H_MINGVASE       "Ming Vase - Blow everyone away at the antiques roadshow."
+    IDS_WP_H_NUKETEST       "Indian Nuclear Test - It's a hit in the Rajasthan desert"
+    IDS_WP_H_POSTAL         "Mail Strike - Ultimate tool of the disgruntled postal worker."
+    IDS_WP_H_QUAKE          "Earthquake - It's all your fault."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_PROGID_WAGAME       "Worms Armageddon Recorded Game"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_LANGUAGE            "Language"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_WP_H_MOLEBOMB       "Mole Bomb - Can you dig it?"
+END

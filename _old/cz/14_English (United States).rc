@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+208, "CPU Expert"
+209, "Pøed zapoèetím hry si mùžeš sám rozmístit své èervy."
+210, "Èervi jsou na poèátku hry rozmístìni náhodnì."
+211, "Ukládání zásob"
+212, "Všechny nevyužité zbranì se pøenášejí do dalšího kola, kde se k nim navíc pøiètou nové zásoby."
+213, "V každém kole dostaneš nové zásoby, ale nevyužité zbranì nejsou pøenášeny mezi koly."
+214, "Na zaèátku hry dostaneš zásobu zbraní, která ti musí vydržet na celý zápas."
+215, "Po vypršení herního èasu kolo skonèí."
+216, "Po vypršení herního èasu je do hry svržena atomová bomba a energie èervù bude postupnì ubývat."
+217, "Rychlost zaplavování terénu po aktivaci módu Náhlá smrt."
+218, "Uložit testy"
+219, "Po vypršení herního èasu\nbude aktivován mód\nNáhlá smrt."
+220, "Množství energie, které ztratí každý èerv v každém kole módu Náhlá smrt."
+221, "Zbranì"
+222, "Nastavení hry"
+223, "Nastavení Náhlé smrti"
+}

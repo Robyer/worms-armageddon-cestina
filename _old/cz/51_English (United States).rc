@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+800, "Absolutní zaèáteèník"
+801, "Zaèáteèník"
+802, "Nezkušený"
+803, "Bažant"
+804, "Nováèek"
+805, "Podprùmìr"
+806, "Prùmìr"
+807, "Dostateèný"
+808, "Nadprùmìr"
+809, "Docela schopný"
+810, "Schopný"
+811, "Velmi schopný"
+812, "Veterán"
+813, "Výborný"
+814, "Vynikající"
+815, "Generál"
+}

@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+496, "Výsledky"
+497, "Hrát další kolo"
+498, "Pokraèovat do dalšího kola"
+499, "Informace o tom, kdo vyhrál minulé kolo."
+500, "Deathmatch"
+501, "Hrát hru v módu deathmatch"
+502, "Tvé herní výsledky ti zpøístupnily tajnou volbu!"
+503, "Smùla, tvùj èas %d:%02d:%02d nestaèí na získání ocenìní. Zkus to znovu. Cvièení dìlá mistra!"
+504, "Vynikající, tvùj èas %d:%02d:%02d je novým rekordem pro tuto událost!"
+505, "Velká Británie"
+506, "Neznámá"
+507, "Argentina"
+508, "Austrálie"
+509, "Rakousko"
+510, "Belgie"
+511, "Brazílie"
+}

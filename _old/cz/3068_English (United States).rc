@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49072, "Operace dokonèena"
+49073, "Pøenáším data, prosím èekej..."
+49074, "Operace dokonèena"
+49075, "Soubor diagnose.txt byl uložen do adresáøe User\\Support (v herním adresáøi). V pøípadì kontaktování technické podpory použij tento soubor."
+49076, "Tento server je plný. Zkus jiný server."
+49077, "Vytvoøení hry na serveru se nezdaøilo. Zkontroluj, zda jsi zadal všechny potøebné parametry, a zkus to znovu."
+49078, "Tvé herní CD neprošlo kontrolou a tvùj úèet na síti WORMNET byl zablokován. V pøípadì problémù kontaktuj technickou podporu Team17."
+49079, "Tato hra se nachází na síti WORMNET. Hráèi na lokální síti se k ní mohou pøipojit pouze prostøednictvím služby WORMNET."
+49080, "Èas vypršel."
+49081, "Nahrávám..."
+49082, "Pøijímám..."
+49083, "Posílám..."
+49084, "Došlo ke kritické chybì serveru. Odpojuji se od serveru."
+49085, "Nelze"
+49086, "Došlo k neznámé chybì. Probíhá návrat do hlavního menu."
+49087, "Nelze vytvoøit unikátní identifikátor pro tuto hru."
+}

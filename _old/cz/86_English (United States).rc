@@ -1,0 +1,13 @@
+STRINGTABLE
+{
+1366, "Na základì zadaného kódu vygeneruje novou mapu."
+1367, "Nelze nalézt seznam serverù, snažím se pøipojit ke standardnímu serveru."
+1368, "V jiné høe"
+1369, "Není na tomto kanálu"
+1370, "Na kanálu:"
+1371, "Chyba serveru"
+1372, "Na serveru došlo k neznámé chybì."
+1373, "Nelze vytvoøit GUID pro identifikaci hry."
+1374, "Nelze vytvoøit GUID pro identifikaci sekce."
+1375, "Chyba"
+}

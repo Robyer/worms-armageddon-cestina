@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+336, "Pro získání STØÍBRNÉ medaile musíš dosáhnout èasu %d:%02d:%02d sekund nebo lepšího!"
+337, "Vystøel super ovci a létej s ní po mapì, jak nejdéle dovedeš. \n\nÈasový limit mùžeš zvýšit sbíráním pøedmìtù. \n\nZa získání zlaté medaile v tomto závodì je zvláštní odmìna."
+338, "Zasáhni co nejvíce cílù. Každý zasažený cíl zvýší èasový limit. \n\nHra konèí po vypršení èasového limitu."
+339, "Pro pohyb po této úrovni musíš použít lano. Každá bedna, kterou získáš, zvýší èasový limit. \n\nHra konèí po vypršení èasového limitu."
+340, "Použij své dìlostøelectvo pro znièení cílù. \n\nZa každý zasažený cíl dostaneš nìkolik vteøin navíc. Hra konèí po vypršení èasového limitu."
+341, "Pro tuto hru máš pouze omezené množství zbraní. Použij je k co nejrychlejší likvidaci starých dam! \n\nUvidíme, jak dlouho vydržíš."
+342, "Pro získání ZLATÉ medaile musíš dosáhnout èasu %d:%02d:%02d sekund. Jdi na to!"
+343, "Výbornì. Tvùj èas %d:%02d:%02d staèí na zisk BRONZOVÉ medaile. Pokraèuj v tréninku, aby sis ještì více vylepšil své dovednosti."
+344, "Gratulujeme. Tvùj výborný èas %d:%02d:%02d ti vynesl STØÍBRNOU medaili. Ještì trochu tréninku a staneš se mistrem této disciplíny."
+345, "Fantastické! Tvùj vynikající èas %d:%02d:%02d znaèí, že jsi hoden zisku ZLATÉ medaile. Nyní jsi nejlepší. Ale nezapomeò stále trénovat, aby sis ještì více zlepšil svùj èas."
+346, "Zvol disciplínu, kterou chceš trénovat."
+347, "Tréninková disciplína, kterou jsi zvolil."
+348, "Podrobnosti o tréninku"
+349, "Zaèít trénink"
+350, "Nebyl zvolen žádný tým."
+351, "Spustí trénink zvolené disciplíny."
+}

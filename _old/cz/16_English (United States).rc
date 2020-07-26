@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+240, "Zapne èi vypne zranìní zpùsobená pádem."
+241, "Zapne èi vypne zobrazení herního èasu."
+242, "Zpoždìní"
+243, "Pohyb po výstøelu"
+244, "Pohyb po lanì"
+245, "Èasová pauza mezi tahy hráèù pøi høe horké køeslo"
+246, "Èas po výstøelu, kdy se èerv ještì mùže pohybovat."
+247, "Èas po použití lana, kdy se èerv ještì mùže pohybovat."
+248, "Zapne èi vypne nefunkèní miny."
+249, "Nastavuje objekty, které budou použity na mapì."
+250, "E-mail tech. podpoøe"
+251, "Pošle e-mailem výsledky testù technické podpoøe Team17."
+252, "Doba mezi aktivací a vlastním výbuchem miny"
+253, "Zrušit"
+254, "Zpìt bez uložení"
+255, "Zpìt"
+}

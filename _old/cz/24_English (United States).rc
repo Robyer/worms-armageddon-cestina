@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+368, "Spustit"
+369, "Spustí hru"
+370, "Zpìt"
+371, "Návrat do pøedchozího menu"
+372, "Pøipojení k síti WORMNET prostøednictvím Internetu"
+373, "Konfigurace"
+374, "Upraví síová nastavení."
+375, "Jméno hráèe"
+376, "Tvá IP adresa"
+377, "Hra po lokální síti"
+378, "Informace o hráèi"
+379, "WORMNET"
+380, "Login"
+381, "Pøipojí tì k serveru."
+382, "Zde zadej své uivatelské jméno."
+383, "Uivatelské jméno"
+}

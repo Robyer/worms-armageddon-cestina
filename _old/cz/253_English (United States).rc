@@ -1,0 +1,17 @@
+STRINGTABLE
+{
+4032, "Tento tým dosáhl mise è. %d.\n"
+4033, "Za tento výkon mu nemohla být udìlena žádná medaile cti.\n\n"
+4034, "Za tento výkon byl ocenìn %s medailí.\n\n"
+4035, "HRA VÍCE HRÁÈÙ\n"
+4036, "Odehráno her %d.\n"
+4037, "Vyhráno her %d.\n"
+4038, "Poèet zabitých èervù - %d.\n"
+4039, "Poèet padlých èervù %d.\n"
+4040, "Poèet èervù padlých v boji - %d.\n"
+4041, "Na základì tìchto výkonù ti byla udìlena hodnost %s.\n\n"
+4042, "CELKOVÉ HODNOCENÍ\n"
+4043, "Na základì celkového hodnocení má tento tým hodnost %s."
+4044, "Malí vojáci"
+4045, "Zkus si tento nový styl hry!"
+}

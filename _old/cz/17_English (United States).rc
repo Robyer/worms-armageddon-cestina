@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+256, "Uloí provedené zmìny a vrátí tì do pøedchozího menu."
+257, "Lokální sí"
+258, "Klikni sem pro hru po lokální síti."
+259, "Klikni na toto tlaèítko pro pøepnutí mezi TCP/IP a IPX/SPX protokoly."
+260, "Zde zadej svého hráèské jméno (pøezdívku)."
+261, "Zde nalezneš svou IP adresu."
+262, "Wormnet"
+263, "Na mapì bude maximálnì 8 min."
+264, "Na mapì bude maximálnì 8 olejovıch barelù."
+265, "Na mapì bude maximálnì 8 objektù."
+266, "Na mapì nebudou ádné objekty."
+267, "Návrat na pøedchozí obrazovku"
+268, "\n\nOpravdu chceš pøepsat nastavení \n ' %s ' ?"
+269, "Pøepsat nastavení?"
+270, "Smazat nastavení?"
+271, "\nOpravdu chceš\nsmazat nastavení ' %s ' ?"
+}

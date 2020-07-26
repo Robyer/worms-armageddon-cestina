@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+288, "Nastavuje èas, který má každý hráè na vykonání jednoho tahu."
+289, "Nastavuje poèet vítìzství nutných k vyhrání zápasu."
+290, "Zde zadej podrobnosti o novém týmu."
+291, "Zaèít hru"
+292, "Vše je nastaveno, hra mùže zaèít."
+293, "Zpìt"
+294, "Návrat do pøedchozího menu"
+295, "Aktuální herní nastavení"
+296, "Týmy"
+297, "Kasárna"
+298, "Nastavení"
+299, "Vytvoøit nový tým"
+300, "Po vypršení standardní doby neztratí èervi žádnou energii."
+301, "Na mapì bude maximálnì 8 objektù."
+302, "Na mapì bude maximálnì 8 objektù."
+303, "Mapa"
+}

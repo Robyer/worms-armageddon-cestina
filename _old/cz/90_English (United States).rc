@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1424, "Resetovat na standardní"
+1425, "Automaticky obnoví všechny dùležité soubory klienta."
+1426, "Po pøipojení automaticky obnoví seznam serverù."
+1427, "Automaticky zjistí ping všech hráèù na kanálu."
+1428, "Titul"
+1429, "Jméno"
+1430, "Pøíjmení"
+1431, "Adresa"
+1432, "PSÈ"
+1433, "Telefon"
+1434, "Pohlaví"
+1435, "Vìk"
+1436, "E-mailová adresa"
+1437, "Uživatelské jméno"
+1438, "Heslo"
+1439, "Zde zadej svùj titul."
+}

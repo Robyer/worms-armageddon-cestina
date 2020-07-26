@@ -1,0 +1,8 @@
+STRINGTABLE
+{
+570, "S tímto hráèem máš rychlé spojení."
+571, "S tímto hráèem máš prùmìrné spojení."
+572, "S tímto hráèem máš pomalé spojení."
+573, "S tímto hráèem máš velmi pomalé spojení."
+574, "Worms Armageddon systémová chyba (%d)"
+}

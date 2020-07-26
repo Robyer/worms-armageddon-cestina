@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1456, "Obnovit"
+1457, "Obnovit seznam"
+1458, "Obnoví seznam právì dostupných her."
+1459, "Obnoví seznam všech uživatelù na síti Wormnet."
+1460, "Obnoví seznam kanálù."
+1461, "Odchod z tohoto kanálu"
+1462, "Zobrazí hodnocení hráèù na tomto kanálu."
+1463, "Návrat na kanál"
+1464, "Návrat na kanál"
+1465, "Pro vstup na kanál klikni dvakrát na jeho název."
+1466, "Dvojklikem na jméno hráèe vstoupíš na kanál, ve kterém je tento hráè."
+1467, "Seznam èlenù tohoto kanálu"
+1468, "Dvojklikem na zvýraznìnou oblast se pøeneseš na toto místo."
+1469, "Èas vyhrazený pro pokus o pøipojení ke høe vypršel."
+1470, "Èas vyhrazený pro pokus o hostování hry vypršel."
+1471, "Seznam her"
+}

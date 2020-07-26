@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1616, "Èerv 4"
+1617, "Levým kliknutím vyøadíš hráèe ze hry."
+1618, "Tito hráèi jsou již ve høe."
+1619, "Nelze nalézt datové soubory misí. Zkontroluj, zda se Worms Aramageddon CD nachází ve tvé CD-ROM mechanice."
+1620, "%s (%s) vyhrává výroèní láhev horké vody Florence Nightingale!\n"
+1621, "Nebyla udìlena žádná ocenìní.\n"
+1622, "\n\nBìhem této hry bylo zabito celkem %d èervù.\n"
+1623, "Bìhem této hry byly zpùsobeny škody v celkové výši %d bodù."
+1624, "Ocenìní za pøesnost získává %s (%s) za svou %d%% úspìšnost pøi støelbì.\n"
+1625, "Ocenìní za nejlepší výstøel získává %s (%s). Jeho støela zabila %d èervù a zpùsobila %d bodù škod.\n"
+1626, "%s (%s) získává ocenìní za nejlepší strategii.\n"
+1627, "Cirkusové ocenìní Velkého Billyho získává %s (%s).\n"
+1628, "Nejdéle pøeživším èervem byl %s (%s).\n"
+1629, "%s (%s) byl nejménì užiteèným èervem.\n"
+1630, "Nejnudnìjší èervem byl zvolen %s (%s).\n"
+1631, "%s (%s) byl zvolen nejménì populárním èervem.\n"
+}

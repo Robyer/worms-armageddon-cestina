@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1472, "Historie zpráv"
+1473, "Textový vstup"
+1474, "Opustit kanál"
+1475, "Odeslat zprávu"
+1476, "Obnovit seznam kanálù"
+1477, "Seznam kanálù"
+1478, "Obnovit seznam hráèù"
+1479, "Seznam hráèù"
+1480, "Obnovit seznam her"
+1481, "Seznam èlenù"
+1482, "Hlavní místnost lokální sítì"
+1483, "Možnosti sítì"
+1484, "Automaticky zjistí ping všech èlenù kanálu."
+1485, "Po pøipojení automaticky obnoví seznam serverù."
+1486, "Nastavení sítì"
+1487, "Automaticky zjistit ping u èlenù"
+}

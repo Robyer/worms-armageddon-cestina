@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1440, "Zde zadej své køestní jméno."
+1441, "Zde zadej své pøíjmení."
+1442, "Zde zadej svou poštovní adresu. (Volitelné)"
+1443, "Zde zadej své PSÈ. (Volitelné)"
+1444, "Zde zadej své telefonní èíslo. (Volitelné)"
+1445, "Zde zadej své pohlaví (M/Ž)."
+1446, "Zde zadej svùj vìk."
+1447, "Zde zadej svou e-mailovou adresu. (Volitelné)"
+1448, "Zde zadej své uživatelské jméno."
+1449, "Zde zadej své heslo."
+1450, "OK"
+1451, "OK"
+1452, "Wormnet nenalezl tvùj úèet. Prosím, zadej své osobní údaje..."
+1453, "Opustit kanál"
+1454, "Zobrazit hodnocení"
+1455, "Obnovit seznam kanálù"
+}

@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+464, "Název"
+465, "Max. hráèù"
+466, "Mapa"
+467, "Stav pøipojení"
+468, "Zobrazuje aktuální stav pøipojení."
+469, "Stav pøipojení"
+470, "Zobrazuje aktuální stav pøipojení."
+471, "Zrušit"
+472, "Zruší probíhající operaci."
+473, "Tvùj titul"
+474, "Tvé køestní jméno"
+475, "Tvé pøíjmení"
+476, "Tvá poštovní adresa (volitelné)"
+477, "Tvé PSÈ (volitelné)"
+478, "Tvé telefonní èíslo (volitelné)"
+479, "Tvùj vìk (volitelné)"
+}

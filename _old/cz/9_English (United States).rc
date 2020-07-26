@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+128, "Zpráva o tvé nepøítomnosti byla odstranìna."
+129, "je pryè ** "
+130, "Zadal jsi neznámı pøíkaz. Napiš /help pro seznam platnıch pøíkazù."
+131, "Seznam dostupnıch pøíkazù.\n\n/msg <uiv.jméno> textzprávy   ( Pošle zprávu zvolenému uivateli na tomto kanálu )\n/away textzprávy   ( Pošle tento text všem, kteøí se ti pokusí poslat zprávu )\n/away   ( Smae døíve zadanou zprávu )\n/me textakce   ( Prošle zprávu, která bude informovat o tom, e jsi provedl nìjakou akci )\n/time   ( Zobrazí lokální a GMT èas ) \n\n\n"
+132, "Chat"
+133, "Data"
+134, "Pøipojuji se k serveru"
+135, "Pokouším se o spojení"
+136, "Provedeno"
+137, "Návrat do pøedchozího menu."
+138, "Auto ping"
+139, "Automaticky obnovit"
+140, "Podpora firewallu"
+141, "Zapnout podporu proxy"
+142, "Zapni tuto volbu, pokud je tvá sí vybavena firewallem èi proxy serverem."
+143, "Proxy adresa"
+}

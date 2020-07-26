@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49088, "Identifikátor hry nenalezen, nelze hostovat hru."
+49089, "Nahrát uloženou mapu."
+49090, "Varování"
+49091, "Kritická"
+49092, "Chyba sítì"
+49093, "Stisknutím tohoto tlaèítka vylouèíš zvoleného hráèe ze hry."
+49094, "Sada 'locale' pro tento poèítaè je neznámá. Pro hru bude použita standardní verze."
+49095, "Pøeteèení bufferu! Ètení > 512 bytù bez pøestávky!"
+49096, "Ze serveru nebylo získáno unikátní ID pro tuto hru!"
+49097, "Název kanálu"
+49098, "# na kanálu"
+49099, "Téma"
+49100, "Spojení úspìšnì dokonèeno."
+49101, "Spojení se nezdaøilo."
+49102, "Pøipojuji se k hostiteli..."
+49103, "Prosím èekej..."
+}

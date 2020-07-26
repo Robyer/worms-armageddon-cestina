@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+192, "Zruší všechny provedené zmìny"
+193, "Zrušit"
+194, "Superzbranì vypnuty"
+195, "Po zapnutí této volby budou všechny týmy zaèínat se svou speciální zbraní."
+196, "Speciální týmové zbranì zapnuty"
+197, "Vrátí tì do pøedchozího menu"
+198, "Zpìt"
+199, "Nastavuje množství nábojù v této zbrani na zaèátku hry"
+200, "Nastavuje sílu této zbranì"
+201, "Nastavuje tah, od kterého bude tato zbraò dostupná"
+202, "Nastavuje pravdìpodobnost výskytu této zbranì v bednì"
+203, "Èerva, který se bude pohybovat, volí hráè."
+204, "Èervi se pohybují v pøedem daném poøadí.."
+205, "Èervi se nemohou pohybovat ani skákat."
+206, "Èervi se pohybují i skáèou normálnì."
+207, "Speciální týmové zbranì vypnuty"
+}

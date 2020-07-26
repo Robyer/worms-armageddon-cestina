@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+272, "Levým kliknutím pøidáš èerva do týmu. Pravým kliknutím jej odebereš."
+273, "Zvolí spojence pro tento tým"
+274, "Nastaví zvýhodnìní èi znevýhodnìní pro tento tým."
+275, "Mapa"
+276, "Možnosti nastavení"
+277, "Zbranì"
+278, "Zjistí a upraví nastavení zbraní."
+279, "Zjistí a upraví herní volby."
+280, "Možnosti"
+281, "Uložit"
+282, "Uloží aktuální konfiguraci jako herní nastavení."
+283, "Smazat"
+284, "Smaže zvolené herní nastavení."
+285, "Energie všech èervù bude snížena na 1. (Klasický mód)."
+286, "Nastavuje množství energie, které bude mít každý èerv na zaèátku hry."
+287, "Nastavuje délku standardní hrací doby pøed aktivací Náhlé smrti."
+}

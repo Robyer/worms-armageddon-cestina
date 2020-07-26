@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+49120, "Okružní jízda"
+49121, "Snažíš se poslat zprávu nìkomu, kdo se právì nachází ve høe. Tento èlovìk ti bude moci odpovìdìt až po skonèení aktuální hry."
+49122, "Bezpeènostní selhání."
+49123, "Vzdálený server možná nepracuje."
+49124, "Byl jsi odpojen ze serveru, protože jsi odeslal pøíliš mnoho zpráv najednou (chyba zahlcení)."
+49125, "Základní trénink"
+49126, "Tento trénink je složen z jednoduchých úkolù, které vylepší tvé základní dovednosti.\n\nPokud uspìješ, budeš odmìnìn medailí, která ti umožní pøístup k misím.\n\nÈím lepší výsledek, tím více misí se ti zpøístupní."
+49127, "Házení granátem stupeò 1"
+49128, "Støelba z brokovnice"
+49129, "Støelba z bazuky stupeò 1"
+49130, "Lano stupeò 1"
+49131, "Házení granátem stupeò 2"
+49132, "Použití rány pìstí"
+49133, "Lano stupeò 2"
+49134, "Støelba z bazuky stupeò 2"
+49135, "Házení granátem stupeò 3"
+}

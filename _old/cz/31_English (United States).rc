@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+480, "Osobní informace"
+481, "Titul"
+482, "Køestní jméno"
+483, "Pøíjmení"
+484, "Adresa"
+485, "Telefon"
+486, "Pohlaví"
+487, "Vìk"
+488, "PSÈ"
+489, "Heslo"
+490, "Uživatelské jméno"
+491, "Heslo"
+492, "Tvé pohlaví (M/Ž)"
+493, "Tvá e-mailová adresa"
+494, "E-mailová adresa"
+495, "Poèet èervù v tomto týmu"
+}

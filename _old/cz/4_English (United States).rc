@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+48, "Nastaví hlasitost zvukových efektù."
+49, "Hlasitost zvukù"
+50, "Zobrazí panel systému Windows pro nastavení hlasitosti zvukù."
+51, "Test zvuku"
+52, "Test CD hudby"
+53, "Zpìt"
+54, "Smazat tým"
+55, "Zrušit"
+56, "OK"
+57, "Název týmu"
+58, "Èlenové týmu"
+59, "Musíš zadat heslo, nebo deaktivovat volbu hesla."
+60, "Povolený poèet hráèù je 2 až 16"
+61, "Minimální"
+62, "Maximální"
+63, "Jazykový filtr"
+}

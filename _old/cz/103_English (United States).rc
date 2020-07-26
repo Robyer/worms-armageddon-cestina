@@ -1,0 +1,19 @@
+STRINGTABLE
+{
+1632, "%s (%s) byl nejzodpovìdnìjším èervem.\n"
+1633, "Èervem, kterı se pøidal k temné stranì, byl %s (%s).\n"
+1634, "Ocenìní šastného spotøebitele získal %s (%s).\n"
+1635, "NASA zdraví %s (%s), kterı vyletìl %d vysoko.\n"
+1636, "Baseballová cena Babe Ruth náleí %s (%s).\n"
+1637, "Cenu doktora Dolittla získal %s (%s).\n"
+1638, "%s (%s) zmìnil barvu na podivnì lutou.\n"
+1639, "\n\nKonec %d kola\n\n\n"
+1640, "Èas kola: %01d:%02d:%02d\n"
+1641, "Celkovı herní èas: %01d:%02d:%02d\n\n"
+1642, "Nejnebezpeènìjším èervem byl: %s (%s)\n"
+1643, "Èervem tohoto kola je: %s (%s)\n\n"
+1644, "Nejvíce zabitıch jedním vıstøelem: %d\n"
+1645, "Èerv, kterı tuto støelu vypálil: %s (%s)\n\n"
+1646, "Nejvìtší škody jedním vıstøelem: %d\n"
+1647, "%s vítìzí v tomto kole.\n\n"
+}
