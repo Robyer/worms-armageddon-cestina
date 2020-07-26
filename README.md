@@ -7,8 +7,9 @@ Toto je čeština do hry Worms Armageddon, založená na původním překladu od
 * Češtiny pro starší verze hry (**3.6.28.0**, **3.6.29.0**, **3.6.30.0**, **3.6.31.0**) jsou dostupné [zde](http://old.robyer.cz/cestiny/worms-armageddon/) ve formě upraveného **exe souboru** hry.
 
 ### Stav překladu
-Čeština je dokončena z více než 80 %. Všechno důležité by mělo být přeloženo.
-Fonty hry nepodporují českou diakritiku. Překlad je sice psán s diakritikou, ale k použití ve hře je potřeba použít texty bez diakritiky.
+* Čeština je dokončena z více než 80 %. Všechno důležité by mělo být přeloženo.
+* Fonty hry nepodporují českou diakritiku. Překlad je sice psán s diakritikou, ale k použití ve hře je potřeba použít texty bez diakritiky.
+* **Brzy přibude možnost použití i české diakritiky přímo ve hře.**
 
 ### Instalace
 1. Stáhněte si ze sekce [Releases](../../releases) nejnovější verzi češtiny bez diakritiky (soubor `Czech.txt`).
@@ -19,3 +20,7 @@ Fonty hry nepodporují českou diakritiku. Překlad je sice psán s diakritikou,
 5. Spusťte hru, vejděte do nastavení a u volby `Language` vyberte `Czech`.
 
 **Pozn.:** Pokud ve složce `Languages` vidíte podsložku s jiným číslem verze, než jaká je uvedená výše, vložte soubor do ní (nevytvářejte si sami složku s jinou verzí). Čeština by měla fungovat i s lehce odlišnými verzemi.
+
+## Poděkování
+* **by-freon** - za rozfungování české diakritiky přímo ve hře
+* **PredatorV** - za další pomoc s překladem
