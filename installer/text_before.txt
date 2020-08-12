@@ -1,0 +1,32 @@
+Toto je èeština do hry Worms Armageddon, zaloená na pùvodním pøekladu od spoleènosti CD Projekt.
+
+Èeština je urèena pro verzi hry 3.8. Funguje jak pro CD verzi tak i pro oficiální verze dostupné na Steamu, GOG, apod.
+
+Nejnovìjší verze èeštiny je vdy dostupná na: https://github.com/robyer/worms-armageddon-cestina
+
+== INSTALÁTOR OBSAHUJE ==
+
+- èeské texty
+- upravené fonty pro podporu èeské diakritiky
+  - pro základní hru
+  - pro podporu SuperFrontendHD (WormKit modul)
+- èeskı hlas èervíkù
+- slovenskı hlas èervíkù, hymnu a vlajku
+
+== APLIKACE ÈEŠTINY ==
+
+- Po dokonèení instalace spuste hru, pøejdìte do nastavení (pravá dolní ikona) a zde vyberte v seznamu Language poloku Czech.
+
+Pozn.: Instalátor upravuje herní soubory s fonty pro podporu èeské diakritiky. Po kadé aktualizaci hry nebo doplòku SuperFrontendHD je tedy potøeba nainstalovat èeštinu znovu.
+
+== AUTOR ==
+
+Robert Pösel (Robyer)
+E-mail: robyer@seznam.cz
+Web: https://www.robyer.cz
+Donate: https://paypal.me/robyer
+
+== PODÌKOVÁNÍ ==
+
+by-freon - za rozfungování èeské diakritiky pøímo ve høe
+PredatorV - za další pomoc s pøekladem
