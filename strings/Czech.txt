@@ -1086,7 +1086,7 @@ MAINMENU_H_SYSTEM             "Přepne do menu nastavení."
 MAINMENU_QUIT                 "Konec"
 MAINMENU_H_QUIT               "Ukončí hru a vrátí tě do skutečného světa."
 CM_EXITGAME                   "Konec"
-CM_EXITMESSAGE                "Opravdu si přejete ukončit hru?"
+CM_EXITMESSAGE                "Opravdu chcete vypnout hru?" # ROB: This message is used in standard Windows dialog (in windowed mode) and can't work with diacritics.
 CM_EXITDISABLED               "Promiňte, teď hru ukončit nemůžete."
 
 # Training screen
