@@ -12,9 +12,16 @@ Toto je čeština do hry Worms Armageddon, založená na původním překladu od
 * Součástí instalátoru jsou i české a slovenské hlasy červíků, slovenská hymna a slovenská vlajka.
 
 ### Instalace
-1. Stáhněte si ze sekce [Releases](../../releases) nejnovější verzi instalátoru češtiny.
+
+#### a) Instalátor
+1. Stáhněte si ze sekce [Releases](../../releases) nejnovější verzi češtiny ve formě instalátoru.
 2. Spusťte instalátor a řiďte se pokyny.
    * Pozn.: Instalátor by měl automaticky nalézt cestu ke hře instalované přes Steam. Pro ostatní verze musíte cestu vybrat ručně.
+3. Spusťte hru, vejděte do nastavení (pravá spodní ikona) a v seznamu `Language` vyberte `Czech`.
+
+#### b) ZIP archiv
+1. Stáhněte si ze sekce [Releases](../../releases) nejnovější verzi češtiny ve formě ZIP archivu.
+2. Rozbalte ZIP archiv a soubory z rozbalené složky *Worms Armageddon* zkopírujte do složky, kde máte nainstalovanou hru. Potvrďte přepsání existujících souborů.
 3. Spusťte hru, vejděte do nastavení (pravá spodní ikona) a v seznamu `Language` vyberte `Czech`.
 
 ## Poděkování
