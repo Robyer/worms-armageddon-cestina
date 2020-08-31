@@ -36,7 +36,7 @@ Name: "czech"; MessagesFile: "compiler:Languages\Czech.isl"
 
 [Files]
 Source: "output\Czech.txt"; DestDir: "{app}\Data\User\Languages\{#WA_Version}"
-Source: "..\fonts\Worms Armageddon\*"; DestDir: "{app}"; Flags: recursesubdirs onlyifdestfileexists
+Source: "..\fonts\Worms Armageddon\*"; DestDir: "{app}"; Flags: recursesubdirs
 Source: "..\media\Worms Armageddon\*"; DestDir: "{app}"; Flags: recursesubdirs onlyifdoesntexist
 
 [Run]
@@ -50,9 +50,10 @@ begin
   if (PageId = wpSelectDir) then
   begin
     if (not FileExists(ExpandConstant('{app}\WA.exe'))) then begin
-      MsgBox('Prosím vyberte složku, ve které máte nainstalovanou hru Worms Armageddon.', mbError, MB_OK);
-      Result := False;
-      exit;
+      if MsgBox('Vybraná složka není správná (neobsahuje soubor WA.exe)!' + #13 + 'Pøejete si i pøesto instalovat èeštinu do vybrané složky?', mbError, MB_YESNO or MB_DEFBUTTON2) <> IDYES then begin
+        Result := False;
+        exit;
+      end;
     end;
   end;
 end;
