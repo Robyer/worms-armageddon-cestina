@@ -1,6 +1,6 @@
 Toto je èeština do hry Worms Armageddon, založená na pùvodním pøekladu od spoleènosti CD Projekt.
 
-Èeština je urèena pro verzi hry 3.8. Funguje jak pro CD verzi tak i pro oficiální verze dostupné na Steamu, GOG, apod.
+Èeština je urèena pro verzi hry 3.8.1. Funguje jak pro CD verzi tak i pro oficiální verze dostupné na Steamu, GOG, apod.
 
 Nejnovìjší verze èeštiny je vždy dostupná na: https://github.com/robyer/worms-armageddon-cestina
 

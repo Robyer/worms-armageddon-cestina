@@ -1,5 +1,5 @@
-#define WA_Version "3.8"
-#define CZ_Version "3.0"
+#define WA_Version "3.8.1"
+#define CZ_Version "3.1"
 
 [PreCompile]
 Name: "prepare.bat"; Flags: abortonerror cmdprompt

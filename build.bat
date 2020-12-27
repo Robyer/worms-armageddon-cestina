@@ -1,5 +1,5 @@
 @ECHO OFF
-SET "version=3.8"
+SET "version=3.8.1"
 
 REM Delete old output directory
 rmdir "output" /S /Q

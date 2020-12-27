@@ -3,7 +3,7 @@
 Toto je čeština do hry Worms Armageddon, založená na původním překladu od společnosti CD Projekt.
 
 * Čeština funguje jak pro CD verzi tak i pro oficiální verze dostupné na Steamu, GOG, apod.
-* Čeština je určena pro verzi hry **3.8**, která má jazykové soubory ve složce: `<složka_hry>/DATA/User/Languages/3.8`
+* Čeština je určena pro verzi hry **3.8.1**, která má jazykové soubory ve složce: `<složka_hry>/DATA/User/Languages/3.8.1`
 * Češtiny pro starší verze hry (**3.6.28.0**, **3.6.29.0**, **3.6.30.0**, **3.6.31.0**) jsou dostupné [zde](http://old.robyer.cz/cestiny/worms-armageddon/) ve formě upraveného **exe souboru** hry.
 
 ### Stav překladu

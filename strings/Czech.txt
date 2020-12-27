@@ -1,5 +1,5 @@
 ﻿Czech
-#version 3.8
+#version 3.8.1
 
 # Generic
 
@@ -2947,6 +2947,8 @@ START_SUGGEST_COMPATFLAGS
 START_SUGGEST_COMPATFLAGS_OK
 	"Nastavení kompatibility bylo uloženo.\nRestartujte W:A aby se změny projevily.\n\n"
 	"Pro lepší výkon zkuste použít \"Direct3D 9 (shader)\" v pokročilém nastavení, ale nemusí to fungovat na všech systémech."
+START_DISABLE_COMPATFLAGS     "Starší verze W:A nastavila režim kompatibility \1, ale později bylo zjištěno, že nepomáhá a dokonce zhoršuje výkon \2. Režim kompatibility byl nyní vypnut."  # \1="Windows 8-10", \2="DirectDraw"
+START_SWITCH_RENDERER         "Pro zlepšení výkonu a kompatibility s vaším operačním systémem bylo změněno nastavení grafického API hry Worms Armageddon z \1 na \2.\n\nV případě problémů můžete tuto volbu změnit na obrazovce pokročilého nastavení nebo použitím souborů ve složce Worms Armageddon\\Tweaks."  # \1="DirectDraw (32-bit)", \2="Direct3D 9 (shader)"
 START_GRAPHICS_LOAD_ERROR     "Inicializace front-endu selhala.\nNěkteré grafické soubory se nepodařilo načíst.\n\nZkus přeinstalovat hru."
 START_SOUND_LOAD_ERROR        "Inicializace zvuků pro front-end selhala.\nZkus přeinstalovat hru."
 START_WRONG_CD

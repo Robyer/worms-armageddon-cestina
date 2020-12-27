@@ -1,5 +1,5 @@
 ﻿English
-#version 3.8
+#version 3.8.1
 
 # Generic
 
@@ -2951,6 +2951,8 @@ START_SUGGEST_COMPATFLAGS
 START_SUGGEST_COMPATFLAGS_OK
 	"Compatibility flags have been set.\nRestart W:A for the settings to take effect.\n\n"
 	"For even better performance, try selecting \"Direct3D 9 (shader)\" on the Advanced Options screen, but it may not work on all systems."
+START_DISABLE_COMPATFLAGS     "An older version of W:A set a \1 compatibility flag, which has subsequently been determined to be unhelpful and in fact harmful to \2 performance. It has now been disabled."  # \1="Windows 8-10", \2="DirectDraw"
+START_SWITCH_RENDERER         "For improved performance and compatibility with your operating system, Worms Armageddon's graphics API has been changed from \1 to \2.\n\nIn case of problems, you can change this setting in the Advanced Options screen, or by using files in the Worms Armageddon\\Tweaks folder."  # \1="DirectDraw (32-bit)", \2="Direct3D 9 (shader)"
 START_GRAPHICS_LOAD_ERROR     "Front-end initialisation failure.\nSome graphic files failed to load.\n\nTry reinstalling the game."
 START_SOUND_LOAD_ERROR        "Front-end sound samples failed to load.\nTry reinstalling the game."
 START_WRONG_CD
