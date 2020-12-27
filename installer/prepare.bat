@@ -1,5 +1,7 @@
 @ECHO OFF
 
+mkdir "output"
+
 cd ../strings
 copy "Czech.txt" "../tools/Czech.txt"
 
